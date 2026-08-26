@@ -16,16 +16,10 @@ def load_remote_input_data():
         return []
 
 def format_match_time(date_str):
-    """
-    UTC সময়কে পার্স করে তার সাথে ৬ ঘণ্টা যোগ করে বাংলাদেশের লোকাল টাইম (BST) এ রূপান্তর করবে।
-    """
     try:
         cleaned_str = date_str.replace(" at ", " ").replace(" UTC", "").strip()
         dt = datetime.strptime(cleaned_str, "%b %d, %Y %I:%M %p")
-        
-        # UTC থেকে বাংলাদেশের সময় করতে ৬ ঘণ্টা যোগ করা হলো (UTC+6)
         bd_time = dt + timedelta(hours=6)
-        
         return bd_time.strftime("%Y-%m-%d %H:%M:%S")
     except Exception as e:
         print(f"Date formatting error for '{date_str}': {e}")
@@ -68,16 +62,13 @@ async def process_item(item, browser):
     event_name = item.get("event_name", "Unknown Event")
     multi_streaming = item.get("multi_streaming", "")
     raw_time = item.get("date_and_time", "")
-    
-    # এখানে এখন স্বয়ংক্রিয়ভাবে বাংলাদেশ টাইম কনভার্ট হয়ে যাবে
     formatted_time = format_match_time(raw_time)
 
-    formatted_parts = []
+    raw_links_info = []
 
     if "http" in multi_streaming:
-        print(f"Processing formatted links for: {event_name}...")
+        print(f"Processing links for: {event_name}...")
         
-        raw_links_info = []
         parts = multi_streaming.split(")")
         for part in parts:
             if ",," in part:
@@ -89,21 +80,35 @@ async def process_item(item, browser):
             elif part.strip().startswith("http"):
                 raw_links_info.append(("Link", part.strip()))
 
-        if raw_links_info:
-            tasks = [fetch_m3u8_link(url, browser) for label, url in raw_links_info]
-            results = await asyncio.gather(*tasks)
+    stream_link = "Stream links will be activated before 1 hr."
 
-            for i, captured_m3u8 in enumerate(results):
-                if captured_m3u8:
-                    label = raw_links_info[i][0]
-                    formatted_parts.append(f"{label},,{captured_m3u8}")
+    if raw_links_info:
+        tasks = [fetch_m3u8_link(url, browser) for label, url in raw_links_info]
+        results = await asyncio.gather(*tasks)
 
-    if formatted_parts:
-        stream_link = ",)".join(formatted_parts)
-        print(f"Successfully generated custom format with Bangladesh Time for: {event_name}")
+        captured_parts = []
+        for i, captured_m3u8 in enumerate(results):
+            if captured_m3u8:
+                label = raw_links_info[i][0]
+                # যদি লেবেল থাকে, তবে 'Label,,URL' ফরম্যাটে যুক্ত করা হবে
+                if label:
+                    captured_parts.append(f"{label},,{captured_m3u8}")
+                else:
+                    captured_parts.append(captured_m3u8)
+
+        if captured_parts:
+            # মূল ম্যাজিক: যদি সফলভাবে ক্যাপচার হওয়া লিংক মাত্র ১টি হয়, তবে কোনো কমা/লিস্ট ছাড়াই সরাসরি বসে যাবে।
+            # আর যদি ১টির বেশি লিংক সফলভাবে ক্যাপচার হয়, তবেই কেবল `,)` দিয়ে যুক্ত হবে।
+            if len(captured_parts) > 1:
+                stream_link = ",)".join(captured_parts)
+            else:
+                stream_link = captured_parts[0]
+            
+            print(f"Successfully generated streamLink (Total captured: {len(captured_parts)}) for: {event_name}")
+        else:
+            print(f"No .m3u8 found, using fallback text for: {event_name}")
     else:
-        stream_link = "Stream links will be activated before 1 hr."
-        print(f"No .m3u8 found, using fallback text for: {event_name}")
+        print(f"No http links found, using fallback text for: {event_name}")
 
     formatted_item = {
         "eventTitle": event_name,
@@ -134,7 +139,7 @@ async def main():
     with open("output.json", "w", encoding="utf-8") as f:
         json.dump(output_list, f, indent=4, ensure_ascii=False)
     
-    print("Output JSON successfully generated with Bangladesh Time!")
+    print("Output JSON successfully generated with smart single/multiple captured check!")
 
 if __name__ == "__main__":
     asyncio.run(main())
