@@ -68,7 +68,6 @@ async def process_item(item, browser):
     if "http" in multi_streaming:
         print(f"Processing formatted links for: {event_name}...")
         
-        # লিংক এবং লেবেল আলাদা করার লজিক (যেমন: Link 1,,URL)
         raw_links_info = []
         parts = multi_streaming.split(")")
         for part in parts:
@@ -82,20 +81,18 @@ async def process_item(item, browser):
                 raw_links_info.append(("Link", part.strip()))
 
         if raw_links_info:
-            # প্যারাレル বা একসাথে ট্যাব খুলে সবগুলোর .m3u8 বের করা
             tasks = [fetch_m3u8_link(url, browser) for label, url in raw_links_info]
             results = await asyncio.gather(*tasks)
 
-            # সফলভাবে ক্যাপচার হওয়া লিংকগুলোকে লেবেলসহ সাজানো
             for i, captured_m3u8 in enumerate(results):
                 if captured_m3u8:
                     label = raw_links_info[i][0]
                     formatted_parts.append(f"{label},,{captured_m3u8}")
 
-    # যদি এক বা একাধিক লিংক সফলভাবে ক্যাপচার হয়, তবে সেগুলোকে ) দিয়ে যুক্ত করা হবে
+    # এখানে ) এর পরিবর্তে `,)` দিয়ে লিংকগুলো যুক্ত করা হলো
     if formatted_parts:
-        stream_link = ")".join(formatted_parts)
-        print(f"Successfully generated custom format for: {event_name}")
+        stream_link = ",)".join(formatted_parts)
+        print(f"Successfully generated custom format with ,) for: {event_name}")
     else:
         stream_link = "Stream links will be activated before 1 hr."
         print(f"No .m3u8 found, using fallback text for: {event_name}")
@@ -129,7 +126,7 @@ async def main():
     with open("output.json", "w", encoding="utf-8") as f:
         json.dump(output_list, f, indent=4, ensure_ascii=False)
     
-    print("Output JSON successfully generated with exact custom format!")
+    print("Output JSON successfully generated with exact ,) format!")
 
 if __name__ == "__main__":
     asyncio.run(main())
