@@ -90,19 +90,22 @@ async def process_item(item, browser):
         for i, captured_m3u8 in enumerate(results):
             if captured_m3u8:
                 label = raw_links_info[i][0]
-                # যদি লেবেল থাকে, তবে 'Label,,URL' ফরম্যাটে যুক্ত করা হবে
                 if label:
-                    captured_parts.append(f"{label},,{captured_m3u8}")
+                    captured_parts.append((label, captured_m3u8))
                 else:
-                    captured_parts.append(captured_m3u8)
+                    captured_parts.append(("", captured_m3u8))
 
         if captured_parts:
-            # মূল ম্যাজিক: যদি সফলভাবে ক্যাপচার হওয়া লিংক মাত্র ১টি হয়, তবে কোনো কমা/লিস্ট ছাড়াই সরাসরি বসে যাবে।
-            # আর যদি ১টির বেশি লিংক সফলভাবে ক্যাপচার হয়, তবেই কেবল `,)` দিয়ে যুক্ত হবে।
+            # যদি সফলভাবে ক্যাপচার হওয়া লিংক মাত্র ১টি হয়, তবে কোনো লেবেল (Link1,,) থাকবে না, সরাসরি শুধু লিংক বসবে।
             if len(captured_parts) > 1:
-                stream_link = ",)".join(captured_parts)
+                formatted_list = []
+                for label, m3u8 in captured_parts:
+                    lbl = label if label else "Link"
+                    formatted_list.append(f"{lbl},,{m3u8}")
+                stream_link = ",)".join(formatted_list)
             else:
-                stream_link = captured_parts[0]
+                # মাত্র ১টি লিংক হলে শুধু ডাইরেক্ট m3u8 লিংক ও রেফারার বসবে
+                stream_link = captured_parts[0][1]
             
             print(f"Successfully generated streamLink (Total captured: {len(captured_parts)}) for: {event_name}")
         else:
@@ -139,7 +142,7 @@ async def main():
     with open("output.json", "w", encoding="utf-8") as f:
         json.dump(output_list, f, indent=4, ensure_ascii=False)
     
-    print("Output JSON successfully generated with smart single/multiple captured check!")
+    print("Output JSON successfully generated without unwanted labels for single captured link!")
 
 if __name__ == "__main__":
     asyncio.run(main())
