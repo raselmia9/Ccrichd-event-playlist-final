@@ -89,6 +89,8 @@ async def main():
     events = load_channels_from_github()
     if not events:
         print("No events found!")
+        with open("playlist.m3u", "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
         return
 
     target_links = []
@@ -112,7 +114,6 @@ async def main():
 
     if not target_links:
         print("No valid streaming URLs with links found in multi_streaming!")
-        # ফাইল মিসিং জনিত গিট এরর এড়াতে একটি খালি প্লেলিস্ট তৈরি করে রাখা হবে
         with open("playlist.m3u", "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
         return
@@ -149,7 +150,7 @@ async def main():
             else:
                 print(f"Failed: {full_name} (Link not found)")
 
-    # প্লেলিস্টটি আবশ্যই playlist.m3u ফাইলে সেভ হবে
+    # প্লেলিস্টটি playlist.m3u ফাইলে সেভ করা
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(playlist_content)
     
