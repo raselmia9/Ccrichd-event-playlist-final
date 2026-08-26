@@ -3,7 +3,7 @@ import json
 import urllib.request
 from playwright.async_api import async_playwright
 
-# ১. নতুন রিমোট টেস্ট লিংক থেকে ডাটা লোড করার ফাংশন
+# GitHub থেকে রিমোট JSON ডাটা লোড করা
 def load_channels_from_github():
     json_url = "https://raw.githubusercontent.com/raselmia9/Crichd-Live-Event-streaming-Link-Get/refs/heads/main/Test"
     try:
@@ -12,11 +12,29 @@ def load_channels_from_github():
                 data = response.read().decode("utf-8")
                 return json.loads(data)
     except Exception as e:
-        print(f"Error fetching JSON from GitHub: {e}")
+        print(f"Error fetching JSON: {e}")
     return []
 
-# ২. প্রতিটি লিংকের জন্য আলাদা ব্রাউজার ট্যাব ওপেন করে m3u8 বা ট্যাগ থেকে লিংক বের করার ফাংশন
-async def fetch_link_in_tab(browser, event_title, url, logo):
+# multi_streaming স্ট্রিং থেকে সাব-লিংকগুলো আলাদা করার ফাংশন
+def parse_multi_streaming(multi_str):
+    links = []
+    if not multi_str:
+        return links
+    
+    parts = multi_str.split(")")
+    for part in parts:
+        if ",," in part:
+            name_part, url_part = part.split(",,", 1)
+            links.append({
+                "sub_name": name_part.strip(),
+                "url": url_part.strip()
+            })
+    return links
+
+# প্রতিটি লিংকের জন্য আলাদা ব্রাউজার ট্যাব ওপেন করে m3u8 খুঁজে বের করার ফাংশন
+async def fetch_link_in_tab(browser, event_title, sub_name, url, logo):
+    full_name = f"{event_title} - {sub_name}" if sub_name else event_title
+    
     context = await browser.new_context()
     page = await context.new_page()
 
@@ -36,21 +54,17 @@ async def fetch_link_in_tab(browser, event_title, url, logo):
     page.on("request", handle_request)
 
     try:
-        # পেজ ভিজিট করা
         await page.goto(url, timeout=30000)
         
-        # আপনার নির্দেশনা অনুযায়ী: যদি রিকোয়েস্ট থেকে সরাসরি m3u8 না পাওয়া যায়, 
-        # তবে পেজের নিচের ট্যাগ থেকে লিংক খুঁজে বের করার লজিক এখানে কাজ করবে
+        # সর্বোচ্চ ১০ সেকেন্ড অপেক্ষা করা m3u8 পাওয়ার জন্য
         for _ in range(10):
             if m3u8_url:
                 break
             await asyncio.sleep(1)
 
-        # যদি রিকোয়েস্টে সরাসরি না ধরে, তবে পেজের ভেতরের নির্দিষ্ট ট্যাগ থেকে লিংক তোলার চেষ্টা
+        # যদি নেটওয়ার্কে না পাওয়া যায়, তবে পেজের ট্যাগ থেকে খোঁজা
         if not m3u8_url:
             try:
-                # উদাহরণস্বরূপ সবার নিচের ট্যাগ বা iframe/source ট্যাগ থেকে লিংক খোঁজা
-                # আপনি চাইলে নির্দিষ্ট সিলেক্টর এখানে বসাতে পারেন
                 element = await page.locator("video source, iframe, script").last.get_attribute("src")
                 if element and ".m3u8" in element:
                     m3u8_url = element
@@ -58,75 +72,77 @@ async def fetch_link_in_tab(browser, event_title, url, logo):
                 pass
 
     except Exception as e:
-        print(f"Error for {event_title}: {e}")
+        print(f"Error for {full_name}: {e}")
 
     await context.close()
 
     if m3u8_url:
         stream_link = f"{m3u8_url}|Referer={referer_url}"
-        return event_title, logo, stream_link
-    return event_title, logo, None
+        return full_name, logo, stream_link
+    return full_name, logo, None
 
 async def main():
     events = load_channels_from_github()
     if not events:
-        print("No events found in GitHub JSON file!")
+        print("No events found!")
         return
 
     target_links = []
-    
-    # ডেটা স্ট্রাকচার যদি ডিকশনারি বা লিস্ট হয় সে অনুযায়ী হ্যান্ডেল করা
     if isinstance(events, dict):
-        events = [events] # যদি সিঙ্গেল অবজেক্ট বা অন্য ফরম্যাট হয়
+        events = [events]
 
     for event in events:
-        event_name = event.get("event_name", event.get("name", "Live Event"))
-        logo = event.get("team1_logo", event.get("logo", ""))
-        url = event.get("url", "")
+        event_name = event.get("event_name", "Live Event")
+        logo = event.get("team1_logo", "")
+        multi_streaming = event.get("multi_streaming", "")
 
-        if url:
-            target_links.append({
-                "event_name": event_name,
-                "url": url,
-                "logo": logo
-            })
+        # multi_streaming ট্যাগ থেকে লিংকগুলো আলাদা করা
+        sub_links = parse_multi_streaming(multi_streaming)
+        for item in sub_links:
+            if item["url"]:
+                target_links.append({
+                    "event_name": event_name,
+                    "sub_name": item["sub_name"],
+                    "url": item["url"],
+                    "logo": logo
+                })
 
     if not target_links:
-        print("No valid streaming URLs found to process!")
+        print("No streaming URLs found in multi_streaming!")
         return
 
     print(f"Total {len(target_links)} links found. Processing with parallel tabs...")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-
         tasks = [
             fetch_link_in_tab(
                 browser, 
                 item["event_name"], 
+                item["sub_name"], 
                 item["url"], 
                 item["logo"]
             ) 
             for item in target_links
         ]
-
         results = await asyncio.gather(*tasks)
         await browser.close()
 
-    # স্ট্যান্ডার্ড M3U প্লেলিস্ট ফরম্যাটে ফাইল তৈরি করা
+    # M3U প্লেলিস্ট ফাইল তৈরি করা
     playlist_content = "#EXTM3U\n"
-    
     success_count = 0
-    for event_title, logo, stream_link in results:
-        if stream_link:
-            playlist_content += f'#EXTINF:-1 tvg-id="" tvg-name="{event_title}" tvg-logo="{logo}" group-title="Live Sports",{event_title}\n'
-            playlist_content += f"{stream_link}\n"
-            print(f"Success: {event_title}")
-            success_count += 1
-        else:
-            print(f"Failed: {event_title} (Link not found)")
+    
+    for item in results:
+        if item:
+            full_name, logo, stream_link = item
+            if stream_link:
+                playlist_content += f'#EXTINF:-1 tvg-id="" tvg-name="{full_name}" tvg-logo="{logo}" group-title="Live Sports",{full_name}\n'
+                playlist_content += f"{stream_link}\n"
+                print(f"Success: {full_name}")
+                success_count += 1
+            else:
+                print(f"Failed: {full_name} (Link not found)")
 
-    # প্লেলিস্টটি playlist.m3u ফাইলে সেভ করা
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(playlist_content)
     
