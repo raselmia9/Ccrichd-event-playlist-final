@@ -1,19 +1,18 @@
 import asyncio
 import json
-import aiohttp
+import urllib.request
 from playwright.async_api import async_playwright
 
-# GitHub থেকে রিমোট JSON ডাটা লোড করার ফাংশন
-async def load_channels_from_github():
+# GitHub থেকে রিমোট JSON ডাটা লোড করার ফাংশন (বিল্ট-ইন লাইব্রেরি দিয়ে)
+def load_channels_from_github():
     json_url = "https://raw.githubusercontent.com/raselmia9/Crichd-Live-Event-streaming-Link-Get/refs/heads/main/crichd_matches.json"
-    async with aiohttp.ClientSession() as session:
-        try:
-            async with session.get(json_url) as response:
-                if response.status == 200:
-                    text = await response.text()
-                    return json.loads(text)
-        except Exception as e:
-            print(f"Error fetching JSON from GitHub: {e}")
+    try:
+        with urllib.request.urlopen(json_url) as response:
+            if response.status == 200:
+                data = response.read().decode("utf-8")
+                return json.loads(data)
+    except Exception as e:
+        print(f"Error fetching JSON from GitHub: {e}")
     return []
 
 # মাল্টি-স্ট্রিমিং স্ট্রিং পার্স করে আলাদা নাম এবং ইউআরএল বের করার ফাংশন
@@ -36,11 +35,10 @@ def parse_multi_streaming(multi_str):
 async def fetch_link_in_tab(browser, event_title, sub_name, url, logo):
     full_name = f"{event_title} - {sub_name}"
     
-    # ব্রাউজারের ভেতর আলাদা একটি পেজ বা ট্যাব তৈরি করা
     context = await browser.new_context()
     page = await context.new_page()
 
-    # পেজের গতি বাড়ানোর জন্য অপ্রয়োজনীয় ফাইল (ইমেজ, অ্যাডস, সিএসএস) ব্লক করা
+    # পেজের গতি বাড়ানোর জন্য অপ্রয়োজনীয় ফাইল ব্লক করা
     await page.route("**/*.{png,jpg,jpeg,gif,css,svg}", lambda route: route.abort())
 
     m3u8_url = None
@@ -56,10 +54,8 @@ async def fetch_link_in_tab(browser, event_title, sub_name, url, logo):
     page.on("request", handle_request)
 
     try:
-        # পেজ ভিজিট করা
         await page.goto(url, timeout=30000)
         
-        # লিংক পাওয়ার জন্য সর্বোচ্চ ১০ সেকেন্ড অপেক্ষা করা (লুপের ভেতর দ্রুত চেক করবে)
         for _ in range(10):
             if m3u8_url:
                 break
@@ -68,7 +64,6 @@ async def fetch_link_in_tab(browser, event_title, sub_name, url, logo):
     except Exception as e:
         print(f"Error for {full_name}: {e}")
 
-    # কাজ শেষ হলে ট্যাব এবং কন্টেক্সট বন্ধ করে দেওয়া
     await context.close()
 
     if m3u8_url:
@@ -77,12 +72,12 @@ async def fetch_link_in_tab(browser, event_title, sub_name, url, logo):
     return full_name, logo, None
 
 async def main():
-    events = await load_channels_from_github()
+    # যেহেতু এটি সাধারণ ফাংশন, তাই সরাসরি কল করা হয়েছে
+    events = load_channels_from_github()
     if not events:
         print("No events found in GitHub JSON file!")
         return
 
-    # সব লিংকগুলো একসাথে লিস্টে সাজানো
     target_links = []
     for event in events:
         event_name = event.get("event_name", "Live Event")
@@ -106,10 +101,8 @@ async def main():
     print(f"Total {len(target_links)} links found. Launching browser for parallel tab processing...")
 
     async with async_playwright() as p:
-        # একটাই ব্রাউজার ইনস্ট্যান্স চালু করা হবে, যার ভেতর আলাদা আলাদা ট্যাবে কাজ চলবে
         browser = await p.chromium.launch(headless=True)
 
-        # সবগুলোর জন্য একসাথে টাস্ক তৈরি করা যাতে একই সাথে ট্যাবগুলো ওপেন হয়ে কাজ করতে পারে
         tasks = [
             fetch_link_in_tab(
                 browser, 
@@ -121,12 +114,9 @@ async def main():
             for item in target_links
         ]
 
-        # একসাথে সব ট্যাব প্রসেস করার জন্য asyncio.gather ব্যবহার করা হলো
         results = await asyncio.gather(*tasks)
-
         await browser.close()
 
-    # স্ট্যান্ডার্ড M3U প্লেলিস্ট ফরম্যাটে ফাইল তৈরি করা
     playlist_content = "#EXTM3U\n"
     
     success_count = 0
@@ -139,7 +129,6 @@ async def main():
         else:
             print(f"Failed: {full_name} (Link not found)")
 
-    # প্লেলিস্টটি playlist.m3u ফাইলে সেভ করা
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(playlist_content)
     
