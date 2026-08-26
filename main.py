@@ -1,6 +1,7 @@
 import asyncio
 import json
 import urllib.request
+from datetime import datetime
 from playwright.async_api import async_playwright
 
 def load_remote_input_data():
@@ -13,6 +14,25 @@ def load_remote_input_data():
     except Exception as e:
         print(f"Error fetching remote input data: {e}")
         return []
+
+def format_match_time(date_str):
+    """
+    ইনপুটের ডেট ফরম্যাট যেমন 'Aug 18, 2026 at 08:00 AM UTC' 
+    সেটিকে কনভার্ট করে '2026-08-18 08:00:00' ফরম্যাটে রূপান্তর করবে।
+    """
+    try:
+        # "at" এবং "UTC" অংশগুলো পরিষ্কার করে নেওয়া
+        cleaned_str = date_str.replace(" at ", " ").replace(" UTC", "").strip()
+        
+        # সাধারণত ইনপুটের ফরম্যাট অনুযায়ী পার্স করা (যেমন: Aug 18, 2026 08:00 AM)
+        dt = datetime.strptime(cleaned_str, "%b %d, %Y %I:%M %p")
+        
+        # কাঙ্ক্ষিত আউটপুট ফরম্যাটে রিটার্ন করা
+        return dt.strftime("%Y-%m-%d %H:%M:%S")
+    except Exception as e:
+        print(f"Date formatting error for '{date_str}': {e}")
+        # যদি কোনো কারণে কনভার্ট করতে না পারে, তবে আগেরটাই বা ডিফল্ট মান ফিরিয়ে দেবে
+        return date_str
 
 async def fetch_m3u8_link(page_url):
     async with async_playwright() as p:
@@ -70,9 +90,13 @@ async def main():
         stream_link = await fetch_m3u8_link(multi_streaming)
 
         if stream_link:
+            # টাইম ফরম্যাট পরিবর্তন করা
+            raw_time = item.get("date_and_time", "")
+            formatted_time = format_match_time(raw_time)
+
             formatted_item = {
                 "eventTitle": item.get("event_name"),
-                "matchTime": item.get("date_and_time"),
+                "matchTime": formatted_time,
                 "team1Logo": item.get("team1_logo"),
                 "team2Logo": item.get("team2_logo"),
                 "team1Title": item.get("team1_name"),
