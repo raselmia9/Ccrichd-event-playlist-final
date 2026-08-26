@@ -1,7 +1,7 @@
 import asyncio
 import json
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timedelta
 from playwright.async_api import async_playwright
 
 def load_remote_input_data():
@@ -16,10 +16,17 @@ def load_remote_input_data():
         return []
 
 def format_match_time(date_str):
+    """
+    UTC সময়কে পার্স করে তার সাথে ৬ ঘণ্টা যোগ করে বাংলাদেশের লোকাল টাইম (BST) এ রূপান্তর করবে।
+    """
     try:
         cleaned_str = date_str.replace(" at ", " ").replace(" UTC", "").strip()
         dt = datetime.strptime(cleaned_str, "%b %d, %Y %I:%M %p")
-        return dt.strftime("%Y-%m-%d %H:%M:%S")
+        
+        # UTC থেকে বাংলাদেশের সময় করতে ৬ ঘণ্টা যোগ করা হলো (UTC+6)
+        bd_time = dt + timedelta(hours=6)
+        
+        return bd_time.strftime("%Y-%m-%d %H:%M:%S")
     except Exception as e:
         print(f"Date formatting error for '{date_str}': {e}")
         return date_str
@@ -61,6 +68,8 @@ async def process_item(item, browser):
     event_name = item.get("event_name", "Unknown Event")
     multi_streaming = item.get("multi_streaming", "")
     raw_time = item.get("date_and_time", "")
+    
+    # এখানে এখন স্বয়ংক্রিয়ভাবে বাংলাদেশ টাইম কনভার্ট হয়ে যাবে
     formatted_time = format_match_time(raw_time)
 
     formatted_parts = []
@@ -89,10 +98,9 @@ async def process_item(item, browser):
                     label = raw_links_info[i][0]
                     formatted_parts.append(f"{label},,{captured_m3u8}")
 
-    # এখানে ) এর পরিবর্তে `,)` দিয়ে লিংকগুলো যুক্ত করা হলো
     if formatted_parts:
         stream_link = ",)".join(formatted_parts)
-        print(f"Successfully generated custom format with ,) for: {event_name}")
+        print(f"Successfully generated custom format with Bangladesh Time for: {event_name}")
     else:
         stream_link = "Stream links will be activated before 1 hr."
         print(f"No .m3u8 found, using fallback text for: {event_name}")
@@ -126,7 +134,7 @@ async def main():
     with open("output.json", "w", encoding="utf-8") as f:
         json.dump(output_list, f, indent=4, ensure_ascii=False)
     
-    print("Output JSON successfully generated with exact ,) format!")
+    print("Output JSON successfully generated with Bangladesh Time!")
 
 if __name__ == "__main__":
     asyncio.run(main())
