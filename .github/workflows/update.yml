@@ -2,11 +2,11 @@ name: Auto Update JSON Playlist
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # প্রতি ৩০ মিনিট পরপর রান হবে
-  workflow_dispatch:        # ম্যানুয়ালি রান করার বাটন পাওয়ার জন্য
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write  # গিটহাবে ফাইল কমিট করার অনুমতি
+  contents: write
 
 jobs:
   update-data:
