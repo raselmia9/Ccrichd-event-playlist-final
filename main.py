@@ -1,50 +1,95 @@
+import asyncio
 import json
 import urllib.request
+from playwright.async_api import async_playwright
 
-def main():
-    json_url = "https://raw.githubusercontent.com/raselmia9/Crichd-Live-Event-streaming-Link-Get/refs/heads/main/Test"
-    
+def load_remote_input_data():
+    input_url = "https://raw.githubusercontent.com/raselmia9/Crichd-Live-Event-streaming-Link-Get/refs/heads/main/Test"
     try:
-        with urllib.request.urlopen(json_url) as response:
-            if response.status == 200:
-                data = json.loads(response.read().decode("utf-8"))
-            else:
-                print("Failed to fetch JSON data.")
-                return
+        print(f"Fetching input data from: {input_url}")
+        with urllib.request.urlopen(input_url) as response:
+            data = response.read().decode('utf-8')
+            return json.loads(data)
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error fetching remote input data: {e}")
+        return []
+
+async def fetch_m3u8_link(page_url):
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        context = await browser.new_context()
+        page = await context.new_page()
+
+        # গতি বাড়ানোর জন্য ইমেজ ও সিএসএস ব্লক করা
+        await page.route("**/*.{png,jpg,jpeg,gif,css,svg}", lambda route: route.abort())
+
+        m3u8_url = None
+        referer_url = "https://crichd.pk/"
+
+        def handle_request(request):
+            nonlocal m3u8_url, referer_url
+            if ".m3u8" in request.url:
+                m3u8_url = request.url
+                headers = request.headers
+                referer_url = headers.get("referer", "https://crichd.pk/")
+
+        page.on("request", handle_request)
+
+        try:
+            await page.goto(page_url, timeout=30000)
+            for _ in range(10):
+                if m3u8_url:
+                    break
+                await asyncio.sleep(1)
+        except Exception as e:
+            print(f"Error loading page {page_url}: {e}")
+
+        await browser.close()
+
+        if m3u8_url:
+            return f"{m3u8_url}|Referer={referer_url}"
+        return None
+
+async def main():
+    items = load_remote_input_data()
+    if not items:
+        print("No items found or failed to load input URL!")
         return
 
-    if isinstance(data, dict):
-        data = [data]
+    output_list = []
 
-    # সাধারণ লিস্ট তৈরি করা (ইভেন্টের নাম এবং লিংক সহ)
-    output_content = "=== Live Events & Links List ===\n\n"
-    count = 0
-
-    for item in data:
-        event_name = item.get("event_name", "Live Event")
+    for item in items:
         multi_streaming = item.get("multi_streaming", "")
+        
+        # যদি লিংক না থেকে টেক্সট থাকে, তবে সেটি স্কিপ করবে
+        if not multi_streaming.startswith("http"):
+            print(f"Skipping (No link): {item.get('event_name')}")
+            continue
 
-        output_content += f"Event: {event_name}\n"
+        print(f"Fetching link for: {item.get('event_name')}...")
+        stream_link = await fetch_m3u8_link(multi_streaming)
 
-        if multi_streaming:
-            parts = multi_streaming.split(")")
-            for part in parts:
-                if ",," in part:
-                    name_part, url_part = part.split(",,", 1)
-                    sub_name = name_part.strip()
-                    url = url_part.strip()
-                    if url.startswith("http"):
-                        output_content += f"  - {sub_name}: {url}\n"
-                        count += 1
-        output_content += "-" * 40 + "\n"
+        if stream_link:
+            formatted_item = {
+                "eventTitle": item.get("event_name"),
+                "matchTime": item.get("date_and_time"),
+                "team1Logo": item.get("team1_logo"),
+                "team2Logo": item.get("team2_logo"),
+                "team1Title": item.get("team1_name"),
+                "team2Title": item.get("team2_name"),
+                "streamLink": stream_link,
+                "isHot": True
+            }
+            output_list.append(formatted_item)
+            print(f"Success: {item.get('event_name')}")
+        else:
+            print(f"Failed to extract stream link for: {item.get('event_name')}")
 
-    # সাধারণ লিস্টটি 'links.txt' ফাইলে সেভ করা
-    with open("links.txt", "w", encoding="utf-8") as f:
-        f.write(output_content)
-
-    print(f"Successfully generated simple list with {count} links. Saved as 'links.txt'.")
+    # ফাইনাল আউটপুট জেসন ফাইলে সেভ করা
+    with open("output.json", "w", encoding="utf-8") as f:
+        json.dump(output_list, f, indent=4, ensure_ascii=False)
+    
+    print("Output JSON generated successfully as 'output.json'!")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
