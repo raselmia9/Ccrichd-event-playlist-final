@@ -25,9 +25,6 @@ def format_match_time(date_str):
         return date_str
 
 async def fetch_m3u8_link(page_url, browser):
-    """
-    প্রতিটি লিংকের জন্য আলাদা নতুন কনটেক্সট বা ট্যাব খুলে সুপার-ফাস্ট .m3u8 লিংক ক্যাপচার করবে।
-    """
     context = await browser.new_context()
     page = await context.new_page()
 
@@ -66,32 +63,39 @@ async def process_item(item, browser):
     raw_time = item.get("date_and_time", "")
     formatted_time = format_match_time(raw_time)
 
-    captured_links = []
+    formatted_parts = []
 
     if "http" in multi_streaming:
-        print(f"Processing all links concurrently for: {event_name}...")
+        print(f"Processing formatted links for: {event_name}...")
         
-        urls = []
+        # লিংক এবং লেবেল আলাদা করার লজিক (যেমন: Link 1,,URL)
+        raw_links_info = []
         parts = multi_streaming.split(")")
         for part in parts:
             if ",," in part:
-                url_part = part.split(",,")[1].strip()
-                if url_part.startswith("http"):
-                    urls.append(url_part)
+                sub_parts = part.split(",,")
+                label = sub_parts[0].strip()
+                url = sub_parts[1].strip()
+                if url.startswith("http"):
+                    raw_links_info.append((label, url))
             elif part.strip().startswith("http"):
-                urls.append(part.strip())
+                raw_links_info.append(("Link", part.strip()))
 
-        if urls:
-            # একসাথে সবকটি লিংকের জন্য আলাদা ট্যাব বা টাস্ক রান করা (Super Fast)
-            link_tasks = [fetch_m3u8_link(url, browser) for url in urls]
-            results = await asyncio.gather(*link_tasks)
-            
-            # সফলভাবে ক্যাপচার হওয়া লিংকগুলো ফিল্টার করে রাখা
-            captured_links = [res for res in results if res is not None]
+        if raw_links_info:
+            # প্যারাレル বা একসাথে ট্যাব খুলে সবগুলোর .m3u8 বের করা
+            tasks = [fetch_m3u8_link(url, browser) for label, url in raw_links_info]
+            results = await asyncio.gather(*tasks)
 
-    if captured_links:
-        stream_link = " # ".join(captured_links)
-        print(f"Successfully captured {len(captured_links)} links for: {event_name}")
+            # সফলভাবে ক্যাপচার হওয়া লিংকগুলোকে লেবেলসহ সাজানো
+            for i, captured_m3u8 in enumerate(results):
+                if captured_m3u8:
+                    label = raw_links_info[i][0]
+                    formatted_parts.append(f"{label},,{captured_m3u8}")
+
+    # যদি এক বা একাধিক লিংক সফলভাবে ক্যাপচার হয়, তবে সেগুলোকে ) দিয়ে যুক্ত করা হবে
+    if formatted_parts:
+        stream_link = ")".join(formatted_parts)
+        print(f"Successfully generated custom format for: {event_name}")
     else:
         stream_link = "Stream links will be activated before 1 hr."
         print(f"No .m3u8 found, using fallback text for: {event_name}")
@@ -117,7 +121,6 @@ async def main():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         
-        # সমস্ত ইভেন্ট একসাথে প্রসেস করা
         tasks = [process_item(item, browser) for item in items]
         output_list = await asyncio.gather(*tasks)
 
@@ -126,7 +129,7 @@ async def main():
     with open("output.json", "w", encoding="utf-8") as f:
         json.dump(output_list, f, indent=4, ensure_ascii=False)
     
-    print("Output JSON successfully generated with super-fast parallel processing!")
+    print("Output JSON successfully generated with exact custom format!")
 
 if __name__ == "__main__":
     asyncio.run(main())
