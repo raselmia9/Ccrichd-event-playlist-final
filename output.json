@@ -1,32 +1,372 @@
 [
     {
         "eventTitle": "FIH Hockey World Cup",
-        "matchTime": "Aug 18, 2026 at 08:00 AM UTC",
+        "matchTime": "2026-08-18 08:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
         "team1Title": "Hockey World Cup 2026FIH Hockey World Cup",
         "team2Title": "Hockey World Cup 2026",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=vFaoJokOQ43qD3gdoRKITg&expires=1787761030&ch=spch8&s=c423fdc2072985dff67cc6acf5a990ab|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=38Ril6fMf-IaNRWmbnv8dQ&expires=1787764130&ch=spch8&s=f932e36b6254659ff9cdc009a224bc63|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
         "eventTitle": "Snooker",
-        "matchTime": "Aug 24, 2026 at 06:00 AM UTC",
+        "matchTime": "2026-08-24 06:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Wuhan OpenSnooker",
         "team2Title": "Wuhan Open",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=-oYhNfaLStHxJUEtB60Q5g&expires=1787761034&ch=bbtsvp2&s=df5f2cd3cf5f74d6cb66e87fbf9fc641|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=Yog693Xf1o3xuzU-tpNntQ&expires=1787764131&ch=bbtsvp2&s=f89e17e90566b5f59d4cdb887ecb12a2|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
         "eventTitle": "ATP Tour",
-        "matchTime": "Aug 24, 2026 at 02:00 PM UTC",
+        "matchTime": "2026-08-24 14:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=5GvPP3QXoMgcRowEHbvDgw&expires=1787761038&ch=dadoskyten&s=767f8feabe07f4ea53bcfccf7d566e88|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=4fknwzuAIiYlVKA4dy8atQ&expires=1787764130&ch=dadoskyten&s=24137ee117cc3acea4db443799136307|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-08-26 18:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "team1Title": "Tottenham HotspurCharlton Athletic",
+        "team2Title": "Tottenham Hotspur",
+        "streamLink": "https://crichd.pk/charlie/tottenham-hotspur-vs-charlton-athletic/1453",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-08-26 18:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
+        "team1Title": "Newcastle UnitedWest Bromwich Albion",
+        "team2Title": "Newcastle United",
+        "streamLink": "https://crichd.pk/charlie/newcastle-united-vs-west-brom/1451",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-08-26 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team1Title": "Preston North EndEverton",
+        "team2Title": "Preston North End",
+        "streamLink": "https://crichd.pk/charlie/preston-vs-everton/1449",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-08-27 18:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
+        "team1Title": "ChelseaLuton Town",
+        "team2Title": "Chelsea",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-08-27 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
+        "team1Title": "FulhamAFC Wimbledon",
+        "team2Title": "Fulham",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-08-28 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "team1Title": "Birmingham CityWrexham",
+        "team2Title": "Birmingham City",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-26 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team1Title": "Real MadridReal Sociedad",
+        "team2Title": "Real Madrid",
+        "streamLink": "https://crichd.pk/charlie/real-madrid-vs-real-sociedad/1454",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-27 18:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team1Title": "Celta de VigoOsasuna",
+        "team2Title": "Celta de Vigo",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-27 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1Title": "FC BarcelonaAthletic Club",
+        "team2Title": "FC Barcelona",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-28 17:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team1Title": "Racing SantanderElche CF",
+        "team2Title": "Racing Santander",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-28 19:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team1Title": "Deportivo AlavésVillarreal",
+        "team2Title": "Deportivo Alavés",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-29 15:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team1Title": "Real BetisLevante",
+        "team2Title": "Real Betis",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-29 17:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team1Title": "EspanyolReal Sociedad",
+        "team2Title": "Espanyol",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-29 19:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team1Title": "SevillaAtlético Madrid",
+        "team2Title": "Sevilla",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-08-26 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "team1Title": "Levski SofiaAEK Athens",
+        "team2Title": "Levski Sofia",
+        "streamLink": "https://crichd.pk/charlie/le-vs-ki-sofia-vs-aek-athens/1446",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-08-26 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "team1Title": "Dinamo ZagrebViking",
+        "team2Title": "Dinamo Zagreb",
+        "streamLink": "https://crichd.pk/charlie/dinamo-zagreb-vs-viking/1448",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-08-26 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celje/logo.webp",
+        "team1Title": "Slovan BratislavaCelje",
+        "team2Title": "Slovan Bratislava",
+        "streamLink": "https://crichd.pk/charlie/slovan-bratislava-vs-celje/1445",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-08-26 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "team1Title": "FenerbahçeOlympique Lyonnais",
+        "team2Title": "Fenerbahçe",
+        "streamLink": "https://crichd.pk/charlie/fenerbahce-vs-lyon/1447",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-08-27 16:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
+        "team1Title": "UEFA Champions League DrawChampions League",
+        "team2Title": "UEFA Champions League Draw",
+        "streamLink": "https://crichd.pk/charlie/uefa-champions-league-draw/1460",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-08-28 07:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team1Title": "MotoGP Grand Prix of AragonMotoGP",
+        "team2Title": "MotoGP Grand Prix of Aragon",
+        "streamLink": "https://crichd.pk/charlie/motogp-grand-prix-of-aragon/1461",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-08-28 18:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team1Title": "Bayern MünchenStuttgart",
+        "team2Title": "Bayern München",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-08-28 18:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "team1Title": "PSGLille",
+        "team2Title": "PSG",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-08-28 18:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team1Title": "AC MilanVenezia",
+        "team2Title": "AC Milan",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-08-29 16:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team1Title": "SassuoloTorino",
+        "team2Title": "Sassuolo",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-08-29 18:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team1Title": "JuventusParma",
+        "team2Title": "Juventus",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-08-28 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team1Title": "Manchester CityCrystal Palace",
+        "team2Title": "Manchester City",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-08-29 11:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team1Title": "Nottingham Forest",
+        "team2Title": "Team 2",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-08-29 14:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "team1Title": "Hull CityCoventry City",
+        "team2Title": "Hull City",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-08-29 14:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team1Title": "EvertonAFC Bournemouth",
+        "team2Title": "Everton",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-08-29 16:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team1Title": "Tottenham HotspurNewcastle United",
+        "team2Title": "Tottenham Hotspur",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-08-30 13:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team1Title": "ChelseaBrighton & Hove Albion",
+        "team2Title": "Chelsea",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-08-30 13:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "team1Title": "BrentfordLeeds United",
+        "team2Title": "Brentford",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-08-30 13:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team1Title": "FulhamSunderland",
+        "team2Title": "Fulham",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-08-28 19:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rio-ave/logo.webp",
+        "team1Title": "Sporting CPRio Ave",
+        "team2Title": "Sporting CP",
+        "streamLink": "Stream links will be activated before 1 hr of starting time.",
         "isHot": true
     }
 ]
