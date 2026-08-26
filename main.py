@@ -16,9 +16,6 @@ def load_remote_input_data():
         return []
 
 def format_match_time(date_str):
-    """
-    ইনপুটের ডেট ফরম্যাট কনভার্ট করে 'YYYY-MM-DD HH:MM:SS' ফরম্যাটে রূপান্তর করবে।
-    """
     try:
         cleaned_str = date_str.replace(" at ", " ").replace(" UTC", "").strip()
         dt = datetime.strptime(cleaned_str, "%b %d, %Y %I:%M %p")
@@ -28,6 +25,9 @@ def format_match_time(date_str):
         return date_str
 
 async def fetch_m3u8_link(page_url, browser):
+    """
+    প্রতিটি লিংকের জন্য আলাদা নতুন কনটেক্সট বা ট্যাব খুলে সুপার-ফাস্ট .m3u8 লিংক ক্যাপচার করবে।
+    """
     context = await browser.new_context()
     page = await context.new_page()
 
@@ -46,8 +46,8 @@ async def fetch_m3u8_link(page_url, browser):
     page.on("request", handle_request)
 
     try:
-        await page.goto(page_url, timeout=25000)
-        for _ in range(8):
+        await page.goto(page_url, timeout=20000)
+        for _ in range(6):
             if m3u8_url:
                 break
             await asyncio.sleep(1)
@@ -66,12 +66,10 @@ async def process_item(item, browser):
     raw_time = item.get("date_and_time", "")
     formatted_time = format_match_time(raw_time)
 
-    # ডিফল্টভাবে ইনপুটের মূল টেক্সট বা লিংকটি সেট করে রাখা হলো (ফলব্যাক)
-    stream_link = multi_streaming
+    captured_links = []
 
-    # যদি ইনপুটে http লিংক বা কাস্টম মাল্টি-লিংক ফরম্যাট থাকে
     if "http" in multi_streaming:
-        print(f"Processing links for: {event_name}...")
+        print(f"Processing all links concurrently for: {event_name}...")
         
         urls = []
         parts = multi_streaming.split(")")
@@ -83,22 +81,20 @@ async def process_item(item, browser):
             elif part.strip().startswith("http"):
                 urls.append(part.strip())
 
-        captured_link = None
-        for url in urls:
-            print(f"Fetching URL: {url}")
-            captured = await fetch_m3u8_link(url, browser)
-            if captured:
-                captured_link = captured
-                break  # সফলভাবে .m3u8 লিংক পেলে লুপ থামিয়ে দেবে
+        if urls:
+            # একসাথে সবকটি লিংকের জন্য আলাদা ট্যাব বা টাস্ক রান করা (Super Fast)
+            link_tasks = [fetch_m3u8_link(url, browser) for url in urls]
+            results = await asyncio.gather(*link_tasks)
+            
+            # সফলভাবে ক্যাপচার হওয়া লিংকগুলো ফিল্টার করে রাখা
+            captured_links = [res for res in results if res is not None]
 
-        if captured_link:
-            stream_link = captured_link
-            print(f"Success captured for: {event_name}")
-        else:
-            # .m3u8 লিংক না পাওয়া গেলে ইনপুটের মূল টেক্সট বা নোটিশটিই থেকে যাবে
-            print(f"No .m3u8 found, keeping original text/fallback for: {event_name}")
+    if captured_links:
+        stream_link = " # ".join(captured_links)
+        print(f"Successfully captured {len(captured_links)} links for: {event_name}")
     else:
-        print(f"Plain text found, keeping text for: {event_name}")
+        stream_link = "Stream links will be activated before 1 hr."
+        print(f"No .m3u8 found, using fallback text for: {event_name}")
 
     formatted_item = {
         "eventTitle": event_name,
@@ -121,7 +117,7 @@ async def main():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         
-        # কনকারেন্ট বা মাল্টি-ব্রাউজিংয়ের মাধ্যমে একসাথে সমস্ত আইটেম প্রসেস করা
+        # সমস্ত ইভেন্ট একসাথে প্রসেস করা
         tasks = [process_item(item, browser) for item in items]
         output_list = await asyncio.gather(*tasks)
 
@@ -130,7 +126,7 @@ async def main():
     with open("output.json", "w", encoding="utf-8") as f:
         json.dump(output_list, f, indent=4, ensure_ascii=False)
     
-    print("Output JSON successfully generated with all items!")
+    print("Output JSON successfully generated with super-fast parallel processing!")
 
 if __name__ == "__main__":
     asyncio.run(main())
