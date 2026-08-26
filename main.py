@@ -15,7 +15,7 @@ def load_channels_from_github():
         print(f"Error fetching JSON: {e}")
     return []
 
-# multi_streaming স্ট্রিং থেকে সাব-লিংকগুলো আলাদা করার ফাংশন
+# multi_streaming স্ট্রিং পার্স করার সময় শুধুমাত্র যেগুলোতে ভ্যালিড লিংক আছে সেগুলোকে ফিল্টার করা
 def parse_multi_streaming(multi_str):
     links = []
     if not multi_str:
@@ -25,10 +25,14 @@ def parse_multi_streaming(multi_str):
     for part in parts:
         if ",," in part:
             name_part, url_part = part.split(",,", 1)
-            links.append({
-                "sub_name": name_part.strip(),
-                "url": url_part.strip()
-            })
+            clean_url = url_part.strip()
+            
+            # শর্ত: শুধু সেই আইটেমগুলোই নেওয়া হবে যেগুলোর ভেতর http বা https দিয়ে শুরু হওয়া ভ্যালিড লিংক আছে
+            if clean_url.startswith("http://") or clean_url.startswith("https://"):
+                links.append({
+                    "sub_name": name_part.strip(),
+                    "url": clean_url
+                })
     return links
 
 # প্রতিটি লিংকের জন্য আলাদা ব্রাউজার ট্যাব ওপেন করে m3u8 খুঁজে বের করার ফাংশন
@@ -96,22 +100,24 @@ async def main():
         logo = event.get("team1_logo", "")
         multi_streaming = event.get("multi_streaming", "")
 
-        # multi_streaming ট্যাগ থেকে লিংকগুলো আলাদা করা
+        # শুধুমাত্র ভ্যালিড লিংকযুক্ত সাব-লিংকগুলো ফিল্টার করে নেওয়া
         sub_links = parse_multi_streaming(multi_streaming)
         for item in sub_links:
-            if item["url"]:
-                target_links.append({
-                    "event_name": event_name,
-                    "sub_name": item["sub_name"],
-                    "url": item["url"],
-                    "logo": logo
-                })
+            target_links.append({
+                "event_name": event_name,
+                "sub_name": item["sub_name"],
+                "url": item["url"],
+                "logo": logo
+            })
 
     if not target_links:
-        print("No streaming URLs found in multi_streaming!")
+        print("No valid streaming URLs with links found in multi_streaming!")
+        # ফাইল মিসিং জনিত গিট এরর এড়াতে একটি খালি প্লেলিস্ট তৈরি করে রাখা হবে
+        with open("playlist.m3u", "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
         return
 
-    print(f"Total {len(target_links)} links found. Processing with parallel tabs...")
+    print(f"Total {len(target_links)} valid links found. Processing with parallel tabs...")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -143,6 +149,7 @@ async def main():
             else:
                 print(f"Failed: {full_name} (Link not found)")
 
+    # প্লেলিস্টটি আবশ্যই playlist.m3u ফাইলে সেভ হবে
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(playlist_content)
     
