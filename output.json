@@ -1,0 +1,32 @@
+[
+    {
+        "eventTitle": "FIH Hockey World Cup",
+        "matchTime": "Aug 18, 2026 at 08:00 AM UTC",
+        "team1Logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
+        "team1Title": "Hockey World Cup 2026FIH Hockey World Cup",
+        "team2Title": "Hockey World Cup 2026",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=vFaoJokOQ43qD3gdoRKITg&expires=1787761030&ch=spch8&s=c423fdc2072985dff67cc6acf5a990ab|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Snooker",
+        "matchTime": "Aug 24, 2026 at 06:00 AM UTC",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team1Title": "Wuhan OpenSnooker",
+        "team2Title": "Wuhan Open",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=-oYhNfaLStHxJUEtB60Q5g&expires=1787761034&ch=bbtsvp2&s=df5f2cd3cf5f74d6cb66e87fbf9fc641|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "ATP Tour",
+        "matchTime": "Aug 24, 2026 at 02:00 PM UTC",
+        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team1Title": "US Open 2026ATP Tour",
+        "team2Title": "US Open 2026",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=5GvPP3QXoMgcRowEHbvDgw&expires=1787761038&ch=dadoskyten&s=767f8feabe07f4ea53bcfccf7d566e88|Referer=https://bhalocast.pro/",
+        "isHot": true
+    }
+]
