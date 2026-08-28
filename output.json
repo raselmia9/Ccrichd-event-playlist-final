@@ -1,12 +1,12 @@
 [
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "FIH Hockey World Cup",
+        "matchTime": "2026-08-18 14:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
         "team1Title": "Hockey World Cup 2026FIH Hockey World Cup",
         "team2Title": "Hockey World Cup 2026",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=2N6_FY2USxXSSEaUuz2kmA&expires=1787936319&ch=spch8&s=d1ff62ea4ae1fce4b3da72fb5617b6a7|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=fvdBV85JKa8m2VPKqUzX4A&expires=1787936318&ch=spch9&s=abbb2947a0861a3d47c24748c291e999|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Wuhan OpenSnooker",
         "team2Title": "Wuhan Open",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=0ki1bxMzWl09vxrUAkopkw&expires=1787892826&ch=bbtsvp2&s=b47294250df6d7f5a2b53bd5bcef8f14|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=gte8tnc3Yf5YSzE7WqLklQ&expires=1787892826&ch=bbtsip1&s=60baad28d8c943432363aacaa9fbf375|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=KZer5uEQPTKkd56XkJRG-w&expires=1787936319&ch=bbtsvp2&s=4306b5ca6094ac2b0a4480e1ee0f7985|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=0VyU-nLh68_PkiAMm7jI-g&expires=1787936319&ch=bbtsip1&s=0d830aa6b40f1f15228e08cc95044fad|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,17 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=4ic3ui4tD3HbWhAkjgQ5_g&expires=1787892825&ch=dadoskyten&s=e1121ca2145161beb64324036e49b38a|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=BtAmQkmEF2DkDRRclTgZtw&expires=1787892826&ch=spch11&s=e47a90630bc97d4867ab5420ad82d1e3|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=NrT0YTigwb8JGH34LL38gQ&expires=1787892824&ch=dadoskymoxo&s=a5158229bb064adbf6771447baec6602|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=015vCbx7dz0HuWyTHVL1-Q&expires=1787892825&ch=dadosky1&s=41bb54dd50fdadcdb249e9a0b4de8ce0|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-08-27 22:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
-        "team1Title": "UEFA Champions League DrawChampions League",
-        "team2Title": "UEFA Champions League Draw",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=vdBUYIYGhw7HBSIilPnqWg&expires=1787936319&ch=dadoskyten&s=073796818f37145e3c2907eaf2c2f298|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=A8NPZMFWdS9jTtglw4h-qg&expires=1787936318&ch=spch11&s=bdff9c78338b6d85abe7c78f09765940|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=hMrCbsB3xBG9N3lCVNAKeQ&expires=1787936318&ch=dadoskymoxo&s=5fea407a829cb17673c9bb19245c82dd|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=bSYb-JGU4ploi1hP3WMtpw&expires=1787936319&ch=dadosky1&s=98b8fee4013df62d4fb2f91db078a814|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -50,6 +40,26 @@
         "isHot": true
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-08-28 00:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
+        "team1Title": "ChelseaLuton Town",
+        "team2Title": "Chelsea",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-08-28 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
+        "team1Title": "FulhamAFC Wimbledon",
+        "team2Title": "Fulham",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-08-28 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
@@ -57,6 +67,16 @@
         "team1Title": "FC BarcelonaAthletic Club",
         "team2Title": "FC Barcelona",
         "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-08-28 13:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team1Title": "MotoGP Grand Prix of AragonMotoGP",
+        "team2Title": "MotoGP Grand Prix of Aragon",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=B8mFRYkIppFJj68XzXefSg&expires=1787936319&ch=bbtsvp2&s=72d06490a46b273b4b707f31f111fe6d|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -120,42 +140,22 @@
         "isHot": true
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-08-28 00:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
-        "team1Title": "ChelseaLuton Town",
-        "team2Title": "Chelsea",
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-30 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team1Title": "Deportivo La CoruñaValencia",
+        "team2Title": "Deportivo La Coruña",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-08-28 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
-        "team1Title": "FulhamAFC Wimbledon",
-        "team2Title": "Fulham",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-08-29 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team1Title": "Birmingham CityWrexham",
-        "team2Title": "Birmingham City",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MotoGP",
-        "matchTime": "2026-08-28 13:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team1Title": "MotoGP Grand Prix of AragonMotoGP",
-        "team2Title": "MotoGP Grand Prix of Aragon",
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-08-31 01:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1Title": "Celta de VigoAthletic Club",
+        "team2Title": "Celta de Vigo",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -170,8 +170,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-08-29 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
         "team1Title": "PSGLille",
@@ -210,8 +210,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-08-31 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
         "team1Title": "Inter MilanCagliari",
@@ -296,6 +296,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "team1Title": "FulhamSunderland",
         "team2Title": "Fulham",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-08-29 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "team1Title": "Birmingham CityWrexham",
+        "team2Title": "Birmingham City",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
