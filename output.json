@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
         "team1Title": "Hockey World Cup 2026FIH Hockey World Cup",
         "team2Title": "Hockey World Cup 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=64oiIulTmL3u_TqpDO_T1Q&expires=1788052624&ch=spch8&s=4238e1ec711a9c282bfffa4aa87d1016|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=h2jyaGJxrS09UYkdI2oekQ&expires=1788052624&ch=spch9&s=141744112fdf5e1954cde9f595b924d6|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=bTtyaggN6lshcvExKDKFUA&expires=1788065061&ch=spch8&s=3ae47b805738b5085d827a4c591bda84|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=77Vnv_fO0yfXAIZhY77LOw&expires=1788065061&ch=spch9&s=75f00b177b6479b9ceed9a1b4b1eefcd|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=opKoHQdXvdxJT6cIsTpAIg&expires=1788052624&ch=dadoskyten&s=144cbf881736aad78a44fa0363985bcd|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=Wim0p-JkYguYc58_Mz-G-g&expires=1788052624&ch=spch11&s=9bc74856bd056f64b0dbbb70ea6aff75|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=41xnSlERkQKddHIKhKj6gQ&expires=1788052624&ch=dadoskymoxo&s=41b5698140adecd08f6041146b3dbb35|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=QnrQQ1R3e8sKVQUkP0Jqiw&expires=1788052624&ch=dadosky1&s=fd3409ada97e84b1b7496598bcafea24|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=J89IRPHuEjg5eKQ502AwvQ&expires=1788065061&ch=dadoskyten&s=10e40a00b737df0e0ac0b726e77b48f5|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=rC6xbGj9izOx2ho_-V9F3A&expires=1788065061&ch=spch11&s=09b650c8d1c8072ba5e14c7b56083fc6|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=eHxC5AXAcohaVQN75HxZMA&expires=1788065061&ch=dadoskymoxo&s=6a1e86993fce442a71d599efb9bde513|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=zGAGb5sAZXbu2uIgDax5lg&expires=1788065061&ch=dadosky1&s=f829147be5509ab853dc038d761f7163|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,17 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team1Title": "MotoGP Grand Prix of AragonMotoGP",
         "team2Title": "MotoGP Grand Prix of Aragon",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=LcKW4JwNrYgrlbjiabF7Qw&expires=1788052624&ch=bbtsvp2&s=75a6ca056fb29e97e46e29bfcb3361bf|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-08-30 01:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team1Title": "SevillaAtlético Madrid",
-        "team2Title": "Sevilla",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=ombVFrDB-VQeEuFEuPakig&expires=1788065061&ch=bbtsvp2&s=5dd1c1da8867480815aa48c8ef70a5d0|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
