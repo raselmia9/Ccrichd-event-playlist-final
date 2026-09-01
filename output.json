@@ -1,22 +1,12 @@
 [
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-01 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1Title": "ArsenalAston Villa",
-        "team2Title": "Arsenal",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-08-24 20:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=imqmYA7FNdfEzagyYOMBhw&expires=1788226091&ch=dadoskyten&s=688b0850df682b80d43fb6e396c3a2ea|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=XLLVQoXZ_T0APqZrPxrYpA&expires=1788226091&ch=spch11&s=4c7ca13f0afe1a7bfce5aad8531fd4b2|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=msp9sRxLjvxPXji8a-rNkA&expires=1788226091&ch=dadoskymoxo&s=333baa4bd054643401a28eca77a7f839|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=ihXCcZlYMXitOYhTUViviA&expires=1788226090&ch=dadosky1&s=d2f48af404eb16cb48e629394c9279ea|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=RdZ7mlFx_FBzGIC2b6j0_w&expires=1788243628&ch=dadoskyten&s=a6b771a1732c11640281a9fff78d9e23|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=V7s5n3OfFn5xB5FEiaIMaA&expires=1788243628&ch=spch11&s=a67b5d9f0142f9e09e4c6c85d3d7e22f|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=nuH8IVzFkjNObbupGpNH4A&expires=1788243628&ch=dadoskymoxo&s=99078d94eccb6e19434b4ee04dc7ad0d|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=WsnlA9UyhzkAoxCG-Bkq4w&expires=1788243628&ch=dadosky1&s=f97aec39736c2f567928c52db7eeba76|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,67 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "British OpenSnooker",
         "team2Title": "British Open",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=x5NC6jCZvuPOXYPuJG0H8g&expires=1788226091&ch=spch6&s=f3cb670181c3c5f9debc573b723c06f8|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-08-31 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team1Title": "AS RomaLecce",
-        "team2Title": "AS Roma",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-08-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team1Title": "GetafeOsasuna",
-        "team2Title": "Getafe",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-01 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "team1Title": "AtalantaBologna",
-        "team2Title": "Atalanta",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-01 01:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team1Title": "FC BarcelonaRayo Vallecano",
-        "team2Title": "FC Barcelona",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-04 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team1Title": "Celta de VigoReal Sociedad",
-        "team2Title": "Celta de Vigo",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-05 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team1Title": "Real MadridReal Betis",
-        "team2Title": "Real Madrid",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=CfuEBZCuEZHlTj4vnrBsVg&expires=1788243628&ch=spch6&s=1a4095832229a0aaff163f32516f832a|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -126,6 +56,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
         "team1Title": "Al HilalAl Ahli",
         "team2Title": "Al Hilal",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-04 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team1Title": "Celta de VigoReal Sociedad",
+        "team2Title": "Celta de Vigo",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-05 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team1Title": "Real MadridReal Betis",
+        "team2Title": "Real Madrid",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
