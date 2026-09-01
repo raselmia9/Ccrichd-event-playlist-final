@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=RdZ7mlFx_FBzGIC2b6j0_w&expires=1788243628&ch=dadoskyten&s=a6b771a1732c11640281a9fff78d9e23|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=V7s5n3OfFn5xB5FEiaIMaA&expires=1788243628&ch=spch11&s=a67b5d9f0142f9e09e4c6c85d3d7e22f|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=nuH8IVzFkjNObbupGpNH4A&expires=1788243628&ch=dadoskymoxo&s=99078d94eccb6e19434b4ee04dc7ad0d|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=WsnlA9UyhzkAoxCG-Bkq4w&expires=1788243628&ch=dadosky1&s=f97aec39736c2f567928c52db7eeba76|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=yAU1XubDoMmijcFDa9Z0zQ&expires=1788261104&ch=dadoskyten&s=27e994609e63bc8097ea97d7dd1765e0|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=ATr5sI9CXB51K8kludzVVw&expires=1788261104&ch=spch11&s=df5be70e6c8137b0393dfd110937fa90|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=9bb-lxq7RWnlzT-aqaWlKA&expires=1788261103&ch=dadoskymoxo&s=cc53d4b3fe1c9c6709a3c15b03119332|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=WvYDh0VRsiDxdsBmqr_Xig&expires=1788261104&ch=dadosky1&s=acda8cab22913941c5d18022e563d3a5|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "British OpenSnooker",
         "team2Title": "British Open",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=CfuEBZCuEZHlTj4vnrBsVg&expires=1788243628&ch=spch6&s=1a4095832229a0aaff163f32516f832a|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=rNQnx_Hl6mWYyMkgDmY5fw&expires=1788261102&ch=spch6&s=6526febcfb9a465adf65590aec6214e9|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -40,12 +40,82 @@
         "isHot": true
     },
     {
+        "eventTitle": "Coppa Italia",
+        "matchTime": "2026-09-02 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "team1Title": "SassuoloFrosinone Calcio",
+        "team2Title": "Sassuolo",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Coppa Italia",
+        "matchTime": "2026-09-02 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "team1Title": "VeneziaUdinese",
+        "team2Title": "Venezia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-02 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team1Title": "West Ham UnitedWolverhampton Wanderers",
+        "team2Title": "West Ham United",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-02 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "team1Title": "Millwall FCWrexham",
+        "team2Title": "Millwall FC",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-02 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
         "team1Title": "Stoke CityNorwich City",
         "team2Title": "Stoke City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-03 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "team1Title": "Burnley FCMiddlesbrough",
+        "team2Title": "Burnley FC",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-09-02 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hebc-hamburg/logo.webp",
+        "team1Title": "Borussia DortmundHEBC Hamburg",
+        "team2Title": "Borussia Dortmund",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-09-03 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osnabruck/logo.webp",
+        "team1Title": "Bayern MünchenOsnabrück",
+        "team2Title": "Bayern München",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
