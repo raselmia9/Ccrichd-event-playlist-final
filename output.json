@@ -1,12 +1,42 @@
 [
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-01 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team1Title": "ArsenalAston Villa",
+        "team2Title": "Arsenal",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-08-24 20:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=n0YroKrkL9sziuQmCLcwVQ&expires=1788214160&ch=dadoskyten&s=a6bdcd14518701671258481b17a08a3a|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=oVNsVgI89Pyroagcp1xRtA&expires=1788214160&ch=spch11&s=ab4e66c2357310613a9bc62a322ab435|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=SEdzICtiN8susXqP8io2_g&expires=1788214161&ch=dadoskymoxo&s=be6b6e8a5651d3022853348323ef6bbe|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=jRpPJA0HJSC_i6BAblgGwQ&expires=1788214160&ch=dadosky1&s=85fa21819b50d512cbc4ddfb058925f1|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=imqmYA7FNdfEzagyYOMBhw&expires=1788226091&ch=dadoskyten&s=688b0850df682b80d43fb6e396c3a2ea|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=XLLVQoXZ_T0APqZrPxrYpA&expires=1788226091&ch=spch11&s=4c7ca13f0afe1a7bfce5aad8531fd4b2|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=msp9sRxLjvxPXji8a-rNkA&expires=1788226091&ch=dadoskymoxo&s=333baa4bd054643401a28eca77a7f839|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=ihXCcZlYMXitOYhTUViviA&expires=1788226090&ch=dadosky1&s=d2f48af404eb16cb48e629394c9279ea|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Snooker",
+        "matchTime": "2026-08-31 18:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team1Title": "British OpenSnooker",
+        "team2Title": "British Open",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=x5NC6jCZvuPOXYPuJG0H8g&expires=1788226091&ch=spch6&s=f3cb670181c3c5f9debc573b723c06f8|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-08-31 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team1Title": "AS RomaLecce",
+        "team2Title": "AS Roma",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -16,7 +46,17 @@
         "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "team1Title": "GetafeOsasuna",
         "team2Title": "Getafe",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=AbTY412beomwfGYmrLmiuQ&expires=1788214159&ch=viaplaysp1&s=808a02cf44be4d885fc7d5789cd960fd|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=2JDGlIQAPhuRAyYJRL-mfA&expires=1788214160&ch=spch1&s=74cead11f30e9f7fe4b40aaee38a202f|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/yt19.m3u8?md5=YENQJuTi6KGyGNDlhkC3gg&expires=1788214160&ch=yt19&s=78b16c3c62a9fa5369f736c911a813f3|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/yt34.m3u8?md5=FXPYVOFI-FiOi6t5sIrGZQ&expires=1788214160&ch=yt34&s=28965d80135195837978f7d3047397d8|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-01 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team1Title": "AtalantaBologna",
+        "team2Title": "Atalanta",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -26,7 +66,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
         "team1Title": "FC BarcelonaRayo Vallecano",
         "team2Title": "FC Barcelona",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=0eaAdZ2B6yECh5UocqVpKA&expires=1788214160&ch=viaplaysp1&s=905c7516e125e5919110dd7f434e5a73|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=IrN-KkTP8T9GZxKNoBm9hQ&expires=1788214160&ch=spch2&s=de0eb6bb0d95e6cc75584d80499bb01f|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=IyE-HxDLfPuodCk3Talbrg&expires=1788214160&ch=daznlaliga&s=b324acbdd213854f52b729e9d82bfb9f|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/yt34.m3u8?md5=r_ugabO4d3xogoPJjUDXcA&expires=1788214160&ch=yt34&s=9eb66ee5ceb5bd9abe74da9925a0c906|Referer=https://bhalocast.pro/,)Link5,,https://dz5.bhalocast.pro:7059/hls/dazn2pt.m3u8?md5=Dht0z82uLrk5SHuOD3iVrw&expires=1788214159&ch=dazn2pt&s=68ba9bc0c57a3ecd84f56ba2ec9ee84a|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -50,13 +90,43 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-01 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1Title": "ArsenalAston Villa",
-        "team2Title": "Arsenal",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=IcKwz0EMFCtOLqRpP60vYg&expires=1788214159&ch=dadoskypormi&s=0c18a5a9b72e1c46c258bab6bf0aeb56|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/epl01.m3u8?md5=cxzz_ErhlltPNLNNfHQqRA&expires=1788214160&ch=epl01&s=08f6ddd7e76bbc86847ffbc96fbeb4b1|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=QRThKdIK71GITYJWaDR-UQ&expires=1788214160&ch=dadosky1&s=868d9cc81dd177089be699a2e69bc919|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/spch78.m3u8?md5=mQkoqZ7Ye811G3HmAF_0Vw&expires=1788214159&ch=spch78&s=3cc2ae6c801e5e02acec630dc2f94ff4|Referer=https://bhalocast.pro/,)Link5,,https://dz5.bhalocast.pro:7059/hls/dazn1.m3u8?md5=EqSAzFh_ON2OWfamkaFL3A&expires=1788214158&ch=dazn1&s=d199680ad48540d66a1298acad90d010|Referer=https://bhalocast.pro/,)Link6,,https://dz5.bhalocast.pro:7059/hls/dazn1pt.m3u8?md5=u0fbf92phf-MeYNyLqVZDg&expires=1788214160&ch=dazn1pt&s=f7c5723bab2001e69f657128174470bf|Referer=https://bhalocast.pro/",
+        "eventTitle": "Coppa Italia",
+        "matchTime": "2026-09-01 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/cremonese/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team1Title": "CremoneseParma",
+        "team2Title": "Cremonese",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Coppa Italia",
+        "matchTime": "2026-09-02 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team1Title": "TorinoMonza",
+        "team2Title": "Torino",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-02 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
+        "team1Title": "Stoke CityNorwich City",
+        "team2Title": "Stoke City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Saudi Pro League",
+        "matchTime": "2026-09-02 05:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "team1Title": "Al HilalAl Ahli",
+        "team2Title": "Al Hilal",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
