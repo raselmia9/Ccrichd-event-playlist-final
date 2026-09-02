@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=kc6MBvUo5_JFJS3GdrXr4g&expires=1788314084&ch=dadoskyten&s=fe15eb14740420b3058d5f325da846d9|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=zKIcIPOgjpFomXz3AWZhow&expires=1788314084&ch=spch11&s=6da03894cfc52998b4b7fc382d9f7090|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=dMe_y8Fzs8C9hKcmCMep8g&expires=1788314084&ch=dadoskymoxo&s=1dba944f9c7cec8a2d7c55da42bc425a|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=Zl-0fOzb3sslfh-xDk8VRA&expires=1788314084&ch=dadosky1&s=d8538e1aefc33a6a62e912d6e7000edc|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=xZBuVNJYbsEEVQnMBs7Rfg&expires=1788330072&ch=dadoskyten&s=6d8ba480a10c0eb6b901dbc149712d8a|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=SSy5Q1TN_6hYI4ykizHchA&expires=1788330072&ch=spch11&s=bc1f994d71766754456704027ff0a876|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=SbGGLLiI3Mg79hlCwdVfGQ&expires=1788330072&ch=dadoskymoxo&s=ccd5e2f0f26a418d4efa10f4e87976a9|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=dLMqYCGWDJkeGXDrf4IbZw&expires=1788330072&ch=dadosky1&s=4c2234d73a2e92a1fed563d1f40bffac|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "British OpenSnooker",
         "team2Title": "British Open",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=OGB4It8eOG8S9tlQETOMbg&expires=1788314084&ch=spch6&s=b20e2212ac1c788f10aba4bcde102f3a|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=G1I5A0oAVp6r0ic0VMc0dg&expires=1788330072&ch=spch6&s=47bcfdbb4ca39930102c441d673a2779|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,6 +46,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/osnabruck/logo.webp",
         "team1Title": "Bayern MünchenOsnabrück",
         "team2Title": "Bayern München",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-03 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "team1Title": "Millwall FCWrexham",
+        "team2Title": "Millwall FC",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
