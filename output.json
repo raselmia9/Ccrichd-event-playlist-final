@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=aDQdNFVKq2xAjczTm2BliA&expires=1788307357&ch=dadoskyten&s=047d6c75d10af7aa1d276474cc1e82e5|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=kQqh8aDHkcGS00tfD3BB1g&expires=1788307359&ch=spch11&s=a002b4f87e91564151801a008393e5ac|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=IUME77Kc7q65aO4QOTSuVg&expires=1788307359&ch=dadoskymoxo&s=69709e7cd885a85600659ff8ee018c43|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=ulhHJj0dxH0EVmqZMOnwNw&expires=1788307357&ch=dadosky1&s=54e82c4af4e400a9381b28ca37f5c191|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=kc6MBvUo5_JFJS3GdrXr4g&expires=1788314084&ch=dadoskyten&s=fe15eb14740420b3058d5f325da846d9|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=zKIcIPOgjpFomXz3AWZhow&expires=1788314084&ch=spch11&s=6da03894cfc52998b4b7fc382d9f7090|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=dMe_y8Fzs8C9hKcmCMep8g&expires=1788314084&ch=dadoskymoxo&s=1dba944f9c7cec8a2d7c55da42bc425a|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=Zl-0fOzb3sslfh-xDk8VRA&expires=1788314084&ch=dadosky1&s=d8538e1aefc33a6a62e912d6e7000edc|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,67 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "British OpenSnooker",
         "team2Title": "British Open",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=1codRyngxMbjOibM-chZvg&expires=1788307359&ch=spch6&s=dab0d1cf6c90b07371275f8b20f01221|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-02 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "team1Title": "West Ham UnitedWolverhampton Wanderers",
-        "team2Title": "West Ham United",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=Tr53Vjv2Evbt7MZYuXaXnw&expires=1788307359&ch=dadoskyare&s=3fe50dd95253cae58274221d90b239e6|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=02lwLOBz66vm8mtaj2VScw&expires=1788307359&ch=spch40&s=32b77978d15add415f11efcab9c5b0b8|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "DFB Pokal",
-        "matchTime": "2026-09-02 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hebc-hamburg/logo.webp",
-        "team1Title": "Borussia DortmundHEBC Hamburg",
-        "team2Title": "Borussia Dortmund",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=Gicu0SvcaxsS7zpFF627Sg&expires=1788307359&ch=spch2&s=c8bc4b1bee3d814c13a8df2203933628|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-02 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team1Title": "Millwall FCWrexham",
-        "team2Title": "Millwall FC",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-02 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team1Title": "TorinoMonza",
-        "team2Title": "Torino",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=cDKT97oXmfz3eG2t_OcX6Q&expires=1788307359&ch=viaplaysp1&s=50c3fc63831b14c4385b3362a3b5fd8a|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=hgZIri-QA1fu60NuEA_Z6g&expires=1788307359&ch=spch10&s=04d890c23d6e7aa73b3b3ffd6494d815|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/yt54.m3u8?md5=DnHhU23aKSlnZYkJ0OL9wQ&expires=1788307359&ch=yt54&s=443d2477537f96dc3c71e0d77955b530|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-02 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
-        "team1Title": "Stoke CityNorwich City",
-        "team2Title": "Stoke City",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=EexXm7Y-ZBWnqxc6BxkyCQ&expires=1788307359&ch=dadoskyfob&s=830eeb717f6859d501d992c37a475645|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=r81AGvd38plSdcMVMo2NRA&expires=1788307359&ch=dadosky1&s=1404a9c752edf0f241c7f20c33cd6d9e|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Saudi Pro League",
-        "matchTime": "2026-09-02 05:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
-        "team1Title": "Al HilalAl Ahli",
-        "team2Title": "Al Hilal",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=OGB4It8eOG8S9tlQETOMbg&expires=1788314084&ch=spch6&s=b20e2212ac1c788f10aba4bcde102f3a|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
