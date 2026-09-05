@@ -1,42 +1,12 @@
 [
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-05 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team1Title": "Real MadridReal Betis",
-        "team2Title": "Real Madrid",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-05 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team1Title": "Ipswich Town",
-        "team2Title": "Team 2",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-05 01:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "team1Title": "PSGAS Monaco",
-        "team2Title": "PSG",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-08-24 20:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=uM1T2YgagYZcgJDog-FvWQ&expires=1788568534&ch=dadoskyten&s=d445eb1407373b9938602431aba33bd7|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=83oqn87GN9C6FSdfmd4XvA&expires=1788568534&ch=spch11&s=2300e4927fd050ec3eda6875bceada46|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=pDlgvmSapBtqgLnefqPwOQ&expires=1788568534&ch=dadoskymoxo&s=352cb8668d7ef8a2dcce50411522075e|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=_v0gxwiPu9SH2WAED40zWQ&expires=1788568534&ch=dadosky1&s=b285cdd0fdacb1b263d0764aab7138ee|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=brYIO-cDZwFjY_WLu9nWdw&expires=1788574811&ch=dadoskyten&s=197602e5899cd0cfa91d04f7691eac89|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=RWM28N4ZMWEncjM4W8fCYQ&expires=1788574811&ch=spch11&s=7457753837b8969071e969935c43bc1b|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=5dqWtnfosDrzkvaGu7-XKw&expires=1788574811&ch=dadoskymoxo&s=f0c0daf91f5bf491f2755e42a5ad276d|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=TfTo_rVaFWi3HX0mwxxLvg&expires=1788574811&ch=dadosky1&s=959aee51b31136b09a08a51eb4b7ee4a|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "British OpenSnooker",
         "team2Title": "British Open",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=w_0zdK77r0ekOZpyN8x43A&expires=1788568534&ch=spch6&s=9143ecd2e457fa145b01eb7657bdbd4e|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=hM_N8TY_OIWqX8P4WWY8zQ&expires=1788574811&ch=spch6&s=792fceef5b2d8a51ba6b6e30fa182b23|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -56,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Omega European MastersPGA Tour",
         "team2Title": "Omega European Masters",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=sfVdd9ftDoVyowmuKsGE1g&expires=1788568534&ch=dadoskygo&s=cf2ca48a9f66911cc4315a71f5f8bbd6|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=sZH2IDkE9_Kw-knZxMKOtw&expires=1788574811&ch=dadoskygo&s=42bda2aeeaa19445ca1b1377d38c3849|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -66,27 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team1Title": "F1 Italian Grand PrixFormula 1",
         "team2Title": "F1 Italian Grand Prix",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=YLXl69iJq3PBMbrTxpwkEQ&expires=1788568534&ch=dadoskyf17&s=c7a5b067cbcf84432edfc634066ccc48|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch17.m3u8?md5=86t5e1dU01zdaqV6Tf0-sw&expires=1788568534&ch=spch17&s=5e357fe063a09d579c28274ae1e2739c|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznf1.m3u8?md5=wDHH-7BdgXIXyowYxrfJqQ&expires=1788568534&ch=daznf1&s=52a3db2082aac221f37fb5b52271e98f|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-05 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team1Title": "ComoGenoa",
-        "team2Title": "Como",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-09-05 01:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "team1Title": "PortoMoreirense",
-        "team2Title": "Porto",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=a3QE8IPr9wEh0q4CHeTvWA&expires=1788568534&ch=spch41&s=668781e1175a43f6a8e033c10c3004be|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=wUR1KhFTiu1qajTwTAEo1w&expires=1788574811&ch=dadoskyf17&s=c71c84c542a4d6edca9bebc4b421455c|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch17.m3u8?md5=VBylBzgV1a4rghcLB_0z4A&expires=1788574811&ch=spch17&s=de28d12ceb8ee955d751a13550172dbd|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznf1.m3u8?md5=RI1b0PA5UyG3JFhtCx_XXA&expires=1788574811&ch=daznf1&s=96a31ba9d071be946e360cdc91664172|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
