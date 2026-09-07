@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=t8VtGzjKG85KLsEKzalh5g&expires=1788737886&ch=dadoskyten&s=514a449094eecdaab757d12eec7d8ebe|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=PRgoGKQ82mvojS7YcU4Ieg&expires=1788737886&ch=spch11&s=e3d79e330bc03b185ae4453c617b97df|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=NAsRga0zEHUhjgXnms1veA&expires=1788737886&ch=dadoskyare&s=4d26c6cf478ec2f8437ab3260a592bcb|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=Y5DCltnc8tSpXkFGnmbBrg&expires=1788737886&ch=dadosky1&s=3b164390271aa101d689a97b298ce0aa|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=vihaNlSteihSZqbi-nvrzw&expires=1788744021&ch=dadoskyten&s=42703f43680bf4cbeb5af8173a3e0f2d|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=5OeFY5zdhzgjMmb5dqwgDw&expires=1788744021&ch=spch11&s=33a7e1eb2639c445549d2a2399871ff6|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=dXGXLPB0xid38wax2IVdZg&expires=1788744021&ch=dadoskyare&s=c72f28fd2f155d23cb068fbb163e4882|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=YY1ehloDbA0O3f0SQNoD1w&expires=1788744021&ch=dadosky1&s=dcabe1c1f86dc3b2c2908b9dfb5f3568|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,17 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "British OpenSnooker",
         "team2Title": "British Open",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=3SiQeyUjF1-dtOe-uR-d3w&expires=1788737887&ch=spch6&s=25e8503afceebc748f5f3bae7791bff5|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MotorSports",
-        "matchTime": "2026-09-05 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
-        "team1Title": "IndyCar Monterey Grand PrixMotorSports",
-        "team2Title": "IndyCar Monterey Grand Prix",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=VfdeZKGq6rYTYpWQkbLmlA&expires=1788737886&ch=dadoskymoxo&s=16649b11d365ffcb1cb0234f03503d4e|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=UKISvHaUcnB5bX_mB82D4w&expires=1788737886&ch=dadoskyf17&s=11206d8dd70a50448698376daec60294|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=lP1f7zMw8AyXuy9kRHCFhw&expires=1788744021&ch=spch6&s=82e52f7edf20f2d83f7061b1ee1b3dc4|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
