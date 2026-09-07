@@ -6,7 +6,17 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=auIXugnguzg_7kQRk21q7w&expires=1788796178&ch=dadoskyten&s=5689ee360e8bd962ce35a6dace0c7b7c|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=-YmHBlZVbOLLnXbDUh7jWw&expires=1788796178&ch=spch11&s=7ab1d6c99d82d43497146eefa53c9ad1|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=qy9NgI5gpltxS_ObuImXtQ&expires=1788796178&ch=dadoskyare&s=44642bb72abf6f25e2b214519b10e7a5|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=h7uZ15W38xiHS6kdDEBxVg&expires=1788796178&ch=dadosky1&s=8f754472531c09e50f8a542277d9b30a|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=s4Vu4t15_2FZRhQPxx4Atg&expires=1788811791&ch=dadoskyten&s=5d0c76f365824fdc134fba7aed4434d7|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=CmCaANqnWXc82VXJn7-IrA&expires=1788811792&ch=spch11&s=c15368581b6c20740eeb3a7f46167cb0|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=xcTbu5Jt7Mchpy0JpSAQfQ&expires=1788811792&ch=dadoskyare&s=e8aad14e58ef72f9b4a95c2c0e2678ab|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=nkAW1MtsUTkKjFePApvgHw&expires=1788811792&ch=dadosky1&s=07061b6528d61492a502564612b8d26c|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-07 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team1Title": "CagliariLecce",
+        "team2Title": "Cagliari",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=QOWVoASCC-8gH9UVS8f8dw&expires=1788811791&ch=spch10&s=2daca158c0fac9def333f55de9562aa6|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=YNpl6Z-VqW32IYUFRpnFNg&expires=1788811791&ch=spch40&s=021906b73b2ad97088284b34a667a9f6|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,17 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
         "team1Title": "Celta de VigoGetafe",
         "team2Title": "Celta de Vigo",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-08 01:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team1Title": "Real SociedadElche CF",
-        "team2Title": "Real Sociedad",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=Lv4IZGvtWLWN-O4JKuRCNQ&expires=1788811792&ch=viaplaysp1&s=afb1618e89da986851c67373edf60b52|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=4_0T0ffqq4mOahVXN7-LDg&expires=1788811792&ch=spch1&s=2888f2fb6db710fb793cb12a3c1d290d|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/yt18.m3u8?md5=n7lRZF09t1n7Q1aW9C5uAA&expires=1788811791&ch=yt18&s=9169fd2b84474d32df9f4d2637552568|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -36,7 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "team1Title": "LazioUdinese",
         "team2Title": "Lazio",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=-Lk_IUwylhGz1a1h6BxRjA&expires=1788811791&ch=spch10&s=c2d31c6f4060a1e544b763f8b3ece94a|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=qeWIvFakgDMwSt5CQaHL0Q&expires=1788811792&ch=spch40&s=b0c570e3d0a1c841381695813ed07608|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,7 +46,27 @@
         "team2Logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
         "team1Title": "AFC WimbledonBromley",
         "team2Title": "AFC Wimbledon",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=tAHV9npnE34WonL0s2RUwQ&expires=1788811792&ch=dadoskyfob&s=77f71b67a585084e1b2246921b448284|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=2oXDg3cER_Xyh7HIsaDaUQ&expires=1788811792&ch=spch2&s=e9bfaa2a47b5d88144f9c5090c7f9bd9|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-08 01:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
+        "team1Title": "EstorilArouca",
+        "team2Title": "Estoril",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=m6TeZBH-oxMWDI_gLmqGTg&expires=1788811792&ch=spch41&s=094af56e1272c8934dc5c28d39632d6f|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-08 01:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team1Title": "Real SociedadElche CF",
+        "team2Title": "Real Sociedad",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=L32x6jXWCby6mctQQ0QPrA&expires=1788811792&ch=viaplaysp1&s=2e45b10769a4ccab9881cb939982d46d|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=5csZIJlE5ssFSUHuihzqZg&expires=1788811792&ch=spch1&s=2770473da9ba828d070ff97d4bc94d30|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/yt19.m3u8?md5=Xsxbyxqkeh3VBar4LbI02g&expires=1788811792&ch=yt19&s=c4189918fbf9be74b61ef8a78e13b898|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
