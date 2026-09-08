@@ -6,47 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=pmnBrL7MA2QxRxdIU9Z2Xw&expires=1788829723&ch=dadoskyten&s=47a8395de7534ab42e4af7de33801ee6|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=aAGaiRInKcTGfF5Lf7KKpA&expires=1788829723&ch=spch11&s=a45e60ba5b45b0004b9292a95097aacd|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=LrrMjSxoPLCAwLvQ1IafWg&expires=1788829723&ch=dadoskyare&s=b8fc7d378b035bdb1c7c36fec53d599b|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=0fab2efKxVxOFRYnMldVUw&expires=1788829722&ch=dadosky1&s=20afb9be796ba950aab0470156663a5c|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-08 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1Title": "LazioUdinese",
-        "team2Title": "Lazio",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-08 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
-        "team1Title": "AFC WimbledonBromley",
-        "team2Title": "AFC Wimbledon",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-09-08 01:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
-        "team1Title": "EstorilArouca",
-        "team2Title": "Estoril",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-08 01:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team1Title": "Real SociedadElche CF",
-        "team2Title": "Real Sociedad",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=dANcEPDAmzv3Zt7eC6QI9A&expires=1788835712&ch=dadoskyten&s=02e891015798655d888f855e12ce622e|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=X5QIkdjrA8mo96eR_Rmcww&expires=1788835711&ch=spch11&s=a6f85392c9c4654e1ce82053bd454212|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=xFFBa0BR2BhgXEdsbKl7pg&expires=1788835712&ch=dadoskyare&s=b51dd84fe43c0a24e5c0dd9519e1d7ae|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=ciFpYoo56WpGoRIy03QqUQ&expires=1788835711&ch=dadosky1&s=63bf0d5f559ea6d59cf0b9ce7efc9106|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
