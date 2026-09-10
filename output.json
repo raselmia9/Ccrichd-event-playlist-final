@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=9sz3NKGbR_ZeTxwvRODhFg&expires=1789024598&ch=dadoskyten&s=c752083cd8f51ef27b0a6ce79b4a71c8|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=rQujfK7n0DdtCdYszRduLw&expires=1789024599&ch=spch11&s=8f5c1488428860ddb892e122b50cc928|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=8a5_d_ysCz-ncdeQ5s8ikw&expires=1789024599&ch=dadoskyare&s=8ff3ad07b3f6da016029c329bd32c875|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=kIAuyyYCcnhPCQ4xOOMveQ&expires=1789024599&ch=dadosky1&s=6f30b0c1e028b3ca22e0b0fb99e298ea|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=hCSwvslqEstJFI_ifwhmrA&expires=1789040884&ch=dadoskyten&s=564e518bced417b2e81280b361c6c3ed|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=--1W7Mfmbi_Kqkxw4r447g&expires=1789040884&ch=spch11&s=b9389f1a6ae0be4abd3263a994b6054a|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=aylyzN5OMg3XuhLjC1WS0g&expires=1789040884&ch=dadoskyare&s=aaa69a98a9f3c8ada30a0b926c9a7ba6|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=wu-AWVIkEdGJn0_Kk9VVMg&expires=1789040884&ch=dadosky1&s=2ddf8e868361b1211a59542560aafc9a|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,37 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "English Open SnookerSnooker",
         "team2Title": "English Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=m1q3bIl9S4uIJUPOYvzW_A&expires=1789024599&ch=bbtsip4a&s=3fd7057bc337a4f2ad8ede90c5eb3866|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=ysxqZ2mTtNw9XbwpnQAk4w&expires=1789024599&ch=bbtsip1&s=a12acf23cd4270f91dec3fa53a4aff6b|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-10 06:20:00",
-        "team1Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "team1Title": "New England PatriotsSeattle Seahawks",
-        "team2Title": "New England Patriots",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-11 06:35:00",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team1Title": "Los Angeles RamsSan Francisco 49ers",
-        "team2Title": "Los Angeles Rams",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-13 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team1Title": "Chicago BearsCarolina Panthers",
-        "team2Title": "Chicago Bears",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=BfLUaqfzpOf_AwxYiKpxWw&expires=1789040884&ch=bbtsip4a&s=f737cda3b17d8d519781f1697ce8a9e7|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=MuU4jI-_n6mZfXq0R9dDVA&expires=1789040884&ch=bbtsip1&s=9284fd2996663c9efa5521569950770d|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -146,6 +116,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
         "team1Title": "EstrelaSporting Braga",
         "team2Title": "Estrela",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-11 06:35:00",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "team1Title": "Los Angeles RamsSan Francisco 49ers",
+        "team2Title": "Los Angeles Rams",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-13 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team1Title": "Chicago BearsCarolina Panthers",
+        "team2Title": "Chicago Bears",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
