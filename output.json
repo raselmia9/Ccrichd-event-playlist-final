@@ -1,42 +1,12 @@
 [
     {
-        "eventTitle": "ATP Tour",
-        "matchTime": "2026-08-24 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team1Title": "US Open 2026ATP Tour",
-        "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=9UdbH4-6TJ-cU1a5-enhqg&expires=1789352955&ch=dadoskyten&s=b96a7a7d54e839f29ad954baa7857627|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=rvEi_Sm30bLRLiIZtSCSIg&expires=1789352956&ch=dadosky1&s=454f526c73ad5681a8b4b4ea761ab80d|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=geUTsOkU8VFbnvIpaaNAcg&expires=1789352956&ch=spch11&s=40a0ce67c7568e7263f01684b04a9e89|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=5C1U2GzSKvD-lW4dV9ix8Q&expires=1789352956&ch=dadosky1&s=2251e6451c40049eef60d76e9d232dda|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-09-08 16:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team1Title": "English Open SnookerSnooker",
-        "team2Title": "English Open Snooker",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-14 02:25:00",
-        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team1Title": "Philadelphia EaglesWashington Commanders",
-        "team2Title": "Philadelphia Eagles",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=7Qav6GI8YF_B5g58wSNSBQ&expires=1789352956&ch=dadosky3&s=45a8f3232a11a70e923c58a5ada2fde6|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-09-14 06:20:00",
         "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
         "team1Title": "Dallas CowboysNew York Giants",
         "team2Title": "Dallas Cowboys",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=ASK98k3yZdU_sbodLQGfBQ&expires=1789352955&ch=dadosky3&s=d56ab62fc823bd9641495b226a0d47a1|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=RowrG8E2nfbI2Fa_IjOFMg&expires=1789352956&ch=dadosky1&s=a73eac5c5b709feb50f8ec60031ca816|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -100,8 +70,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-16 01:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "team1Title": "Real MadridElche CF",
@@ -366,6 +336,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
         "team1Title": "CelticFerencváros",
         "team2Title": "Celtic",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
+        "team1Title": "Crystal PalaceLech Poznan",
+        "team2Title": "Crystal Palace",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team1Title": "AFC BournemouthReal Sociedad",
+        "team2Title": "AFC Bournemouth",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
