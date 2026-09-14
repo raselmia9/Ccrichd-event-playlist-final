@@ -6,27 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "US Open 2026ATP Tour",
         "team2Title": "US Open 2026",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=j05IeAbHyIDDitFQim1oOw&expires=1789345925&ch=dadoskyten&s=3b3428c822351e1d01fed793bb0b6f06|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=bRw_e3pQ-vyhFF2WHgjY5Q&expires=1789345925&ch=dadosky1&s=7cc44f3164d5e2145d54743a49e710e3|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=50AN6Yfqb3JN5QGUbN_sWg&expires=1789345924&ch=spch11&s=ec2ae816d1db0269e080993a37c1cb18|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=K8YLPD52qZSTBpqXql7y1Q&expires=1789345924&ch=dadosky1&s=f2fa8957d5cc32ad59b1d399556dfef7|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-14 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "team1Title": "PSGBrest",
-        "team2Title": "PSG",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-14 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team1Title": "JuventusSassuolo",
-        "team2Title": "Juventus",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=9UdbH4-6TJ-cU1a5-enhqg&expires=1789352955&ch=dadoskyten&s=b96a7a7d54e839f29ad954baa7857627|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=rvEi_Sm30bLRLiIZtSCSIg&expires=1789352956&ch=dadosky1&s=454f526c73ad5681a8b4b4ea761ab80d|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=geUTsOkU8VFbnvIpaaNAcg&expires=1789352956&ch=spch11&s=40a0ce67c7568e7263f01684b04a9e89|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=5C1U2GzSKvD-lW4dV9ix8Q&expires=1789352956&ch=dadosky1&s=2251e6451c40049eef60d76e9d232dda|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -36,37 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "English Open SnookerSnooker",
         "team2Title": "English Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=StWUNHbIGGbWtqw9ZctoQQ&expires=1789345924&ch=bbtsip4a&s=c5299dc8802c690fafc947e9de18e9df|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=pYIKrlhkQyTKni5nvQpwqg&expires=1789345924&ch=bbtsip1&s=1cdf8a4d4a07056bf61890e30e606cff|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-10 18:30:00",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1Title": "Irish OpenPGA Tour",
-        "team2Title": "Irish Open",
         "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-13 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team1Title": "Chicago BearsCarolina Panthers",
-        "team2Title": "Chicago Bears",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Copa Del Rey",
-        "matchTime": "2026-09-14 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team1Title": "Atlético MadridReal Sociedad",
-        "team2Title": "Atlético Madrid",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=my422jAzeGwUIFOhLDeWlg&expires=1789345925&ch=viaplaysp1&s=42fd6210db4f9a71737c11a112e0cd00|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=Vwd2E4Jy_JTaVXWCPisNCw&expires=1789345924&ch=spch2&s=9c9dc42975e4e0cbd88a02aa86c704c1|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=ttMG13T1jVvwtl-XBGMYSQ&expires=1789345924&ch=daznlaliga&s=e55c11798169df8ca5abae01f362a051|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -76,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
         "team1Title": "Philadelphia EaglesWashington Commanders",
         "team2Title": "Philadelphia Eagles",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=QlZ8jCdtcxf-r9b0Usup-A&expires=1789345925&ch=dadosky3&s=bec146d4f6ba7d67d31cbe2c27cd50dc|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=7Qav6GI8YF_B5g58wSNSBQ&expires=1789352956&ch=dadosky3&s=45a8f3232a11a70e923c58a5ada2fde6|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -86,7 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
         "team1Title": "Dallas CowboysNew York Giants",
         "team2Title": "Dallas Cowboys",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=a7gm46mnI6gQAz3HMNvxRA&expires=1789345924&ch=dadosky3&s=e478183881ced44826a2b0aab323864f|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=xx3-IJrxZhVIJ8zVT3tbbg&expires=1789345924&ch=dadosky1&s=51b0877d6cb487b741fff5ec2dcbf2fe|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=ASK98k3yZdU_sbodLQGfBQ&expires=1789352955&ch=dadosky3&s=d56ab62fc823bd9641495b226a0d47a1|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=RowrG8E2nfbI2Fa_IjOFMg&expires=1789352956&ch=dadosky1&s=a73eac5c5b709feb50f8ec60031ca816|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -150,8 +100,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-16 01:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "team1Title": "Real MadridElche CF",
@@ -386,6 +336,36 @@
         "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
         "team1Title": "OFIHoffenheim",
         "team2Title": "OFI",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 22:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
+        "team1Title": "SalzburgLevski Sofia",
+        "team2Title": "Salzburg",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nec/logo.webp",
+        "team1Title": "JuventusNEC",
+        "team2Title": "Juventus",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
+        "team1Title": "CelticFerencváros",
+        "team2Title": "Celtic",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
