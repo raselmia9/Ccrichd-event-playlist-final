@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-14 06:20:00",
-        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
-        "team1Title": "Dallas CowboysNew York Giants",
-        "team2Title": "Dallas Cowboys",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-14 22:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
