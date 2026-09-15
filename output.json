@@ -1,52 +1,12 @@
 [
     {
         "eventTitle": "Serie A",
-        "matchTime": "2026-09-14 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team1Title": "AS RomaTorino",
-        "team2Title": "AS Roma",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-14 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team1Title": "ParmaComo",
-        "team2Title": "Parma",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-09-14 23:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/rio-ave/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
-        "team1Title": "Rio AveEstrela",
-        "team2Title": "Rio Ave",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch42.m3u8?md5=3iQUgP52gPwQOWTniUnSSg&expires=1789427623&ch=spch42&s=5a00078d4e93499b3aa4baba8b744489|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-09-15 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
-        "team1Title": "Sporting BragaEstoril",
-        "team2Title": "Sporting Braga",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=DffDTqLkomwKPAWaDFnqLw&expires=1789427623&ch=spch41&s=215df7fa449da3506d2107f4c361f75e|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
         "matchTime": "2026-09-15 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "team1Title": "Inter MilanUdinese",
         "team2Title": "Inter Milan",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=RhCw1N4QuBtqETzXTmohzQ&expires=1789427623&ch=bbtsip1&s=63da6f9b611e7864ec43e2c34cf3a8ea|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=q7pzjI_2I1W0_quZyixrtQ&expires=1789427623&ch=spch10&s=5e28dcaef592a3f53efb343a26dbcde0|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -56,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "team1Title": "Leeds UnitedNewcastle United",
         "team2Title": "Leeds United",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=ov0eOv4UByzwqABSCU7kdA&expires=1789427623&ch=dadoskypormi&s=712b586d5b1a2775a7fbda2a7d8af52b|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/superprem.m3u8?md5=VTp5Xa-XdKdnBCn-RaDR7A&expires=1789427623&ch=superprem&s=83c95abf332f467d96318f37f3a390c3|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/spch68.m3u8?md5=kP8kMuGshFwL33iNUdJg3A&expires=1789427623&ch=spch68&s=3cddf408280168cb645d71a67c9f0aff|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=LcH7Y_ncj-XeHnq5odsXhw&expires=1789427621&ch=dadosky1&s=b6224859783163762543bab7020deef5|Referer=https://bhalocast.pro/,)Link5,,https://dz5.bhalocast.pro:7059/hls/dazn1.m3u8?md5=27XpOSJC5Li3ehmFJ9GJww&expires=1789427623&ch=dazn1&s=c3abe801f9881a506da027b091799f3f|Referer=https://bhalocast.pro/,)Link6,,https://dz5.bhalocast.pro:7059/hls/dazn1pt.m3u8?md5=vXm14N6RAjFBtOwCz17GsA&expires=1789427623&ch=dazn1pt&s=ed595e10bcc6e8747545b46decf4373d|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -66,7 +26,37 @@
         "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "team1Title": "Real BetisVillarreal",
         "team2Title": "Real Betis",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=07Jx-7UCwpBdDH7IFyk71Q&expires=1789427623&ch=viaplaysp1&s=21778c31ac02f71e29abde7facef5dad|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=u6UECptoxk_BNaV_3-ulQw&expires=1789427623&ch=spch1&s=4865ba38b39cec09e3776509b2b659a0|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/yt19.m3u8?md5=WxWW-eeysBByRw7KpkvniA&expires=1789427622&ch=yt19&s=cd7e39ccb4cf84cfa19081c0a4723ede|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-15 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "team1Title": "Sporting BragaEstoril",
+        "team2Title": "Sporting Braga",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Coppa Italia",
+        "matchTime": "2026-09-15 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sudtirol/logo.webp",
+        "team1Title": "GenoaSüdtirol",
+        "team2Title": "Genoa",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Coppa Italia",
+        "matchTime": "2026-09-16 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "team1Title": "PisaFiorentina",
+        "team2Title": "Pisa",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -140,22 +130,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-15 22:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sudtirol/logo.webp",
-        "team1Title": "GenoaSüdtirol",
-        "team2Title": "Genoa",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-16 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "team1Title": "PisaFiorentina",
-        "team2Title": "Pisa",
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-17 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team1Title": "Real BetisGetafe",
+        "team2Title": "Real Betis",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -366,6 +346,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
         "team1Title": "Crystal PalaceLech Poznan",
         "team2Title": "Crystal Palace",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team1Title": "AFC BournemouthReal Sociedad",
+        "team2Title": "AFC Bournemouth",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
