@@ -1,26 +1,26 @@
 [
     {
-        "eventTitle": "Champions League",
+        "eventTitle": "Europa League",
         "matchTime": "2026-09-16 22:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/ararat-armenia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sparta-praha/logo.webp",
         "team1Title": "Ararat-ArmeniaSparta Praha",
         "team2Title": "Ararat-Armenia",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=53B9oYCOdzOWAqq3rjxSfQ&expires=1789582158&ch=bbtsip3&s=58580ebf02548106f73cf05a3024bad4|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
-        "eventTitle": "Champions League",
+        "eventTitle": "Europa League",
         "matchTime": "2026-09-16 22:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/omonia-nicosia/logo.webp",
         "team1Title": "Celta de VigoOmonia Nicosia",
         "team2Title": "Celta de Vigo",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=ZZ89syE22GH_UbY6PjRfHQ&expires=1789582159&ch=bbtsip4a&s=781435d6bd9a7cffbad95877af00671a|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
-        "eventTitle": "Champions League",
+        "eventTitle": "Europa League",
         "matchTime": "2026-09-17 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
@@ -30,7 +30,7 @@
         "isHot": true
     },
     {
-        "eventTitle": "Champions League",
+        "eventTitle": "Europa League",
         "matchTime": "2026-09-17 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/celje/logo.webp",
@@ -40,7 +40,7 @@
         "isHot": true
     },
     {
-        "eventTitle": "Champions League",
+        "eventTitle": "Europa League",
         "matchTime": "2026-09-17 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/az-alkmaar/logo.webp",
@@ -50,7 +50,7 @@
         "isHot": true
     },
     {
-        "eventTitle": "Champions League",
+        "eventTitle": "Europa League",
         "matchTime": "2026-09-17 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/anderlecht/logo.webp",
@@ -60,7 +60,7 @@
         "isHot": true
     },
     {
-        "eventTitle": "Champions League",
+        "eventTitle": "Europa League",
         "matchTime": "2026-09-17 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/hapoel-beer-sheva/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
@@ -70,7 +70,7 @@
         "isHot": true
     },
     {
-        "eventTitle": "Champions League",
+        "eventTitle": "Europa League",
         "matchTime": "2026-09-17 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/jagiellonia-bialystok/logo.webp",
@@ -86,7 +86,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team1Title": "OsasunaAtlético Madrid",
         "team2Title": "Osasuna",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=QAvlKhx34ppGzDdrQG3meQ&expires=1789582160&ch=viaplaysp1&s=40050ad799ead62e638887d7398c74ae|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=HVoUg_u63D83MIumVM64Cw&expires=1789582160&ch=spch1&s=763b8d91af997ef155a6763ea3b6c7ae|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/yt19.m3u8?md5=haeK51w1GjsFPSDxuUw-uw&expires=1789582160&ch=yt19&s=2ecb89c6d32a620627904c0ded88820f|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/yt34.m3u8?md5=yast_RagcxxI6OdWTAkXxg&expires=1789582159&ch=yt34&s=1e9662bb62b4c7a7bcbb2259f59fd7fa|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -96,7 +96,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
         "team1Title": "SevillaDeportivo La Coruña",
         "team2Title": "Sevilla",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=OwTKbIekYps0H2UDRt9cTA&expires=1789582160&ch=spch2&s=132387ce909424bbc2ea6eddac7d02b1|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=qw6tHyKR5igBnanQH_h1QA&expires=1789582160&ch=daznlaliga&s=9f31209180a91ef77a3dd6bac900e3f1|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -156,7 +156,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
         "team1Title": "Fleetwood TownSheffield United",
         "team2Title": "Fleetwood Town",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch4.m3u8?md5=8DVSGj1NIJNP2xgpaT5I8A&expires=1789582159&ch=spch4&s=8d8d5ded7e81a9ee9b4a1190a940ab3c|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -166,7 +166,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "team1Title": "EvertonWolverhampton Wanderers",
         "team2Title": "Everton",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch3.m3u8?md5=UAhUbm3YeAHBSAhJzTrLkg&expires=1789582160&ch=spch3&s=0ec4bec2b6db6b9275b22cab9076a86b|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
