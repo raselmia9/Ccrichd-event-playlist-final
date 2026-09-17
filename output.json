@@ -1,12 +1,22 @@
 [
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-18 00:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
+        "team1Title": "Manchester CityNorwich City",
+        "team2Title": "Manchester City",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=Y5Rvt2E0m6hHgvXvEuxIcQ&expires=1789686994&ch=dadoskyare&s=290e4087a8cd53968e3b8a38997516e7|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch3.m3u8?md5=lqZhYQ2kgMvNCV7TVRxsYQ&expires=1789686995&ch=spch3&s=8f3f0aa8f15a3f644c3d4245940e2dbc|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=vHYjVWW1nY8UTH3jkqJkjg&expires=1789686995&ch=spch41&s=905ba53211a2ce132e8fac94294564e2|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-17 13:30:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "BMW ChampionshipPGA Tour",
         "team2Title": "BMW Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=Vr7DASKGqnjOEizC6xwAAA&expires=1789676332&ch=dadoskygo&s=943fc7900dadd2f7d4a1d06e2d10f122|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=u3BitFsZREIY3_iVbNxtHw&expires=1789686997&ch=dadoskygo&s=f5457acd1e74386dab10347bcdbca8cf|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,27 +26,27 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Biltmore ChampionshipPGA Tour",
         "team2Title": "Biltmore Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=LqAIxo4HexTLDe53E1M9uQ&expires=1789676332&ch=dadoskygo&s=d004827e6d6adfc6efa47ace009a2eb3|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=UdF0abkcUVTY9_w1jEBD2g&expires=1789686997&ch=dadoskygo&s=78aad26e084589fd2def31a6fd82e379|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
         "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 22:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ofi/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team1Title": "OFIHoffenheim",
-        "team2Title": "OFI",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=hHG1sopQciqKfhrGb927NA&expires=1789676332&ch=bbtsip4a&s=960a21923383726b47938e0744fae4f2|Referer=https://bhalocast.pro/",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/viktoria-plzen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/union-saint-gilloise/logo.webp",
+        "team1Title": "Viktoria PlzenUnion Saint-Gilloise",
+        "team2Title": "Viktoria Plzen",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsp8.m3u8?md5=OZNzHSkVlflX4KM5U9xwhw&expires=1789686997&ch=bbtsp8&s=44e3f736797ebda30587b3dd2d67b37f|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
         "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 22:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
-        "team1Title": "SalzburgLevski Sofia",
-        "team2Title": "Salzburg",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip6.m3u8?md5=UCWr5fju9-KyoRl4Bx0nww&expires=1789676330&ch=bbtsip6&s=0ba5461ac9d2569a3b0e921a25996f29|Referer=https://bhalocast.pro/",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lillestrom/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torreense/logo.webp",
+        "team1Title": "LillestrømTorreense",
+        "team2Title": "Lillestrøm",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsp9.m3u8?md5=ymm6-gpKY3fiWPwnHn4lBA&expires=1789686997&ch=bbtsp9&s=6591a32c7b914cea46e84c9b44751122|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,7 +56,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/nec/logo.webp",
         "team1Title": "JuventusNEC",
         "team2Title": "Juventus",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=jffrxNdtC9d5LaIY-zxppA&expires=1789676330&ch=bbtsip4a&s=b6045b25d624de3f09021a58f436b297|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch71.m3u8?md5=d20qxabWY4azvdVPQrff8Q&expires=1789676332&ch=spch71&s=400cd4a64ef154a314f8e4955153a3db|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=rh0D6NIVLtgCZ8JHMuVoJw&expires=1789686997&ch=bbtsip4a&s=edbaf69900da5025b60d67caeba678f6|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch71.m3u8?md5=iru0eDCvYvf2PbUFAq307g&expires=1789686995&ch=spch71&s=5137e62f904b4893e3cd327bb82343f3|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -56,7 +66,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
         "team1Title": "CelticFerencváros",
         "team2Title": "Celtic",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=Pr33g7c5YfHmEvWXNcCeXg&expires=1789686997&ch=bbtsip3&s=9dfcd3589a611e2a7c6fdf1ebdbb9384|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -66,7 +76,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
         "team1Title": "Crystal PalaceLech Poznan",
         "team2Title": "Crystal Palace",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=U87eeduUU8vLqdl4hnWozQ&expires=1789686997&ch=bbtsip1&s=940313c8016557b9b6578dcc48401825|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/yt10.m3u8?md5=Nz_uSqVK4ZujZ54Zl1jq8w&expires=1789686997&ch=yt10&s=db77407a5a33951b23d6f5684a80427d|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -76,47 +86,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team1Title": "AFC BournemouthReal Sociedad",
         "team2Title": "AFC Bournemouth",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-17 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team1Title": "Real BetisGetafe",
-        "team2Title": "Real Betis",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=2kODw2CZDVwUSZYlvlAnNQ&expires=1789676330&ch=viaplaysp1&s=c96531b2ae47c267d7540a8c19bcf8aa|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=zbiSauDTGPv1en84t05tYQ&expires=1789676332&ch=spch1&s=7393b78119c38df8aaf3c8398f069722|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=DTroNNDRwubbry6GEgxgXg&expires=1789676332&ch=daznlaliga&s=67e081e7c80b1a88c8a4a10b978c5e34|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/yt34.m3u8?md5=oTzHZppp4bNZtWG7SwdRkQ&expires=1789676332&ch=yt34&s=6b89bb95bae40f1eb73755f0270450f7|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-18 01:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1Title": "MálagaVillarreal",
-        "team2Title": "Málaga",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=3lpbGVRe4i_2w98C_13pwg&expires=1789676332&ch=viaplaysp1&s=824332aaff4f9694c055c45ef4efc776|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=yRlE6CRZDtYEDvVtHLnBnw&expires=1789676332&ch=spch1&s=fffe7eed44a3de24dc695731f8b5c57c|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=YltiJ9_S3zM2Ytv5iViDzg&expires=1789676332&ch=daznlaliga&s=a0d355107ba4684ed35dabd0bc71fffa|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/yt34.m3u8?md5=mN2ageisp2cbVJHvT1zSaA&expires=1789676332&ch=yt34&s=91894fc14be1b85e38d2a09f3702e38d|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team1Title": "EspanyolElche CF",
-        "team2Title": "Espanyol",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-18 00:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
-        "team1Title": "Manchester CityNorwich City",
-        "team2Title": "Manchester City",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=2RHLPBiYz6r1_KkwYWORvA&expires=1789676332&ch=dadoskyare&s=a998560b192ee8be1118a4cc69b1915b|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch3.m3u8?md5=B7wuq5Lg8I_p-uWDzIp67g&expires=1789676330&ch=spch3&s=e23ed1cb1cc7a93bbaf6be19bd8fe8b5|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=8FwII7TmJVlkpEaad9DQAA&expires=1789686997&ch=bbtsvp2&s=e7218db2a8e711e2e10338836fdde9c6|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -126,17 +96,27 @@
         "team2Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
         "team1Title": "Milton Keynes DonsAFC Wimbledon",
         "team2Title": "Milton Keynes Dons",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=hv85yDY6eDesmsNVNI85mg&expires=1789676332&ch=dadoskyfob&s=6b32e19f9c3fa7d71f6d513dd1a06d68|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=MlfckQKZusw6xHJHwAZW7g&expires=1789686995&ch=dadoskyfob&s=449253c264834ba7564471d1122bd0cb|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
-        "team1Title": "Bristol CityWatford",
-        "team2Title": "Bristol City",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "team1Title": "BesiktasOlympique Marseille",
+        "team2Title": "Besiktas",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=Fk7iwNu7lih47qgCRPJfmQ&expires=1789686995&ch=bbtsp7&s=3c1e5a0695aab259aac67795fe810b5d|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-18 01:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team1Title": "MálagaVillarreal",
+        "team2Title": "Málaga",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=FlRFPgs47beO8rKp7_XvuA&expires=1789686997&ch=viaplaysp1&s=976a0ddd63ac7aba9dafdb67ba91893b|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=4tuD211JZfhDcnNJKnXrBQ&expires=1789686997&ch=spch1&s=30a42f5618ae9245ff0d577bca7b190a|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=fKpvb5evjKSz5b5LJ7I6Lw&expires=1789686997&ch=daznlaliga&s=eece8f512ce80b77cb5cbef3484091d7|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/yt34.m3u8?md5=nDDXQQYqnOQu3yYwxbIRzg&expires=1789686996&ch=yt34&s=94dc8ac6e808ec3365d17e64825dd9be|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -200,12 +180,42 @@
         "isHot": true
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-19 19:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "team1Title": "Eintracht FrankfurtFreiburg",
+        "team2Title": "Eintracht Frankfurt",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team1Title": "Borussia DortmundStuttgart",
+        "team2Title": "Borussia Dortmund",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-09-19 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
         "team1Title": "LensAS Monaco",
         "team2Title": "Lens",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-19 21:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "team1Title": "Paris FCStrasbourg",
+        "team2Title": "Paris FC",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -220,12 +230,172 @@
         "isHot": true
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-19 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team1Title": "BolognaTorino",
+        "team2Title": "Bologna",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-19 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "team1Title": "CagliariUdinese",
+        "team2Title": "Cagliari",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-19 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team1Title": "Inter MilanAS Roma",
+        "team2Title": "Inter Milan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-20 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team1Title": "LazioVenezia",
+        "team2Title": "Lazio",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-19 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
         "team1Title": "ChelseaBrentford",
         "team2Title": "Chelsea",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 17:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team1Title": "Tottenham HotspurAston Villa",
+        "team2Title": "Tottenham Hotspur",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team1Title": "Hull CityNewcastle United",
+        "team2Title": "Hull City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team1Title": "Ipswich TownEverton",
+        "team2Title": "Ipswich Town",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team1Title": "ArsenalBrighton & Hove Albion",
+        "team2Title": "Arsenal",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "team1Title": "Nottingham ForestCoventry City",
+        "team2Title": "Nottingham Forest",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+        "team1Title": "Bristol CityWatford",
+        "team2Title": "Bristol City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 17:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team1Title": "West Ham UnitedMillwall FC",
+        "team2Title": "West Ham United",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 17:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
+        "team1Title": "BarnsleyLeicester City",
+        "team2Title": "Barnsley",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team1Title": "EspanyolElche CF",
+        "team2Title": "Espanyol",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 18:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "team1Title": "OsasunaRayo Vallecano",
+        "team2Title": "Osasuna",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 20:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1Title": "Deportivo AlavésAthletic Club",
+        "team2Title": "Deportivo Alavés",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team1Title": "Celta de VigoRacing Santander",
+        "team2Title": "Celta de Vigo",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
