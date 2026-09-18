@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "BMW ChampionshipPGA Tour",
         "team2Title": "BMW Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=1gzVIV68rfqGemzJgyqCRA&expires=1789703428&ch=dadoskygo&s=073ef53717072410d49c312e8a2a348b|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=Odb6m0QtPVdPNT6hKU1dIA&expires=1789721700&ch=dadoskygo&s=979b4600f0af80fb1c318c678fa5b0bb|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,17 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Biltmore ChampionshipPGA Tour",
         "team2Title": "Biltmore Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=tJb6W6qGvOUlU5jI3zTHtw&expires=1789703428&ch=dadoskygo&s=d7882b0d91c487c92d429cc1f404adfe|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-18 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team1Title": "Buffalo BillsDetroit Lions",
-        "team2Title": "Buffalo Bills",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=-zKRiH1shntJJGZxjOtb3g&expires=1789703428&ch=dadosky3&s=dc648a6b3bc2474f9f3f52f68e7ec1e3|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=hXsUDP8r3R4lVRUcR7mpDQ&expires=1789703428&ch=dadosky1&s=9183529c59bc8cfeb23bf9228d8d49b0|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=ehO5Rrdh_02EY7JALQ1vmw&expires=1789721700&ch=dadoskygo&s=751a16e09deb6df6ceab21c6c78c5b6a|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -36,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team1Title": "MotoGP Austria Grand PrixMotoGP",
         "team2Title": "MotoGP Austria Grand Prix",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=vMcNN0aknwgoI1hXUgvISw&expires=1789721700&ch=bbtsvp2&s=b242bba1f389e72661f13e3d304b728b|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,7 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
         "team1Title": "Goodwood Festival of SpeedMotorSports",
         "team2Title": "Goodwood Festival of Speed",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=O3eTCX71ASs92JeBO9Tcog&expires=1789721700&ch=dadoskyf17&s=2139d170add45880f909aff304d18ec6|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -56,7 +46,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
         "team1Title": "Sydney SwansFremantle",
         "team2Title": "Sydney Swans",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=0R8b9u6cWEtKh_ygHGfmQw&expires=1789721700&ch=bbtsip1&s=952961355e96469eda681aae24704cfa|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
