@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "BMW ChampionshipPGA Tour",
         "team2Title": "BMW Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=W43I--FqEpVEttGLjgzRTw&expires=1789822105&ch=dadoskygo&s=daabbe1928b4c2c933425efb13fa6a3b|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=rCJChd9J7Sq2PvPoPVbQKw&expires=1789833596&ch=dadoskygo&s=915d132dd44b7af86333df82fc71366d|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Biltmore ChampionshipPGA Tour",
         "team2Title": "Biltmore Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=nek3z8jyfNap1zCjOsKc4w&expires=1789822105&ch=dadoskygo&s=97802654cbdd75fa3584592674cf4651|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=n9Bg-ShZvu-HjPmhXT_oGg&expires=1789833600&ch=dadoskygo&s=5e4ca5227729e30e880855b72870b473|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team1Title": "MotoGP Austria Grand PrixMotoGP",
         "team2Title": "MotoGP Austria Grand Prix",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=MXS4xROn6BxEH_4gdtx9SA&expires=1789822105&ch=bbtsvp2&s=f8bb117717e6283c104b2471507b0b84|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -36,27 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
         "team1Title": "Goodwood Festival of SpeedMotorSports",
         "team2Title": "Goodwood Festival of Speed",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=npgHmKXhKOqvsG2twMBWHQ&expires=1789822105&ch=dadoskyf17&s=469022b4772521f252bb66d66e0bfce3|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-09-19 13:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team1Title": "CanadaUSA",
-        "team2Title": "Canada",
         "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-09-19 16:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "team1Title": "FijiJapan",
-        "team2Title": "Fiji",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch62.m3u8?md5=RoBGF3uHKAQGHTRKIgmSag&expires=1789822105&ch=spch62&s=40cdb8c0ffc3c092e37ef7f555e4eef0|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -66,7 +46,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/brisbane-lions/logo.webp",
         "team1Title": "Hawthorn HawksBrisbane Lions",
         "team2Title": "Hawthorn Hawks",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=jWfVSAyJSfJZrrj8wBS-tQ&expires=1789822105&ch=bbtsip1&s=d1dd99ecb2ddd3ee67eca46ee4a14f11|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -76,7 +56,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/cronulla-sharks/logo.webp",
         "team1Title": "Sydney RoostersCronulla Sharks",
         "team2Title": "Sydney Roosters",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=qGR1rdxcMhH1w9prBJa6Eg&expires=1789822105&ch=dadoskymoxo&s=c59faf0b0f4ceea551034234190c76a7|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -90,13 +70,23 @@
         "isHot": true
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-09-19 16:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "team1Title": "FijiJapan",
+        "team2Title": "Fiji",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Darts",
         "matchTime": "2026-09-19 17:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "team1Title": "World Series of Darts FinalsDarts",
         "team2Title": "World Series of Darts Finals",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/itv444.m3u8?md5=b7AGmhEswH4eJ5RPqcWtdA&expires=1789822105&ch=itv444&s=870463dfc81421f74357704c50e4f86d|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -106,7 +96,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
         "team1Title": "West Ham UnitedMillwall FC",
         "team2Title": "West Ham United",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=97EGUxDk0WKrchdVae1u6w&expires=1789822105&ch=dadoskyfob&s=e0733a518fea3d9dbe4b4e86cd02dbfe|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=1EPnRkIKZBsPVSeeW2SuPw&expires=1789822105&ch=dadosky1&s=015eb18f62f72f7f97860fe6f7f058ba|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -136,7 +126,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team1Title": "Tottenham HotspurAston Villa",
         "team2Title": "Tottenham Hotspur",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=QL99Q-DUMb4xT8dtcSDzvA&expires=1789833600&ch=bbtsip1&s=5c8d759c507bbefe2df2d1b7fd76afdf|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -146,7 +136,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "team1Title": "Hull CityNewcastle United",
         "team2Title": "Hull City",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch67.m3u8?md5=55adXoAmfJZJnd7X9KsUsA&expires=1789833600&ch=spch67&s=a2baf8821c55c3c548819d2713b9b7f3|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -156,7 +146,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "team1Title": "Ipswich TownEverton",
         "team2Title": "Ipswich Town",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/epl03.m3u8?md5=1K9mEHM9uY1RAZRpWwnpnA&expires=1789833600&ch=epl03&s=c48b19986ccfd003ac6c6b20cdb1b839|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -166,7 +156,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "team1Title": "ArsenalBrighton & Hove Albion",
         "team2Title": "Arsenal",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch78.m3u8?md5=L8fe85KfwiNUfEw_P1L94g&expires=1789833600&ch=spch78&s=cbc48e40bc7c98791be20ed5ff93da0f|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch13.m3u8?md5=fU0NIZm66v-u8yFqRSbINA&expires=1789833600&ch=spch13&s=6888fc65d3dc842e19f2f726b15979c6|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/epl06.m3u8?md5=e5-qBGF2nVtmZQ_FPp3-qg&expires=1789833600&ch=epl06&s=39bd41876cd50a33c7ff256373c3f112|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -200,13 +190,23 @@
         "isHot": true
     },
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-20 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "Team 2",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "WSL",
         "matchTime": "2026-09-19 17:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
         "team1Title": "Charlton AthleticLondon City Lionesses",
         "team2Title": "Charlton Athletic",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=G3bt7By_K51OmT-3_M8StA&expires=1789822105&ch=bbc2&s=afbd324cb848f3d9348d38c30e5ff7f2|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -216,7 +216,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
         "team1Title": "ChelseaBirmingham City",
         "team2Title": "Chelsea",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=j_PS_GCjvKsw_Sl-UEVSxQ&expires=1789822105&ch=dadoskypormi&s=81717781a4ac2c64c1349ff5c71080f3|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -236,7 +236,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "team1Title": "Deportivo AlavésAthletic Club",
         "team2Title": "Deportivo Alavés",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=5mzEJJk12Hau0pYmwMxdBw&expires=1789833600&ch=spch2&s=8ae73ac66282d786778d981a03a416a0|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -346,7 +346,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
         "team1Title": "Eintracht FrankfurtFreiburg",
         "team2Title": "Eintracht Frankfurt",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dazn4pt.m3u8?md5=03CmC0uaitu5L2Ie341_-A&expires=1789833600&ch=dazn4pt&s=1923b04c07dd7fac1e6101c98c811110|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -386,7 +386,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/hull-kr/logo.webp",
         "team1Title": "Warrington WolvesHull KR",
         "team2Title": "Warrington Wolves",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=GwxJwyHentsoiE4v9xre8g&expires=1789833600&ch=bbc2&s=eb313284d8c4ea400864ae42f2f8a02f|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
