@@ -1,22 +1,12 @@
 [
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team1Title": "ChelseaBrentford",
-        "team2Title": "Chelsea",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-17 13:30:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "BMW ChampionshipPGA Tour",
         "team2Title": "BMW Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=ZRfMLnYS61xRn8An5GKk4Q&expires=1789779267&ch=dadoskygo&s=0e0518d5d451e2255e41611367df763a|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=PFeSChUe8HY0HmTgFuDYcQ&expires=1789786344&ch=dadoskygo&s=ed2d2c4747f9939a2162ddcab03ff841|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Biltmore ChampionshipPGA Tour",
         "team2Title": "Biltmore Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=fIAdB4ReK_AXHUHvEF6SkA&expires=1789779267&ch=dadoskygo&s=77c6ef628106b298ac0d47db0075569d|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=RAuSItGB-SAbG5Km7tmnPA&expires=1789786343&ch=dadoskygo&s=cda6672553ef549aac211a04c6b30456|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -36,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team1Title": "MotoGP Austria Grand PrixMotoGP",
         "team2Title": "MotoGP Austria Grand Prix",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=X75g5hx8pSTGpSXoFzeogg&expires=1789779267&ch=bbtsvp2&s=6e169c6bb103604fdd59da1d859a4978|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=R_CzyaDtneAhPHLtJtZoAA&expires=1789786344&ch=bbtsvp2&s=6f4cab3f1739a9182b4ed231907a0bfe|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,77 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
         "team1Title": "Goodwood Festival of SpeedMotorSports",
         "team2Title": "Goodwood Festival of Speed",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=4Pv4eyWcPAnUiCAUSgVA7Q&expires=1789779267&ch=dadoskyf17&s=52a25920df19891a1bf3604907f0ee16|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "WSL",
-        "matchTime": "2026-09-19 00:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team1Title": "Manchester City",
-        "team2Title": "Team 2",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-19 00:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
-        "team1Title": "Bayern MünchenUnion Berlin",
-        "team2Title": "Bayern München",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-19 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "team1Title": "LensAS Monaco",
-        "team2Title": "Lens",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-19 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team1Title": "MonzaSassuolo",
-        "team2Title": "Monza",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Super League",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/leigh-leopards/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
-        "team1Title": "Leigh LeopardsWakefield Trinity",
-        "team2Title": "Leigh Leopards",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
-        "team1Title": "Bristol CityWatford",
-        "team2Title": "Bristol City",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team1Title": "EspanyolElche CF",
-        "team2Title": "Espanyol",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=3qRas8V5u4M-RxlL0podag&expires=1789786344&ch=dadoskyf17&s=049758f6849058b1f5eaab58e78d91f2|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -160,6 +80,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "Darts",
+        "matchTime": "2026-09-19 17:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "team1Title": "World Series of Darts FinalsDarts",
+        "team2Title": "World Series of Darts Finals",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-19 17:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
@@ -176,6 +106,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
         "team1Title": "BarnsleyLeicester City",
         "team2Title": "Barnsley",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-20 17:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
+        "team1Title": "Wolverhampton WanderersWest Bromwich Albion",
+        "team2Title": "Wolverhampton Wanderers",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -226,6 +166,36 @@
         "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
         "team1Title": "Nottingham ForestCoventry City",
         "team2Title": "Nottingham Forest",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-20 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team1Title": "Manchester CitySunderland",
+        "team2Title": "Manchester City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-20 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team1Title": "Leeds UnitedCrystal Palace",
+        "team2Title": "Leeds United",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-20 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "Team 2",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -290,6 +260,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-20 18:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1Title": "GetafeMálaga",
+        "team2Title": "Getafe",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-19 19:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
@@ -330,6 +310,36 @@
         "isHot": true
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-20 16:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "team1Title": "NapoliFiorentina",
+        "team2Title": "Napoli",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-20 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "team1Title": "ComoFrosinone Calcio",
+        "team2Title": "Como",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-20 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team1Title": "GenoaParma",
+        "team2Title": "Genoa",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-19 19:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
@@ -356,6 +366,36 @@
         "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
         "team1Title": "Paris FCStrasbourg",
         "team2Title": "Paris FC",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-20 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+        "team1Title": "AuxerreBrest",
+        "team2Title": "Auxerre",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Super League",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/warrington-wolves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hull-kr/logo.webp",
+        "team1Title": "Warrington WolvesHull KR",
+        "team2Title": "Warrington Wolves",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-09-20 05:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1Title": "Joshua VanAlexandre Pantoja",
+        "team2Title": "Joshua Van",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
