@@ -1,52 +1,12 @@
 [
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-17 22:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1Title": "Biltmore ChampionshipPGA Tour",
-        "team2Title": "Biltmore Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=SbjzlQhFzYguG5WfSXogPg&expires=1789954261&ch=dadoskygo&s=09036a6c7915fd602f30355f12881957|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-09-21 01:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team1Title": "PortoBenfica",
-        "team2Title": "Porto",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-21 02:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "team1Title": "Denver BroncosJacksonville Jaguars",
-        "team2Title": "Denver Broncos",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=v36fj563jheHQznWtNBgww&expires=1789954261&ch=dadosky3&s=0dc1ce8cd33caf9d531eb420a823a6c9|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-21 02:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "team1Title": "Las Vegas RaidersLos Angeles Chargers",
-        "team2Title": "Las Vegas Raiders",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/nfl05.m3u8?md5=sTp6Vpa6SXRN3_rRJ9woZw&expires=1789954261&ch=nfl05&s=428e44d8cefcee8e515f87f784536461|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-09-21 02:25:00",
         "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
         "team1Title": "Miami DolphinsSan Francisco 49ers",
         "team2Title": "Miami Dolphins",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/nfl06.m3u8?md5=mtj4Bc4A5j8RIBTYDE9c3Q&expires=1789954262&ch=nfl06&s=57713bae5004e36638bb885ef394b7c7|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -56,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
         "team1Title": "Dallas CowboysWashington Commanders",
         "team2Title": "Dallas Cowboys",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=a-ymmbqXlFONkNd10X8RyQ&expires=1789954262&ch=dadoskyfob&s=19cfc3b88304a883c42545b9c2c5b312|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -66,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
         "team1Title": "Seattle SeahawksArizona Cardinals",
         "team2Title": "Seattle Seahawks",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/nfl07.m3u8?md5=DnIp9x8qrO624t3J0TUqhQ&expires=1789954262&ch=nfl07&s=bede993b670b7afba27db243c3d2e8e2|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -76,7 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
         "team1Title": "Kansas City ChiefsIndianapolis Colts",
         "team2Title": "Kansas City Chiefs",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=ehAQGICQ1NV0eZMC2hhpkQ&expires=1789954262&ch=dadosky3&s=ab8f4b9174ac1aeda7356bd745047c5a|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=V_Q9sExsmtv9rJNgjVmycg&expires=1789954262&ch=dadosky1&s=c148693b4085736397b40437b384b1dc|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=_LP6T0zf87hj8LwLCICGRg&expires=1789971646&ch=dadosky3&s=a05f7c30a8ffed2e55c9ef704e903a24|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=zkbOuybwBaDPoqnsuh3W4A&expires=1789971646&ch=dadosky1&s=09c987be12fb4fadfbe9120f18c3ac2d|Referer=https://bhalocast.pro/",
         "isHot": true
     }
 ]
