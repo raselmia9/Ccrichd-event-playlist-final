@@ -1,32 +1,12 @@
 [
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-09-22 22:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team1Title": "Manchester CityBayern München",
-        "team2Title": "Manchester City",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=xQfCZJTOgrBbAcHa4WS9zg&expires=1790112238&ch=spch1&s=aa34a792b75ad8c2a4a8c41181d31d45|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch79.m3u8?md5=qV_fy3dHRzhQK89mw9monQ&expires=1790112237&ch=spch79&s=930dcb05858bb2fb01f76aed53cb34b0|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-09-22 22:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hacken/logo.webp",
-        "team1Title": "Inter MilanHäcken",
-        "team2Title": "Inter Milan",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=kwF1dcvx2Sr48v1LwLwX-g&expires=1790112238&ch=spch40&s=11fa3af52baf75fd1d5e2b9877508b40|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch3.m3u8?md5=fAkksLGc5p-YyCUDvw97Jw&expires=1790112238&ch=spch3&s=340189a0afaa3ba0f810701e579c8eda|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-23 00:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
         "team1Title": "Salford CitySheffield Wednesday",
         "team2Title": "Salford City",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=-vaaR-8PshUV4iaidJlI8Q&expires=1790112238&ch=dadoskyare&s=918b1b10587a6da49245201958d3a15e|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -36,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/koge/logo.webp",
         "team1Title": "ArsenalKøge",
         "team2Title": "Arsenal",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch79.m3u8?md5=AKoh1NbTVgsH52t8zdD15A&expires=1790112237&ch=spch79&s=e89e637574edf43367e9ad221a196370|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=IckgOl3lt9WA4eSt1-4dVA&expires=1790112238&ch=spch2&s=e4e3facc29cbb1ff26b93c5067ab24f4|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch79.m3u8?md5=znqU4N9g4TaKYmoN8IUELQ&expires=1790122464&ch=spch79&s=ddbdd3fecc45e899260574ecb5160108|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=5Nqow7Y5y6SYjMAV18puAQ&expires=1790122464&ch=spch2&s=c1f532df89c0b1811bfed03c3b8e89af|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team1Title": "Real MadridPSG",
         "team2Title": "Real Madrid",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=MNyO3RvC5LIDrb1TdF-mng&expires=1790112238&ch=spch40&s=ceda2aaf7fb04b14cd0877558e4ef119|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch4.m3u8?md5=_wnwJDuDtmHkbM5btAv1QQ&expires=1790112238&ch=spch4&s=f327b4e79413f99dcc4ff86cbd8f43a2|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=1zo05BX8z4OHlkWnxbcBJA&expires=1790122464&ch=spch40&s=6c17c8f022eb7c034cf40360090e5f0e|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch4.m3u8?md5=74lp_gzkMMB12ta3kctTLQ&expires=1790122464&ch=spch4&s=be8d8c86c546d8a2b34648f3fead54cc|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -56,26 +36,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team1Title": "BenficaJuventus",
         "team2Title": "Benfica",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch5.m3u8?md5=iQgiTrGXRvZWABIBK0ymZw&expires=1790112237&ch=spch5&s=cd8a1119b23d6ce36590cc5a6f0ab390|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch5.m3u8?md5=XoZYBrJHUzo47-DYyi3GFg&expires=1790122464&ch=spch5&s=4e88f455b9889b30240fa59ce38687d3|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-09-24 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "team1Title": "FC BarcelonaParis FC",
-        "team2Title": "FC Barcelona",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "eventTitle": "MLB",
+        "matchTime": "2026-09-23 04:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "team1Title": "Boston Red SoxCleveland Guardians",
+        "team2Title": "Boston Red Sox",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=NcqJjCTXVhwoKLQBpl8MKA&expires=1790122464&ch=bbtsip1&s=639b09ee23eef1cad4c9b8236c6cb786|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/tsn2ca.m3u8?md5=VgN5D3NBJgsPa3TU1SREKQ&expires=1790122464&ch=tsn2ca&s=c26468787cb20511becc972b91ab704e|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-09-24 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
-        "team1Title": "ChelseaAustria Wien",
-        "team2Title": "Chelsea",
+        "eventTitle": "MLB",
+        "matchTime": "2026-09-23 07:40:00",
+        "team1Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
+        "team1Title": "Houston AstrosCentral Coast Mariners",
+        "team2Title": "Houston Astros",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -106,6 +86,136 @@
         "team2Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
         "team1Title": "IndiaPanama",
         "team2Title": "India",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-09-24 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "team1Title": "FC BarcelonaParis FC",
+        "team2Title": "FC Barcelona",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-09-24 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
+        "team1Title": "ChelseaAustria Wien",
+        "team2Title": "Chelsea",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-09-24 12:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team1Title": "F1 Azerbaijan Grand PrixFormula 1",
+        "team2Title": "F1 Azerbaijan Grand Prix",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-09-24 17:30:00",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team1Title": "Open de FrancePGA Tour",
+        "team2Title": "Open de France",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-09-24 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team1Title": "Presidents CupPGA Tour",
+        "team2Title": "Presidents Cup",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-24 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/malta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
+        "team1Title": "MaltaAndorra",
+        "team2Title": "Malta",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team1Title": "PortugalWales",
+        "team2Title": "Portugal",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+        "team1Title": "GermanyNetherlands",
+        "team2Title": "Germany",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+        "team1Title": "NorwayDenmark",
+        "team2Title": "Norway",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+        "team1Title": "IrelandKosovo",
+        "team2Title": "Ireland",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
+        "team1Title": "SerbiaGreece",
+        "team2Title": "Serbia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
+        "team1Title": "LiechtensteinLithuania",
+        "team2Title": "Liechtenstein",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "team1Title": "AustriaIsrael",
+        "team2Title": "Austria",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
