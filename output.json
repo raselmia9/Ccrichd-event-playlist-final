@@ -1,27 +1,7 @@
 [
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-09-23 04:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team1Title": "Boston Red SoxCleveland Guardians",
-        "team2Title": "Boston Red Sox",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-09-23 07:40:00",
-        "team1Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
-        "team1Title": "Houston AstrosCentral Coast Mariners",
-        "team2Title": "Houston Astros",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-23 22:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
         "team1Title": "AzerbaijanTajikistan",
@@ -30,8 +10,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-25 16:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
         "team1Title": "AustraliaBrazil",
@@ -40,8 +20,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-25 16:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
         "team1Title": "IndiaPanama",
@@ -50,8 +30,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-27 02:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
         "team1Title": "ColombiaMexico",
@@ -60,8 +40,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-27 02:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
         "team1Title": "USAPeru",
@@ -70,8 +50,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-27 05:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
         "team1Title": "CanadaChile",
@@ -80,8 +60,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-09-24 01:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
         "team1Title": "FC BarcelonaParis FC",
@@ -90,8 +70,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-09-24 01:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
         "team1Title": "ChelseaAustria Wien",
@@ -100,8 +80,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-09-24 12:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team1Title": "F1 Azerbaijan Grand PrixFormula 1",
@@ -110,8 +90,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-24 17:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Open de FrancePGA Tour",
@@ -120,8 +100,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-24 22:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Presidents CupPGA Tour",
@@ -130,8 +110,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-24 22:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/malta/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
         "team1Title": "MaltaAndorra",
@@ -140,8 +120,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-25 00:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "team1Title": "PortugalWales",
@@ -150,8 +130,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-25 00:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
         "team1Title": "GermanyNetherlands",
@@ -160,8 +140,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-25 00:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
         "team1Title": "NorwayDenmark",
@@ -170,8 +150,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-25 00:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
         "team1Title": "IrelandKosovo",
@@ -180,8 +160,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-25 00:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
         "team1Title": "SerbiaGreece",
@@ -190,8 +170,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-25 00:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
         "team1Title": "LiechtensteinLithuania",
@@ -200,8 +180,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-25 00:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
         "team1Title": "AustriaIsrael",
