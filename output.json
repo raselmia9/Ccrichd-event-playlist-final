@@ -1,52 +1,12 @@
 [
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-23 00:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
-        "team1Title": "Salford CitySheffield Wednesday",
-        "team2Title": "Salford City",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-09-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koge/logo.webp",
-        "team1Title": "ArsenalKøge",
-        "team2Title": "Arsenal",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch79.m3u8?md5=znqU4N9g4TaKYmoN8IUELQ&expires=1790122464&ch=spch79&s=ddbdd3fecc45e899260574ecb5160108|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=5Nqow7Y5y6SYjMAV18puAQ&expires=1790122464&ch=spch2&s=c1f532df89c0b1811bfed03c3b8e89af|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-09-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team1Title": "Real MadridPSG",
-        "team2Title": "Real Madrid",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=1zo05BX8z4OHlkWnxbcBJA&expires=1790122464&ch=spch40&s=6c17c8f022eb7c034cf40360090e5f0e|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch4.m3u8?md5=74lp_gzkMMB12ta3kctTLQ&expires=1790122464&ch=spch4&s=be8d8c86c546d8a2b34648f3fead54cc|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-09-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team1Title": "BenficaJuventus",
-        "team2Title": "Benfica",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch5.m3u8?md5=XoZYBrJHUzo47-DYyi3GFg&expires=1790122464&ch=spch5&s=4e88f455b9889b30240fa59ce38687d3|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-09-23 04:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
         "team1Title": "Boston Red SoxCleveland Guardians",
         "team2Title": "Boston Red Sox",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=NcqJjCTXVhwoKLQBpl8MKA&expires=1790122464&ch=bbtsip1&s=639b09ee23eef1cad4c9b8236c6cb786|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/tsn2ca.m3u8?md5=VgN5D3NBJgsPa3TU1SREKQ&expires=1790122464&ch=tsn2ca&s=c26468787cb20511becc972b91ab704e|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=le9u8OCIY8dQd1SRqB8V6w&expires=1790130406&ch=bbtsip1&s=b539a081a80d2624ed6ef458117c8825|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/tsn2ca.m3u8?md5=DT-u4tofGZVYngfwMysPqQ&expires=1790130405&ch=tsn2ca&s=ffe1b59a8bf883dd212ad6d8eb19fbdf|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -56,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
         "team1Title": "Houston AstrosCentral Coast Mariners",
         "team2Title": "Houston Astros",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=Hpu6ixtyxbHWJXW7Wkrb5w&expires=1790130405&ch=bbtsip1&s=9bbc8b21eb2935c387fc1c51434a2db3|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -86,6 +46,36 @@
         "team2Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
         "team1Title": "IndiaPanama",
         "team2Title": "India",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "team1Title": "ColombiaMexico",
+        "team2Title": "Colombia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 02:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
+        "team1Title": "USAPeru",
+        "team2Title": "USA",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 05:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "team1Title": "CanadaChile",
+        "team2Title": "Canada",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
