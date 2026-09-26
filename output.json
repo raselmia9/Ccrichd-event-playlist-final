@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team1Title": "F1 Azerbaijan Grand PrixFormula 1",
         "team2Title": "F1 Azerbaijan Grand Prix",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=CL7aEl3SaAximOBao-zPKg&expires=1790437923&ch=dadoskyf17&s=b77e95323f15e781adff83ff664407f7|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch17.m3u8?md5=cBoJ0aFMbT8aLWBHMNPETg&expires=1790437923&ch=spch17&s=95c479b6a36210d63166b3d0c927b121|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznf1.m3u8?md5=fI_wln0r4IVNkM3E41TjpA&expires=1790437923&ch=daznf1&s=e0e9f0900b57a03c7bd999296085f20e|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=2EL3VW_dwzHPuI2MQZOkuQ&expires=1790437923&ch=spch1&s=4e0f923740dbfa35b395678e63d66174|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -16,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Open de FrancePGA Tour",
         "team2Title": "Open de France",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=rAbO2eNrmTphWxkXzPi3cA&expires=1790437923&ch=dadoskygo&s=3eed49a4a2a2ff66babfd2afbac3b3b0|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=LSnNnSgNXgRHv0BQpHzinA&expires=1790450315&ch=dadoskygo&s=62052674c4ed070bd6b20b45a33a4063|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,7 +26,17 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Presidents CupPGA Tour",
         "team2Title": "Presidents Cup",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=xStTB7-gVbeZZMwUi8plyQ&expires=1790437923&ch=dadoskygo&s=bd872163c4f8431544d6bedb98e4555c|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=FB4InmUOS8F4mu1W-zvMkw&expires=1790450315&ch=dadoskygo&s=e7ad5bd8b7a66fcd7415bdc455abf5a6|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 17:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
+        "team1Title": "LionsLeinster",
+        "team2Title": "Lions",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -46,7 +56,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
         "team1Title": "BulgariaLuxembourg",
         "team2Title": "Bulgaria",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch89.m3u8?md5=anDjt1XBOrIa3zMpnYEIXw&expires=1790450315&ch=spch89&s=74b99ee5febd510f504e721c7a1736f3|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/yt7.m3u8?md5=_JgnIpC9TU7_tTERrgA78w&expires=1790450315&ch=yt7&s=73bdf3e9250ea7ad90d04be09542849f|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -66,7 +76,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
         "team1Title": "IcelandEstonia",
         "team2Title": "Iceland",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch82.m3u8?md5=g95E4O4PHkEFKLTCUlB4hQ&expires=1790450315&ch=spch82&s=79917b44dd6624fad2f66c8e57f4a86d|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -96,7 +106,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
         "team1Title": "CzechiaCroatia",
         "team2Title": "Czechia",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch82.m3u8?md5=D0o12e_VUZy6ZAs1k6wHCQ&expires=1790450315&ch=spch82&s=ee206845bbc607038b9ca85ae758c7c3|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -107,6 +117,106 @@
         "team1Title": "SwitzerlandNorth Macedonia",
         "team2Title": "Switzerland",
         "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-09-26 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+        "team1Title": "Gloucester RugbyExeter Chiefs",
+        "team2Title": "Gloucester Rugby",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=EvRoXpAyVDIETIjfDRG44g&expires=1790450315&ch=bbtsip1&s=b695f60288a901be5322e3711e2f2eee|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team1Title": "Bristol BearsSale Sharks",
+        "team2Title": "Bristol Bears",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=r0mqlMYohct5j1HpIGztYw&expires=1790450315&ch=bbtsip1&s=691a62e83814d925fd0c82b7b561ab79|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-26 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/cambridge-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
+        "team1Title": "Cambridge UnitedAFC Wimbledon",
+        "team2Title": "Cambridge United",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=zXahFw-hhTR8bxVhDyjdkg&expires=1790450315&ch=spch40&s=eec71e6489c9342d7112e56f24e24726|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/oldham-athletic/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
+        "team1Title": "Oldham AthleticSalford City",
+        "team2Title": "Oldham Athletic",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=wuNb2u5eLe3ppw9A0WuXuQ&expires=1790450315&ch=dadoskyfob&s=19d3bd317a1bc3ee813312426ebbce82|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team1Title": "OspreysSale Sharks",
+        "team2Title": "Ospreys",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=1Okwxjot1G_5fqu6ZsOfLg&expires=1790450315&ch=viaplaysp1&s=a2e78bb7077406b10db854f7c658b9d6|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "team1Title": "Glasgow WarriorsMunster",
+        "team2Title": "Glasgow Warriors",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=A7u58qjQV988DJ6LSCjrng&expires=1790450315&ch=viaplaysp1&s=38e8f2ce85c08ef8bd2e9b976ebaf153|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "team1Title": "BullsZebre",
+        "team2Title": "Bulls",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/viaplaysp2.m3u8?md5=cfOvDK7U7lpPPeCD971vWA&expires=1790450315&ch=viaplaysp2&s=9bf7d4fc3f12f3d34e76ed4f5c12a71f|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-27 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team1Title": "ScarletsCardiff Blues",
+        "team2Title": "Scarlets",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=ENPpj-CbzwENqW9xxxL8TA&expires=1790450315&ch=viaplaysp1&s=f77fc8e2df726f27bf61b620e60598f1|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team1Title": "London City LionessesBrighton & Hove Albion",
+        "team2Title": "London City Lionesses",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=wA5RLiho_mEQGRVEQSRMUw&expires=1790450315&ch=dadoskypormi&s=be4931982745f7c1afa31de395fbe976|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=cuWh8oTPgOVLMpTILZkOow&expires=1790450315&ch=spch2&s=4f77ade71ba1ac4842f9080264a66781|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Super League",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/wigan-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
+        "team1Title": "Wigan WarriorsWakefield Trinity",
+        "team2Title": "Wigan Warriors",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=wYErTDZN-u87tGU3kgLyWA&expires=1790450315&ch=dadosky1&s=0dc81f36989ae5d4c37c688139ac81fc|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=qOY__AC8z6aj-zbpXCUSOA&expires=1790450315&ch=dadoskyare&s=fd2775c7a019b6905427337c6d0fa008|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -136,6 +246,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
         "team1Title": "CanadaChile",
         "team2Title": "Canada",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-09-27 04:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1Title": "Raul Rosas JrRaoni Barcelos",
+        "team2Title": "Raul Rosas Jr",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
