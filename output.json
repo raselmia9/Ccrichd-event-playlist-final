@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Open de FrancePGA Tour",
         "team2Title": "Open de France",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=HagoZWgk76Cdt_Ku7H4_hQ&expires=1790518147&ch=dadoskygo&s=c22f10ca926a1245666050d42fe03c69|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=vAorMhxSRFgqCDC5gjYrVw&expires=1790534377&ch=dadoskygo&s=c016c9b301f3b10c5c6415711e835b57|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Presidents CupPGA Tour",
         "team2Title": "Presidents Cup",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=Zar9RkP8mE_tw_Y0xFVtCg&expires=1790518147&ch=dadoskygo&s=d3b4f759f605060c24b9005ca5e3ed7d|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=mMGG_sKvWCA6udEC7OyaLQ&expires=1790534376&ch=dadoskygo&s=dfc5e730a0899f030f25afcd436546bd|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,17 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Laver CupATP Tour",
         "team2Title": "Laver Cup",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=chYgT88rroZVlVweB0c_Iw&expires=1790518147&ch=dadoskyten&s=e643930f9535d324e0b26d21221894c3|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=wOw1mTNm0fH6HsiTfegurA&expires=1790518147&ch=bbtsvp2&s=3c0c39d245b8f6af3c7fd10b32379d92|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NRL",
-        "matchTime": "2026-09-27 12:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/penrith-panthers/logo.webp",
-        "team1Title": "Newcastle KnightsPenrith Panthers",
-        "team2Title": "Newcastle Knights",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=quCNhKXDgt6ci5dXcEj62g&expires=1790534376&ch=dadoskyten&s=8c9283cd0e593a852865a63df7974394|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=cxFVQfHZKPaM7LOMxBotAg&expires=1790534377&ch=bbtsvp2&s=918e54e189f82a5c9a5ab264a0edc63d|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,7 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team1Title": "South AfricaAustralia",
         "team2Title": "South Africa",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=tgpo2hJCRLRMN442tzZjlA&expires=1790518147&ch=dadoskyare&s=2932e045155e0764bba7af621b7852fd|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch61.m3u8?md5=7SJCrWB-AgBwpk95JuRVdg&expires=1790518147&ch=spch61&s=6052370301297f8478a89c71f2593d7a|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -76,7 +66,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
         "team1Title": "NetherlandsSerbia",
         "team2Title": "Netherlands",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/foxsp2.m3u8?md5=0U35-2cxtm4Aj73RC7G3Dg&expires=1790534378&ch=foxsp2&s=d0c068a025f804301ca7d24dec513326|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -116,7 +106,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
         "team1Title": "GermanyGreece",
         "team2Title": "Germany",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/foxsp2.m3u8?md5=53QF29M4YzW4dWoREi1G9w&expires=1790534379&ch=foxsp2&s=4a9e56f0927fc3800258f2e26262a0ac|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -126,7 +116,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
         "team1Title": "IrelandIsrael",
         "team2Title": "Ireland",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch89.m3u8?md5=bN6DOvR3JSQYtr2Od9ZQCw&expires=1790534376&ch=spch89&s=76f0bc428719776e98dd7c64b885af59|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -136,7 +126,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
         "team1Title": "Leicester TigersSaracens",
         "team2Title": "Leicester Tigers",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=xaeiVX58eNGOYoodpPMvUw&expires=1790518147&ch=bbtsip1&s=b09e5299024cc02f4186cc24f4a209a1|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=UDDYSnO6585Qo1IjjXJRsQ&expires=1790534376&ch=bbtsip1&s=1e44b1b406da20fbb9e9ae35511cf3e3|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -146,7 +136,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team1Title": "ChelseaArsenal",
         "team2Title": "Chelsea",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=V7AEjWE6W6MGizd9HabqIA&expires=1790534376&ch=dadoskypormi&s=6d62ed12e6202d78aad9989b34d26d61|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=d5vFslMIN7WiJUo6elfUOQ&expires=1790534376&ch=dadosky1&s=997f8316df3a2eb40e88cfa5b2d134ba|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -186,7 +176,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
         "team1Title": "Buffalo BillsLos Angeles Chargers",
         "team2Title": "Buffalo Bills",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=Ly73fS3cuWw-UkCAnv7IEA&expires=1790534376&ch=dadosky3&s=7e055e07d9aef08ba4b53d2d3a35c0dc|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=Gi9o63ez2SSZn2t_rfpWKg&expires=1790534376&ch=dadosky1&s=953368939913b09fc59fd96f0f6c9e7a|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
