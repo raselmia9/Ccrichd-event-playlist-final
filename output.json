@@ -1,22 +1,12 @@
 [
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "team1Title": "EnglandSpain",
-        "team2Title": "England",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-24 17:30:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Open de FrancePGA Tour",
         "team2Title": "Open de France",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=Dn_9R1EaikiGcFp4gC6l4Q&expires=1790469045&ch=dadoskygo&s=36ac65a3777c626bbbc47bcfc2d2645c|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=L_8anq71UI60_pSMEpFuuA&expires=1790477413&ch=dadoskygo&s=ed45e9490cfc8d4cc7213179b38a2ad6|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Presidents CupPGA Tour",
         "team2Title": "Presidents Cup",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=GKDeSx-Zj13xoK_x8hw7oQ&expires=1790469045&ch=dadoskygo&s=7d605c53777667a6bf6a40d5b4fa0ae1|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=Ou3QgB3CSQYiXvw33hCLUw&expires=1790477413&ch=dadoskygo&s=d8b134cf1e442dd478ce7ebeb272b7db|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -36,57 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Laver CupATP Tour",
         "team2Title": "Laver Cup",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=g1G88F5bkoHkUigS9JJi9w&expires=1790469046&ch=dadoskyten&s=2906e389fc2c5dbcdddf097cae330186|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=fKp8iNsg42zKAUriqOfabQ&expires=1790469046&ch=bbtsvp2&s=3cf84e53322d1d983f6ac901e31336b4|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "team1Title": "CzechiaCroatia",
-        "team2Title": "Czechia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
-        "team1Title": "SwitzerlandNorth Macedonia",
-        "team2Title": "Switzerland",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "team1Title": "AlbaniaBelarus",
-        "team2Title": "Albania",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "team1Title": "SlovakiaMoldova",
-        "team2Title": "Slovakia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team1Title": "ScarletsCardiff Blues",
-        "team2Title": "Scarlets",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=3UolHSKZiAqydaDoOWfAoQ&expires=1790477412&ch=dadoskyten&s=a2ce5110138761fc2b4b62b6e20399c3|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=dDVEs7CNgOCZ6dVGLZdNog&expires=1790477412&ch=bbtsvp2&s=e131d7dbf685c0a50d786f0e1008112b|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -96,27 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
         "team1Title": "USAPeru",
         "team2Title": "USA",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch81.m3u8?md5=r32ZM-E_AEM4ojk-80_KCA&expires=1790469045&ch=spch81&s=47bfea0579d7ffcba647d2588c1081b1|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-27 05:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "team1Title": "CanadaChile",
-        "team2Title": "Canada",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch89.m3u8?md5=bVhUjC3tuLXjzuVlm4c4zA&expires=1790469044&ch=spch89&s=f87684b372b8d84c2fdada52a050aecd|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/tsn4ca.m3u8?md5=qC6tn3e_HunkQpU0HLLx0g&expires=1790469044&ch=tsn4ca&s=64a501b74db727793d50a7ce395e2cc7|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-27 07:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team1Title": "ColombiaMexico",
-        "team2Title": "Colombia",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch20.m3u8?md5=_u-uv7cZtqP-7ukKf7RRVQ&expires=1790469046&ch=spch20&s=9cd2914028ea70c3a9c475b5f01c4662|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -126,12 +46,42 @@
         "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
         "team1Title": "Raul Rosas JrRaoni Barcelos",
         "team2Title": "Raul Rosas Jr",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=VFbdLIbTAKNlVaJ0-VHsWA&expires=1790469044&ch=bbtsip1&s=da832e68993d6946b9d635ee520eb69d|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=ARbeQVWc9Ibxndw92lj-uQ&expires=1790477413&ch=bbtsip1&s=5d146ba03af8f1a76ec6bdc89be4a3dc|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/yt6.m3u8?md5=raeH69k2x-WU9OPB7jVofw&expires=1790477412&ch=yt6&s=d800739fc88eaa84790e25dad13c9c7b|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 05:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "team1Title": "CanadaChile",
+        "team2Title": "Canada",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch89.m3u8?md5=e9FztNk9XRobtWYozuqRbA&expires=1790477413&ch=spch89&s=b8a1b191bc09e7e0a619383c3509f7dd|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/tsn4ca.m3u8?md5=WXnpOMEISRFXZ-fOTfOlOw&expires=1790477413&ch=tsn4ca&s=ea4faf055bac02aaf8dea36bf52cb261|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 07:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "team1Title": "ColombiaMexico",
+        "team2Title": "Colombia",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch20.m3u8?md5=d4qAN_x1gmNlrOxE0aemmA&expires=1790477413&ch=spch20&s=9b8e7028924fc84d7b5e13f03a3dee56|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NRL",
+        "matchTime": "2026-09-27 12:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/penrith-panthers/logo.webp",
+        "team1Title": "Newcastle KnightsPenrith Panthers",
+        "team2Title": "Newcastle Knights",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-09-27 15:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team1Title": "South AfricaAustralia",
