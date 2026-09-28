@@ -1,22 +1,12 @@
 [
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 06:20:00",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team1Title": "Los Angeles RamsDenver Broncos",
-        "team2Title": "Los Angeles Rams",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-09-28 12:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=ZZc0I9y-SetiSN1IC6gFBw&expires=1790585620&ch=bbtsvp2&s=1433ded49322d51ed383705e091f5924|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=KG539HPJHvDtf0sEAFRWpw&expires=1790585622&ch=bbtsip3&s=efdb2f9859172e13c82788eab0b98bc6|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=tKaLaW4uTAVD_Epnm9xpXA&expires=1790615610&ch=bbtsip1&s=f8d5f159b04271504297f24c69d0081f|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=yjR6SS3I5FYRdLmIBOXiaQ&expires=1790615609&ch=bbtsvp2&s=39fa73616c6c50d0b02c09cc7e2cc10d|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=jsl7hk5SPIt61GYIMblCrw&expires=1790615610&ch=bbtsip3&s=d2943162012af7839d936ab67b6b268a|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
         "team1Title": "BangladeshSingapore",
         "team2Title": "Bangladesh",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch14.m3u8?md5=ZM3KkD4ziUeB-Nc2l7813g&expires=1790585621&ch=spch14&s=8cb2fcda0b700bf4341ba962e1f7930d|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
