@@ -1,62 +1,12 @@
 [
     {
         "eventTitle": "NFL",
-        "matchTime": "2026-09-27 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
-        "team1Title": "NFL RedzoneNFL",
-        "team2Title": "NFL Redzone",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
-        "team1Title": "Tampa Bay BuccaneersMinnesota Vikings",
-        "team2Title": "Tampa Bay Buccaneers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "team1Title": "San Francisco 49ersArizona Cardinals",
-        "team2Title": "San Francisco 49ers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:25:00",
-        "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team1Title": "Baltimore RavensDallas Cowboys",
-        "team2Title": "Baltimore Ravens",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=YHCl-Wddtt0YfPyV2HFmCA&expires=1790564086&ch=dadosky3&s=c63a3b183f8acddfe15df7d08109a210|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:25:00",
-        "team1Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "team1Title": "New Orleans SaintsLas Vegas Raiders",
-        "team2Title": "New Orleans Saints",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/nfl09.m3u8?md5=ZnGAbiRzoPZLLAX2ni3Uvw&expires=1790564087&ch=nfl09&s=b508418f04e30724fc8b0db4398389d8|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
         "matchTime": "2026-09-28 06:20:00",
         "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
         "team1Title": "Los Angeles RamsDenver Broncos",
         "team2Title": "Los Angeles Rams",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=MqdOE4A7wkZMZxcn3Y7_6g&expires=1790564081&ch=dadosky3&s=0bc6d2b012f1a89e3a3ded113584ae88|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=kOu1In-cXJkHQm4S7gzlew&expires=1790564082&ch=dadosky1&s=03394c7c72ff1cd45b89e85798375a48|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/nfl10.m3u8?md5=VfScPSYJ7SW1-QKEr4pL9w&expires=1790564081&ch=nfl10&s=f4d1a4c1df681c233abee9d553e6f200|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -66,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=ZZc0I9y-SetiSN1IC6gFBw&expires=1790585620&ch=bbtsvp2&s=1433ded49322d51ed383705e091f5924|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=KG539HPJHvDtf0sEAFRWpw&expires=1790585622&ch=bbtsip3&s=efdb2f9859172e13c82788eab0b98bc6|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -76,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
         "team1Title": "BangladeshSingapore",
         "team2Title": "Bangladesh",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch14.m3u8?md5=ZM3KkD4ziUeB-Nc2l7813g&expires=1790585621&ch=spch14&s=8cb2fcda0b700bf4341ba962e1f7930d|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
