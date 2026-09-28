@@ -6,17 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=tKaLaW4uTAVD_Epnm9xpXA&expires=1790615610&ch=bbtsip1&s=f8d5f159b04271504297f24c69d0081f|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=yjR6SS3I5FYRdLmIBOXiaQ&expires=1790615609&ch=bbtsvp2&s=39fa73616c6c50d0b02c09cc7e2cc10d|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=jsl7hk5SPIt61GYIMblCrw&expires=1790615610&ch=bbtsip3&s=d2943162012af7839d936ab67b6b268a|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FIFA ASEAN Cup",
-        "matchTime": "2026-09-28 14:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
-        "team1Title": "BangladeshSingapore",
-        "team2Title": "Bangladesh",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=vWOWo3rf9vxM45ETPYQrlw&expires=1790635782&ch=bbtsip1&s=29b98b12f45e88b2268b4cd3850446a9|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=0Yd_tXSZkN0vbnJZrfZSTw&expires=1790635783&ch=bbtsvp2&s=b1f37ac0a675d5e3be081618a82a89a7|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=CElVbgu9t_u7T1Erga-5BA&expires=1790635782&ch=bbtsip3&s=88bced5f106520a173322919c6a0b221|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -52,11 +42,21 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-29 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "team1Title": "FranceBelgium",
+        "team2Title": "France",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/foxsp2.m3u8?md5=xu6f8v9HKERIZvCPEpsVHA&expires=1790635783&ch=foxsp2&s=ddb1da421f743db5361df3e9bad890f8|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/yt7.m3u8?md5=6E30lE6Jue9ier6dsj56JA&expires=1790635783&ch=yt7&s=9a8cf355b812c5f83d6fed14beb5107b|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dazn1de.m3u8?md5=iowJQ19X9f-t3Ov0_NXLjA&expires=1790635783&ch=dazn1de&s=bd1e5c8385b3eefcb870f4b25ee48fdf|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/spch71.m3u8?md5=SrNi7pEBAFzJprx8baA8Nw&expires=1790635783&ch=spch71&s=c92e9d3ebd65cd73cba743a3f2b878bb|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-29 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "team1Title": "TurkiyeItaly",
         "team2Title": "Turkiye",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/yt6.m3u8?md5=fNq0DcWxWJu-wMwRt0T4ew&expires=1790635783&ch=yt6&s=b14552ecfca63985f149f6badc1c44a5|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch72.m3u8?md5=DeT3olJB6Tv-VCo7zc2Rqw&expires=1790635782&ch=spch72&s=71be4b1b340419a8581cbe40fc80bed2|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/yt36.m3u8?md5=z_HBRmlxPgaogvrl6RAJpw&expires=1790635783&ch=yt36&s=e16984020433184ae3753417a05a595b|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dazn2de.m3u8?md5=em56-76y_gTDzhrsXlyNIQ&expires=1790635782&ch=dazn2de&s=bac4867d038fcfb12916863412ad3656|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -66,7 +66,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
         "team1Title": "Northern IrelandHungary",
         "team2Title": "Northern Ireland",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch82.m3u8?md5=GnyIT_EJYPn59yRgzEd--g&expires=1790635782&ch=spch82&s=440724c6655014d9a5d45b08dc95e818|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -86,6 +86,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
         "team1Title": "PolandSweden",
         "team2Title": "Poland",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch89.m3u8?md5=_boOwM0U9xicjvKNbO7RsA&expires=1790635782&ch=spch89&s=f215ddf5c5bbabde9c3d585619f96815|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-29 06:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team1Title": "Chicago BearsPhiladelphia Eagles",
+        "team2Title": "Chicago Bears",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-29 16:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "team1Title": "AustraliaBrazil",
+        "team2Title": "Australia",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
