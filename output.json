@@ -6,37 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=vWOWo3rf9vxM45ETPYQrlw&expires=1790635782&ch=bbtsip1&s=29b98b12f45e88b2268b4cd3850446a9|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=0Yd_tXSZkN0vbnJZrfZSTw&expires=1790635783&ch=bbtsvp2&s=b1f37ac0a675d5e3be081618a82a89a7|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=CElVbgu9t_u7T1Erga-5BA&expires=1790635782&ch=bbtsip3&s=88bced5f106520a173322919c6a0b221|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-28 22:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
-        "team1Title": "ArmeniaMontenegro",
-        "team2Title": "Armenia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-28 22:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "team1Title": "LatviaCyprus",
-        "team2Title": "Latvia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-28 22:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "team1Title": "GeorgiaUkraine",
-        "team2Title": "Georgia",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=hBVl0kTTuwALJC92mvtA_g&expires=1790649092&ch=bbtsip1&s=98a594468d5094cc1fd2d55c04fe814b|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=UahQYh3Lv0_nVkU19JdMpw&expires=1790649090&ch=bbtsvp2&s=f14c7db066c41641ef8564efa7d0d67e|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=yJpLMwHYzPuJA0WLs0Wi7w&expires=1790649090&ch=bbtsip3&s=e99214c6a03c62b5f69e6c449376b52c|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
         "team1Title": "FranceBelgium",
         "team2Title": "France",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/foxsp2.m3u8?md5=xu6f8v9HKERIZvCPEpsVHA&expires=1790635783&ch=foxsp2&s=ddb1da421f743db5361df3e9bad890f8|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/yt7.m3u8?md5=6E30lE6Jue9ier6dsj56JA&expires=1790635783&ch=yt7&s=9a8cf355b812c5f83d6fed14beb5107b|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dazn1de.m3u8?md5=iowJQ19X9f-t3Ov0_NXLjA&expires=1790635783&ch=dazn1de&s=bd1e5c8385b3eefcb870f4b25ee48fdf|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/spch71.m3u8?md5=SrNi7pEBAFzJprx8baA8Nw&expires=1790635783&ch=spch71&s=c92e9d3ebd65cd73cba743a3f2b878bb|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -56,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "team1Title": "TurkiyeItaly",
         "team2Title": "Turkiye",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/yt6.m3u8?md5=fNq0DcWxWJu-wMwRt0T4ew&expires=1790635783&ch=yt6&s=b14552ecfca63985f149f6badc1c44a5|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch72.m3u8?md5=DeT3olJB6Tv-VCo7zc2Rqw&expires=1790635782&ch=spch72&s=71be4b1b340419a8581cbe40fc80bed2|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/yt36.m3u8?md5=z_HBRmlxPgaogvrl6RAJpw&expires=1790635783&ch=yt36&s=e16984020433184ae3753417a05a595b|Referer=https://bhalocast.pro/,)Link4,,https://dz5.bhalocast.pro:7059/hls/dazn2de.m3u8?md5=em56-76y_gTDzhrsXlyNIQ&expires=1790635782&ch=dazn2de&s=bac4867d038fcfb12916863412ad3656|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -66,7 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
         "team1Title": "Northern IrelandHungary",
         "team2Title": "Northern Ireland",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch82.m3u8?md5=GnyIT_EJYPn59yRgzEd--g&expires=1790635782&ch=spch82&s=440724c6655014d9a5d45b08dc95e818|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -86,7 +56,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
         "team1Title": "PolandSweden",
         "team2Title": "Poland",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch89.m3u8?md5=_boOwM0U9xicjvKNbO7RsA&expires=1790635782&ch=spch89&s=f215ddf5c5bbabde9c3d585619f96815|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -96,7 +66,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
         "team1Title": "Chicago BearsPhiladelphia Eagles",
         "team2Title": "Chicago Bears",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=V4_0HN1WCKsfgf4j7-RQqQ&expires=1790649088&ch=dadosky3&s=3f7daba1e67b530257f8c24d95e62fbb|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=LUNEJdm5lBcNj8z9WjFrkQ&expires=1790649090&ch=dadosky1&s=45303afa2ef3feb41de5f2bc81ff3418|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/nfl01.m3u8?md5=_evDk3C3VE0h2IWTtsNQKQ&expires=1790649088&ch=nfl01&s=e917b4a22e6a61fcd6aed684b55c615b|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -106,6 +76,86 @@
         "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
         "team1Title": "AustraliaBrazil",
         "team2Title": "Australia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-29 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "team1Title": "FinlandBelarus",
+        "team2Title": "Finland",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-29 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team1Title": "MoldovaFaroe Islands",
+        "team2Title": "Moldova",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-30 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "team1Title": "SpainCroatia",
+        "team2Title": "Spain",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-30 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team1Title": "EnglandCzechia",
+        "team2Title": "England",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-30 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "team1Title": "ScotlandSwitzerland",
+        "team2Title": "Scotland",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-30 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "team1Title": "SlovakiaKazakhstan",
+        "team2Title": "Slovakia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-30 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "team1Title": "AlbaniaSan Marino",
+        "team2Title": "Albania",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-30 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "team1Title": "LuxembourgIceland",
+        "team2Title": "Luxembourg",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
