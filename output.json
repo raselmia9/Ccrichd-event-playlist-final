@@ -6,57 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=hBVl0kTTuwALJC92mvtA_g&expires=1790649092&ch=bbtsip1&s=98a594468d5094cc1fd2d55c04fe814b|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=UahQYh3Lv0_nVkU19JdMpw&expires=1790649090&ch=bbtsvp2&s=f14c7db066c41641ef8564efa7d0d67e|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=yJpLMwHYzPuJA0WLs0Wi7w&expires=1790649090&ch=bbtsip3&s=e99214c6a03c62b5f69e6c449376b52c|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-29 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "team1Title": "FranceBelgium",
-        "team2Title": "France",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-29 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team1Title": "TurkiyeItaly",
-        "team2Title": "Turkiye",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-29 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team1Title": "Northern IrelandHungary",
-        "team2Title": "Northern Ireland",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-29 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "team1Title": "Bosnia and HerzegovinaRomania",
-        "team2Title": "Bosnia and Herzegovina",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-29 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "team1Title": "PolandSweden",
-        "team2Title": "Poland",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=IgBaiqz3kvICnlMsIjA9GA&expires=1790669906&ch=bbtsip1&s=6495ee0495d4424dbcc6bb503d839909|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=wE8J9g1T6KWxhc5zGDpEhg&expires=1790669906&ch=bbtsvp2&s=25ced17f29771f1461fe8ff868adfa62|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=TxRrgZcM6ZTwK0ovhIGcbg&expires=1790669906&ch=bbtsip3&s=91b42fadf93e89830051d7fe122c1986|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -66,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
         "team1Title": "Chicago BearsPhiladelphia Eagles",
         "team2Title": "Chicago Bears",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=V4_0HN1WCKsfgf4j7-RQqQ&expires=1790649088&ch=dadosky3&s=3f7daba1e67b530257f8c24d95e62fbb|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=LUNEJdm5lBcNj8z9WjFrkQ&expires=1790649090&ch=dadosky1&s=45303afa2ef3feb41de5f2bc81ff3418|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/nfl01.m3u8?md5=_evDk3C3VE0h2IWTtsNQKQ&expires=1790649088&ch=nfl01&s=e917b4a22e6a61fcd6aed684b55c615b|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
