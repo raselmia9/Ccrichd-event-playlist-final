@@ -6,17 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=IgBaiqz3kvICnlMsIjA9GA&expires=1790669906&ch=bbtsip1&s=6495ee0495d4424dbcc6bb503d839909|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=wE8J9g1T6KWxhc5zGDpEhg&expires=1790669906&ch=bbtsvp2&s=25ced17f29771f1461fe8ff868adfa62|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=TxRrgZcM6ZTwK0ovhIGcbg&expires=1790669906&ch=bbtsip3&s=91b42fadf93e89830051d7fe122c1986|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-29 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team1Title": "Chicago BearsPhiladelphia Eagles",
-        "team2Title": "Chicago Bears",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=nFlqX6NQEnY2M6ou5FNWsw&expires=1790694279&ch=bbtsip1&s=f407e53a1f8208ac0ed563e693aaed59|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=2q0tr77tMjVyarHP8nrfwA&expires=1790694279&ch=bbtsvp2&s=131d4e605ad3368aa94638436e635abe|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=go3CaVjdDmkNeTo-YcDfVQ&expires=1790694279&ch=bbtsip3&s=ad410ec6153b5960b7aba639081a4c55|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
