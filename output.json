@@ -6,37 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=ALiE3G5EnaKFFnruqwaX1w&expires=1790757888&ch=bbtsip1&s=6a2767555412687c41ec2fd69815ee53|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=SjEvbElRYCo3oZvmGjkCKA&expires=1790757887&ch=bbtsvp2&s=55100fb3149172da7e2aa453d4f98808|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=41jvH3AkJtypFn2JkQC3bQ&expires=1790757888&ch=bbtsip3&s=ea7f4023cdaa52002c9d2edffa314e16|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-30 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "team1Title": "USAChile",
-        "team2Title": "USA",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-09-30 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
-        "team1Title": "New York YankeesBoston Red Sox",
-        "team2Title": "New York Yankees",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-30 07:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "team1Title": "MexicoPeru",
-        "team2Title": "Mexico",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=Sdk4FfaNmD4QhTaC0yOzLw&expires=1790781654&ch=bbtsip1&s=a1542233c8e1aae5648c87070b9d9d3e|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=Pr7N2ErOHZtuybzEtH0XXQ&expires=1790781654&ch=bbtsvp2&s=277391526fea5a77f7bcd2c385e7e6f9|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=nh2EMr8XwmV1U22u_foJbg&expires=1790781654&ch=bbtsip3&s=e5d6582c6433e86445de96bcf6054cc1|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -46,37 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Japan Open Tennis ChampionshipsATP Tour",
         "team2Title": "Japan Open Tennis Championships",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=OwMehnscE4RdUfIRBHvUGg&expires=1790757888&ch=dadoskyten&s=67323147837435c286f5ad0773c0ac4a|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=3Z3Nr5D5-QWzaGJsej0rnQ&expires=1790757887&ch=dadoskyare&s=c28fcbe64501c75d7503a3215e4ef471|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=CSV13zOFovJP4em_j69xiQ&expires=1790757888&ch=dadosky1&s=d434244b863793fa7aa145dc5bab356c|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-09-30 09:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "team1Title": "Chicago CubsSan Diego Padres",
-        "team2Title": "Chicago Cubs",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=66F88l5CMhogyBNQ1LlayA&expires=1790757887&ch=bbtsip1&s=9c052a9a7dca3906abbc80f76093636c|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=An4cFFwlPAIUamaSgNJTNg&expires=1790757888&ch=bbtsvp2&s=82725532be71d4bbea6765e60fb6e6c7|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-01 00:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
-        "team1Title": "Atlanta BravesPhiladelphia Phillies",
-        "team2Title": "Atlanta Braves",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-01 03:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-        "team1Title": "Chicago White SoxHouston Astros",
-        "team2Title": "Chicago White Sox",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=QtiOrOUOZkvRZIQO1ue11w&expires=1790781654&ch=dadoskyten&s=21ccbe38adc085f8762c4b3009fef02d|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=eSy--vjQiSL3u4vfGipOjw&expires=1790781654&ch=dadoskyare&s=30910a433f81df7612f5aad3a4037e91|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=DZttIaXWzYiup7pZlrdfPQ&expires=1790781654&ch=dadosky1&s=73fcc6d7d99facf73cbd6e6655f666b4|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -156,6 +96,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
         "team1Title": "PSGOud-Heverlee Leuven",
         "team2Title": "PSG",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-01 00:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
+        "team1Title": "Atlanta BravesPhiladelphia Phillies",
+        "team2Title": "Atlanta Braves",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-01 03:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+        "team1Title": "Chicago White SoxHouston Astros",
+        "team2Title": "Chicago White Sox",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
