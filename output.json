@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=eIELCF8MyBY0zhXGONmFZg&expires=1790871515&ch=bbtsip1&s=955084acbadb148ebad9a9efb8661125|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=jpP4P9Hsg_f5-vRCDR8PKw&expires=1790871515&ch=bbtsvp2&s=a96859e860765971c47b9885e7df4f84|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=Lht-Y6Mygse10mAtsHx5GQ&expires=1790871516&ch=bbtsip3&s=2fd8aafa6495066116110fb5d477662a|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=quya8hZwmzfdNrSYPMKHpg&expires=1790890180&ch=bbtsip1&s=04c2f98b10d6646346218e6dc1070cea|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=apURqgzcF9SNd1mRfp0cgg&expires=1790890180&ch=bbtsip3&s=7d9633ce117797f8a937fa6e4673cf6e|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,17 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Japan Open Tennis ChampionshipsATP Tour",
         "team2Title": "Japan Open Tennis Championships",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=aW-lyKYoE4h6ZE_T_xPnxg&expires=1790871515&ch=dadoskyten&s=5c1c908393fb6d3c139d2950a30b6586|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=bLfalKgqyQvvIBTAN2ZOiQ&expires=1790871516&ch=dadoskyare&s=e3c2ce0db4a04820f4b338e58906ffe7|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=fgKkci12jf-Q8rQ6YH2HZw&expires=1790871516&ch=dadosky1&s=5d0ae0f107c465ec97662537f45d44bf|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FIFA ASEAN Cup",
-        "matchTime": "2026-10-01 17:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/indonesia/logo.webp",
-        "team1Title": "BangladeshIndonesia",
-        "team2Title": "Bangladesh",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch14.m3u8?md5=4Zp4eO2Mz8fZjAm1aqoc7g&expires=1790871516&ch=spch14&s=151dc66aa71655a13da2ece80c387ec8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=hqbptUW7zpPzNAFfXzPEEg&expires=1790890180&ch=dadoskyten&s=e87b0cef39010c45086233bea13849c6|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=KIQFrS3_-D3BhMHyJZ4bbw&expires=1790890180&ch=dadoskyare&s=6400264c530f2c5e59a7aeff4b3ea43c|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=OLQGe6HIJzk6jnn0uVnLkQ&expires=1790890180&ch=dadosky1&s=d25887f0463c69b0e457a48182d32061|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -36,7 +26,37 @@
         "team2Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
         "team1Title": "AzerbaijanLiechtenstein",
         "team2Title": "Azerbaijan",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/yt6.m3u8?md5=OYtDZxxqXhGe3CJ9237kog&expires=1790890180&ch=yt6&s=1383284c2ba12e99bdb5f309e2b1ca95|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch89.m3u8?md5=IPH-AYcUmY-Y47dtn0rdPw&expires=1790890180&ch=spch89&s=21b83a8ce4bb4a3db876202cab38f612|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-01 22:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
+        "team1Title": "Inter MilanAustria Wien",
+        "team2Title": "Inter Milan",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch79.m3u8?md5=7EVVfFDuuil5zxmWTRQmUA&expires=1790890180&ch=spch79&s=59ab424a2c7411541070e897974d469f|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=5QMXOcsDqMNGtqSsnxspfg&expires=1790890180&ch=spch1&s=b2eb62ef42f87602adf485ee1b8a69d8|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-02 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team1Title": "Manchester CityReal Madrid",
+        "team2Title": "Manchester City",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=j-vfkuYbSGrRaNP0jWyrTQ&expires=1790890180&ch=spch40&s=dc9aca894e89867241fe22b4bb440c7e|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=1W7Lh1FTzWN6GL4iLpfgoA&expires=1790890180&ch=spch2&s=4225ed0b6eb55c85f3916ec5b442b358|Referer=https://bhalocast.pro/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-02 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
+        "team1Title": "PSGOud-Heverlee Leuven",
+        "team2Title": "PSG",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch79.m3u8?md5=lQVMB8VsEmLgi5AUdk8N9w&expires=1790890180&ch=spch79&s=bedef54113b0f34ad888baf6672352b3|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=IncdkR6R9bw7D0H_Nl1tng&expires=1790890180&ch=spch1&s=b93efd02f52a383fb0bb80fcad3f1378|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -110,32 +130,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-01 22:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
-        "team1Title": "Inter MilanAustria Wien",
-        "team2Title": "Inter Milan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-02 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team1Title": "Manchester CityReal Madrid",
-        "team2Title": "Manchester City",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-02 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
-        "team1Title": "PSGOud-Heverlee Leuven",
-        "team2Title": "PSG",
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "team1Title": "TurkiyeBelgium",
+        "team2Title": "Turkiye",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
