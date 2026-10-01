@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=ue0brcoQhu-4Y24tJWFjMw&expires=1790845861&ch=bbtsip1&s=4fb0ce9710671040f3d7f78d1d84ead2|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=rpAkkLHPkLq7qytVVBQKbQ&expires=1790845861&ch=bbtsvp2&s=d23d0e7a27ebaba71b982a87d48e97ba|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=qF-JyTGBq5juT5piTaxU7A&expires=1790845861&ch=bbtsip3&s=718901efdcbc6af933a01d56310786a9|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=eIELCF8MyBY0zhXGONmFZg&expires=1790871515&ch=bbtsip1&s=955084acbadb148ebad9a9efb8661125|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=jpP4P9Hsg_f5-vRCDR8PKw&expires=1790871515&ch=bbtsvp2&s=a96859e860765971c47b9885e7df4f84|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=Lht-Y6Mygse10mAtsHx5GQ&expires=1790871516&ch=bbtsip3&s=2fd8aafa6495066116110fb5d477662a|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,17 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Japan Open Tennis ChampionshipsATP Tour",
         "team2Title": "Japan Open Tennis Championships",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=D9UAsvGSpKl_guf3AMmnAw&expires=1790845861&ch=dadoskyten&s=55d3a212794eff9a21d8e1801c1516de|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=jUlh6Y6WiT04kRqtN5ONGg&expires=1790845861&ch=dadoskyare&s=230b8c879d82bfa8a74bf0bb5eeb4d03|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=JBe79wJXsdvlmdh-QHmOKA&expires=1790845861&ch=dadosky1&s=440dbae35a8b2b76e99bb9518e5095f2|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-01 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bolivia/logo.webp",
-        "team1Title": "ArgentinaBolivia",
-        "team2Title": "Argentina",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=aW-lyKYoE4h6ZE_T_xPnxg&expires=1790871515&ch=dadoskyten&s=5c1c908393fb6d3c139d2950a30b6586|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=bLfalKgqyQvvIBTAN2ZOiQ&expires=1790871516&ch=dadoskyare&s=e3c2ce0db4a04820f4b338e58906ffe7|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=fgKkci12jf-Q8rQ6YH2HZw&expires=1790871516&ch=dadosky1&s=5d0ae0f107c465ec97662537f45d44bf|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -36,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/indonesia/logo.webp",
         "team1Title": "BangladeshIndonesia",
         "team2Title": "Bangladesh",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch14.m3u8?md5=4Zp4eO2Mz8fZjAm1aqoc7g&expires=1790871516&ch=spch14&s=151dc66aa71655a13da2ece80c387ec8|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
