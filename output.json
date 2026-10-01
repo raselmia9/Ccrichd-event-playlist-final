@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=8U-YaQc_kqHvZ9oGZruuOg&expires=1790824153&ch=bbtsip1&s=a15a523ca99dd0f888469e1f89283a7d|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=6aA9HYjzLFd9qTTSe5a43A&expires=1790824153&ch=bbtsvp2&s=cd4863a0e419e91a6c87b3bed24d1478|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=335lz500g0VftQw8lILfNQ&expires=1790824153&ch=bbtsip3&s=5892bd9fe08febae015f5af98bff7d40|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=ue0brcoQhu-4Y24tJWFjMw&expires=1790845861&ch=bbtsip1&s=4fb0ce9710671040f3d7f78d1d84ead2|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=rpAkkLHPkLq7qytVVBQKbQ&expires=1790845861&ch=bbtsvp2&s=d23d0e7a27ebaba71b982a87d48e97ba|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=qF-JyTGBq5juT5piTaxU7A&expires=1790845861&ch=bbtsip3&s=718901efdcbc6af933a01d56310786a9|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,17 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Japan Open Tennis ChampionshipsATP Tour",
         "team2Title": "Japan Open Tennis Championships",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=lvL2YM_mErYn3zZq2-zimw&expires=1790824153&ch=dadoskyten&s=90b6344bb53e5feeed92728e4c14351b|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=rfvKEclf92qLbf5boxK5Bg&expires=1790824153&ch=dadoskyare&s=5346ca8df18c7afa498abc5339273b81|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=DyQIkduPAC6UHYt03apQTw&expires=1790824153&ch=dadosky1&s=b3c490d77d9672a5cd8a2b5790405613|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-01 03:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-        "team1Title": "Chicago White SoxHouston Astros",
-        "team2Title": "Chicago White Sox",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=E7HLmUKXsSkedeH_HIU1PA&expires=1790824153&ch=bbtsip1&s=2351cdf9e68c96ac608a176612291214|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=xNOyJRSEIi0FgvTU9iWuzw&expires=1790824153&ch=bbtsvp2&s=9fac246bb32f58e9ca375a87a721ad9a|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=D9UAsvGSpKl_guf3AMmnAw&expires=1790845861&ch=dadoskyten&s=55d3a212794eff9a21d8e1801c1516de|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=jUlh6Y6WiT04kRqtN5ONGg&expires=1790845861&ch=dadoskyare&s=230b8c879d82bfa8a74bf0bb5eeb4d03|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=JBe79wJXsdvlmdh-QHmOKA&expires=1790845861&ch=dadosky1&s=440dbae35a8b2b76e99bb9518e5095f2|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -36,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/bolivia/logo.webp",
         "team1Title": "ArgentinaBolivia",
         "team2Title": "Argentina",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=U2C_V4o_T5VYYddSFr7hlw&expires=1790824153&ch=spch11&s=a53a82df0874e97cf2c2787e54a4bad4|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/yt20.m3u8?md5=9SEeyVKa27obQSYB1Cy0vg&expires=1790824153&ch=yt20&s=735e7dfdf1aa3cb2e16a5ad7e526bef6|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/sky3it.m3u8?md5=eJ70Dmznuz5DNBde9410og&expires=1790824153&ch=sky3it&s=7287199f746cef5119d69a17af21ca1f|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
