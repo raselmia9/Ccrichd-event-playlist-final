@@ -6,7 +6,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
         "team2Title": "Shenzhen Open Snooker",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=PHVk8w9ZlWCOqTKFFy9bfw&expires=1790939883&ch=bbtsip1&s=e9874ed97d284e0642e9d84ed93acbbf|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=ggonSZI8teKh98IBTsofjw&expires=1790939886&ch=bbtsip3&s=83495df21b4b6c05a020ed46fd482b3c|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=DOn3enqhaa6YDoWDfQXidA&expires=1790962019&ch=bbtsip1&s=476c73a3c0dc9a55c55d8099a56671d4|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=1GjIJTWWB3oqeh3FDivV8A&expires=1790962019&ch=bbtsip3&s=86e03dfb5c1e22a6ff401a0f909d8937|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -16,7 +16,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Japan Open Tennis ChampionshipsATP Tour",
         "team2Title": "Japan Open Tennis Championships",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=ShpBhc1mZJtwyP6Y9vSCiQ&expires=1790939882&ch=dadoskyten&s=8a47798fd60306bd77ae011dd3b1d561|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=QnA8IFWhYsrMCNAesjj5Fg&expires=1790939883&ch=dadoskyare&s=d02e781bcfe63c61489196fe78b6a4a1|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=Nbiubmv_QI4IoopyEYiSaA&expires=1790939886&ch=dadosky1&s=67801289cc23b2165e418689b3df3728|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=Cqb0t1Q2aD76jFIEhNLQBA&expires=1790962019&ch=dadoskyten&s=7c9785f6e840daa89a7c508c99f1c07f|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=c0TKZWSgTzAM3eF9QwFf-A&expires=1790962019&ch=dadoskyare&s=a880bb635c06a1ecf8e4e126d8081bbf|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=AG59XD6hnfphJrAgFJfDQA&expires=1790962019&ch=dadosky1&s=9c00ec2335de3ded0dee7981e6a32fcc|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -26,7 +26,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Bank of Utah ChampionshipPGA Tour",
         "team2Title": "Bank of Utah Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=ejZdiGFCnJ-0GheISn53Ww&expires=1790939883&ch=dadoskygo&s=2ca896b92a5014f6f6a356deba430a0b|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=xLX1QZzc9Xm5je3NWe9MTw&expires=1790962019&ch=dadoskygo&s=cc5c6044c262497d04eba1ecd47152fb|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -36,17 +36,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "LPGA Lotte ChampionshipPGA Tour",
         "team2Title": "LPGA Lotte Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=8XTnkCGxj9czmqFfd3XsqA&expires=1790939883&ch=dadoskygo&s=cf5cf29730cfe81b27a7b235265ffd40|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-02 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
-        "team1Title": "New York YankeesBoston Red Sox",
-        "team2Title": "New York Yankees",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=FZWZtRumy4cFTYXDWZFA6Q&expires=1790962019&ch=dadoskygo&s=d814bc65506ed8358238740172645790|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -56,27 +46,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team1Title": "MotoGP Japanese GPMotoGP",
         "team2Title": "MotoGP Japanese GP",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=UV_U6GaJqpJGW2_z_BITAQ&expires=1790939886&ch=bbtsvp2&s=86062d6bb2f505892f99389c0d4b65ca|Referer=https://bhalocast.pro/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-02 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
-        "team1Title": "Pittsburgh SteelersCleveland Browns",
-        "team2Title": "Pittsburgh Steelers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-02 08:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "team1Title": "Chicago CubsSan Diego Padres",
-        "team2Title": "Chicago Cubs",
-        "streamLink": "Stream links will be activated before 1 hr.",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=eYAPUFET71z1GQDmoChyng&expires=1790962019&ch=bbtsvp2&s=f5f3fa344c07ed0d904ee75b6a4e1ede|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
@@ -86,17 +56,17 @@
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team1Title": "f1 Bahrain Grand PrixFormula 1",
         "team2Title": "f1 Bahrain Grand Prix",
-        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=Qv2TlBT0bMHJ0hNmOV2h3w&expires=1790939886&ch=dadoskyf17&s=9e689d5a521a4992bcafe04192d21ac1|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch17.m3u8?md5=F7TfV3R6NAZPMapCgeFkVw&expires=1790939886&ch=spch17&s=04c1774b25dfc400e914a7e05362a4ee|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznf1.m3u8?md5=FnBABGg8l6aW-HPD0gEifA&expires=1790939886&ch=daznf1&s=d3b640b4020ef2eac756c7175ab0e360|Referer=https://bhalocast.pro/",
+        "streamLink": "Link1,,https://dz5.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=yTsxPP1_pPB7IRk4PmhG0Q&expires=1790962019&ch=dadoskyf17&s=09e24b3c536781f81d077fdc4226e5a8|Referer=https://bhalocast.pro/,)Link2,,https://dz5.bhalocast.pro:7059/hls/spch17.m3u8?md5=j6OGtt9R4HQtq7TbfjwmHw&expires=1790962019&ch=spch17&s=f9746956a5643992ba3557fafa98f182|Referer=https://bhalocast.pro/,)Link3,,https://dz5.bhalocast.pro:7059/hls/daznf1.m3u8?md5=qQsX4sCKEn2uk5ImGNLQlA&expires=1790962019&ch=daznf1&s=eed20048dcb2531da59efa5f3a1aa8f3|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
-        "eventTitle": "FIFA ASEAN Cup",
-        "matchTime": "2026-10-02 14:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/vietnam/logo.webp",
         "team1Title": "PakistanVietnam",
         "team2Title": "Pakistan",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/spch12.m3u8?md5=P4qLg9Vr5nq1IwTMt2Vp6A&expires=1790939883&ch=spch12&s=f5f340a4f8c803396c66b5fe160c7f68|Referer=https://bhalocast.pro/",
+        "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
@@ -106,7 +76,7 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Alfred Dunhill ChampionshipPGA Tour",
         "team2Title": "Alfred Dunhill Championship",
-        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=GHiciM_a947xss6UsprOYw&expires=1790939886&ch=dadoskygo&s=4c65e4315241f257faafe52e2805199c|Referer=https://bhalocast.pro/",
+        "streamLink": "https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=tCWEshKDBvtsoYXVhK3Xxg&expires=1790962019&ch=dadoskygo&s=e9e5d5009ebbf65c8d93be2db9e27432|Referer=https://bhalocast.pro/",
         "isHot": true
     },
     {
