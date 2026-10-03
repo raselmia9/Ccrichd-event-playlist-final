@@ -1,7 +1,7 @@
 [
     {
         "eventTitle": "Snooker",
-        "matchTime": "2026-09-28 12:00:00",
+        "matchTime": "2026-10-04 12:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Shenzhen Open SnookerSnooker",
@@ -11,7 +11,7 @@
     },
     {
         "eventTitle": "ATP Tour",
-        "matchTime": "2026-09-30 08:00:00",
+        "matchTime": "2026-10-03 08:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Japan Open Tennis ChampionshipsATP Tour",
@@ -21,7 +21,7 @@
     },
     {
         "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-01 22:00:00",
+        "matchTime": "2026-10-03 22:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "Bank of Utah ChampionshipPGA Tour",
@@ -31,7 +31,7 @@
     },
     {
         "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-02 06:00:00",
+        "matchTime": "2026-10-04 06:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "LPGA Lotte ChampionshipPGA Tour",
@@ -41,7 +41,7 @@
     },
     {
         "eventTitle": "MotoGP",
-        "matchTime": "2026-10-02 06:00:00",
+        "matchTime": "2026-10-04 06:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team1Title": "MotoGP Japanese GPMotoGP",
@@ -51,7 +51,7 @@
     },
     {
         "eventTitle": "Formula 1",
-        "matchTime": "2026-10-02 10:00:00",
+        "matchTime": "2026-10-04 10:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team1Title": "f1 Bahrain Grand PrixFormula 1",
@@ -76,26 +76,6 @@
         "team2Logo": "https://cdn.img4every1.org/team/tranmere-rovers/logo.webp",
         "team1Title": "ChesterfieldTranmere Rovers",
         "team2Title": "Chesterfield",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/burton-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/huddersfield-town/logo.webp",
-        "team1Title": "Burton AlbionHuddersfield Town",
-        "team2Title": "Burton Albion",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
-        "team1Title": "Bradford CityReading",
-        "team2Title": "Bradford City",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -226,6 +206,116 @@
         "team2Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
         "team1Title": "USAMexico",
         "team2Title": "USA",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/burton-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/huddersfield-town/logo.webp",
+        "team1Title": "Burton AlbionHuddersfield Town",
+        "team2Title": "Burton Albion",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "team1Title": "Bradford CityReading",
+        "team2Title": "Bradford City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "team1Title": "DragonsScarlets",
+        "team2Title": "Dragons",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "team1Title": "Glasgow WarriorsUlster",
+        "team2Title": "Glasgow Warriors",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-04 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "team1Title": "BullsMunster",
+        "team2Title": "Bulls",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team1Title": "Bristol BearsNorthampton Saints",
+        "team2Title": "Bristol Bears",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-03 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "team1Title": "Gloucester RugbyHarlequins",
+        "team2Title": "Gloucester Rugby",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-03 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "team1Title": "Cleveland GuardiansChicago White Sox",
+        "team2Title": "Cleveland Guardians",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-04 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "team1Title": "Atlanta BravesLos Angeles Dodgers",
+        "team2Title": "Atlanta Braves",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-04 04:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "team1Title": "Tampa Bay RaysNew York Yankees",
+        "team2Title": "Tampa Bay Rays",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-10-04 04:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1Title": "Natalia SilvaWang Cong",
+        "team2Title": "Natalia Silva",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
