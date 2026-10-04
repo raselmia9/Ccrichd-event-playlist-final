@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "ATP Tour",
-        "matchTime": "2026-10-03 08:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team1Title": "Japan Open Tennis ChampionshipsATP Tour",
-        "team2Title": "Japan Open Tennis Championships",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-03 22:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -26,16 +16,6 @@
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "LPGA Lotte ChampionshipPGA Tour",
         "team2Title": "LPGA Lotte Championship",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-10-04 10:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team1Title": "f1 Bahrain Grand PrixFormula 1",
-        "team2Title": "f1 Bahrain Grand Prix",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -66,6 +46,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
         "team1Title": "AzerbaijanLithuania",
         "team2Title": "Azerbaijan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-04 19:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "team1Title": "Washington CommandersIndianapolis Colts",
+        "team2Title": "Washington Commanders",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -141,11 +131,51 @@
     },
     {
         "eventTitle": "NFL",
-        "matchTime": "2026-10-04 19:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "team1Title": "Washington CommandersIndianapolis Colts",
-        "team2Title": "Washington Commanders",
+        "matchTime": "2026-10-04 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team1Title": "Buffalo BillsNew England Patriots",
+        "team2Title": "Buffalo Bills",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-04 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "team1Title": "Cincinnati BengalsJacksonville Jaguars",
+        "team2Title": "Cincinnati Bengals",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-04 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
+        "team1Title": "Chicago BearsNew York Jets",
+        "team2Title": "Chicago Bears",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-04 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "team1Title": "Baltimore RavensTennessee Titans",
+        "team2Title": "Baltimore Ravens",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-04 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
+        "team1Title": "Dallas CowboysHouston Texans",
+        "team2Title": "Dallas Cowboys",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
