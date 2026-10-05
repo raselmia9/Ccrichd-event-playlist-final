@@ -1,55 +1,5 @@
 [
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-03 22:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1Title": "Bank of Utah ChampionshipPGA Tour",
-        "team2Title": "Bank of Utah Championship",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-04 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1Title": "LPGA Lotte ChampionshipPGA Tour",
-        "team2Title": "LPGA Lotte Championship",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-05 06:20:00",
-        "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team1Title": "Carolina PanthersDetroit Lions",
-        "team2Title": "Carolina Panthers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-06 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-        "team1Title": "Atlanta FalconsNew Orleans Saints",
-        "team2Title": "Atlanta Falcons",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-09 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "team1Title": "Dallas CowboysTampa Bay Buccaneers",
-        "team2Title": "Dallas Cowboys",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-05 22:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
@@ -126,6 +76,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "team1Title": "TurkiyeItaly",
         "team2Title": "Turkiye",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-06 06:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "team1Title": "Atlanta FalconsNew Orleans Saints",
+        "team2Title": "Atlanta Falcons",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-09 06:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
+        "team1Title": "Dallas CowboysTampa Bay Buccaneers",
+        "team2Title": "Dallas Cowboys",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
