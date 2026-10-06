@@ -1,21 +1,21 @@
 [
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-06 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
-        "team1Title": "IndiaUruguay",
-        "team2Title": "India",
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-07 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "team1Title": "SpainCroatia",
+        "team2Title": "Spain",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
         "eventTitle": "Nations League",
-        "matchTime": "2026-10-06 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "team1Title": "Faroe IslandsKazakhstan",
-        "team2Title": "Faroe Islands",
+        "matchTime": "2026-10-07 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team1Title": "EnglandCzechia",
+        "team2Title": "England",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -82,20 +82,60 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-07 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "team1Title": "SpainCroatia",
-        "team2Title": "Spain",
+        "team1Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "team1Title": "AlbaniaSan Marino",
+        "team2Title": "Albania",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-07 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "team1Title": "EnglandCzechia",
-        "team2Title": "England",
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-07 04:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "team1Title": "Atlanta BravesLos Angeles Dodgers",
+        "team2Title": "Atlanta Braves",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-07 07:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
+        "team1Title": "San Diego PadresMilwaukee Brewers",
+        "team2Title": "San Diego Padres",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-08 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "team1Title": "Cleveland GuardiansChicago White Sox",
+        "team2Title": "Cleveland Guardians",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-08 04:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team1Title": "Los Angeles DodgersAtlanta Braves",
+        "team2Title": "Los Angeles Dodgers",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-08 06:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "team1Title": "Tampa Bay RaysNew York Yankees",
+        "team2Title": "Tampa Bay Rays",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -140,6 +180,36 @@
         "isHot": true
     },
     {
+        "eventTitle": "ATP Tour",
+        "matchTime": "2026-10-07 10:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team1Title": "Shanghai Rolex MastersATP Tour",
+        "team2Title": "Shanghai Rolex Masters",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-08 09:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team1Title": "Baycurrent ClassicPGA Tour",
+        "team2Title": "Baycurrent Classic",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-08 18:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team1Title": "Open de EspanaPGA Tour",
+        "team2Title": "Open de Espana",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-09 06:15:00",
         "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
@@ -156,6 +226,56 @@
         "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
         "team1Title": "Philadelphia EaglesJacksonville Jaguars",
         "team2Title": "Philadelphia Eagles",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-10-09 07:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team1Title": "MotoGP Indonesia Grand PrixMotoGP",
+        "team2Title": "MotoGP Indonesia Grand Prix",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-10-09 14:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team1Title": "F1 Singapore Grand PrixFormula 1",
+        "team2Title": "F1 Singapore Grand Prix",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "team1Title": "Glasgow WarriorsConnacht",
+        "team2Title": "Glasgow Warriors",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+        "team1Title": "DragonsOspreys",
+        "team2Title": "Dragons",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-10 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "team1Title": "Leicester TigersGloucester Rugby",
+        "team2Title": "Leicester Tigers",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
