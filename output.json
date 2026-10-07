@@ -80,8 +80,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-10-09 07:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team1Title": "MotoGP Indonesia Grand PrixMotoGP",
@@ -90,8 +90,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-10-09 14:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team1Title": "F1 Singapore Grand PrixFormula 1",
@@ -100,8 +100,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
         "team1Title": "Glasgow WarriorsConnacht",
