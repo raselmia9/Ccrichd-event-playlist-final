@@ -70,16 +70,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-11 19:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "team1Title": "Philadelphia EaglesJacksonville Jaguars",
-        "team2Title": "Philadelphia Eagles",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-10-09 07:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -96,6 +86,76 @@
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team1Title": "F1 Singapore Grand PrixFormula 1",
         "team2Title": "F1 Singapore Grand Prix",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Saudi Pro League",
+        "matchTime": "2026-10-10 00:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
+        "team1Title": "Al-NassrAl Diriyah",
+        "team2Title": "Al-Nassr",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-10 00:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+        "team1Title": "Borussia DortmundWerder Bremen",
+        "team2Title": "Borussia Dortmund",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-10 19:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
+        "team1Title": "Bayern MünchenAugsburg",
+        "team2Title": "Bayern München",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-10 19:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team1Title": "Mainz 05Bayer Leverkusen",
+        "team2Title": "Mainz 05",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team1Title": "Eintracht FrankfurtRB Leipzig",
+        "team2Title": "Eintracht Frankfurt",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-10 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "team1Title": "LensOlympique Lyonnais",
+        "team2Title": "Lens",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "team1Title": "PSGLe Mans",
+        "team2Title": "PSG",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -126,6 +186,216 @@
         "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
         "team1Title": "Leicester TigersGloucester Rugby",
         "team2Title": "Leicester Tigers",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-10 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team1Title": "Queens Park RangersWest Ham United",
+        "team2Title": "Queens Park Rangers",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-10 17:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
+        "team1Title": "Birmingham CityWest Bromwich Albion",
+        "team2Title": "Birmingham City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-11 17:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
+        "team1Title": "SouthamptonPortsmouth",
+        "team2Title": "Southampton",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-10 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team1Title": "MálagaEspanyol",
+        "team2Title": "Málaga",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-10 18:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1Title": "Rayo VallecanoAthletic Club",
+        "team2Title": "Rayo Vallecano",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-10 20:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team1Title": "Atlético MadridDeportivo Alavés",
+        "team2Title": "Atlético Madrid",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team1Title": "FC BarcelonaGetafe",
+        "team2Title": "FC Barcelona",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-11 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team1Title": "Real MadridVillarreal",
+        "team2Title": "Real Madrid",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-11 18:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team1Title": "Elche CFCelta de Vigo",
+        "team2Title": "Elche CF",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-10 17:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "team1Title": "ArsenalLeeds United",
+        "team2Title": "Arsenal",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team1Title": "Aston VillaBrentford",
+        "team2Title": "Aston Villa",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team1Title": "ChelseaAFC Bournemouth",
+        "team2Title": "Chelsea",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team1Title": "Brighton & Hove AlbionSunderland",
+        "team2Title": "Brighton & Hove Albion",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team1Title": "FulhamIpswich Town",
+        "team2Title": "Fulham",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team1Title": "Manchester UnitedTottenham Hotspur",
+        "team2Title": "Manchester United",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-10 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "team1Title": "GenoaFiorentina",
+        "team2Title": "Genoa",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-10 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team1Title": "Inter MilanParma",
+        "team2Title": "Inter Milan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "team1Title": "NapoliFrosinone Calcio",
+        "team2Title": "Napoli",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 16:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team1Title": "AS RomaComo",
+        "team2Title": "AS Roma",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team1Title": "MonzaLazio",
+        "team2Title": "Monza",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLS",
+        "matchTime": "2026-10-11 05:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
+        "team1Title": "Inter MiamiDC United",
+        "team2Title": "Inter Miami",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
