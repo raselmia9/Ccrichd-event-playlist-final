@@ -10,26 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-08 04:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team1Title": "Los Angeles DodgersAtlanta Braves",
-        "team2Title": "Los Angeles Dodgers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-08 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "team1Title": "Tampa Bay RaysNew York Yankees",
-        "team2Title": "Tampa Bay Rays",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-08 09:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -150,6 +130,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "team1Title": "NiceStrasbourg",
+        "team2Title": "Nice",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-10 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
@@ -250,8 +240,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 01:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "team1Title": "Real MadridVillarreal",
@@ -336,6 +326,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "team1Title": "Nottingham ForestCrystal Palace",
         "team2Title": "Nottingham Forest",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team1Title": "Hull CityEverton",
+        "team2Title": "Hull City",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
