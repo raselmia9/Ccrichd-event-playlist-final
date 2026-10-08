@@ -11,16 +11,6 @@
     },
     {
         "eventTitle": "MLB",
-        "matchTime": "2026-10-08 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team1Title": "Cleveland GuardiansChicago White Sox",
-        "team2Title": "Cleveland Guardians",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
         "matchTime": "2026-10-08 04:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
@@ -336,6 +326,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
         "team1Title": "Manchester UnitedTottenham Hotspur",
         "team2Title": "Manchester United",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team1Title": "Nottingham ForestCrystal Palace",
+        "team2Title": "Nottingham Forest",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
