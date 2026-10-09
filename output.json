@@ -30,16 +30,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-09 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "team1Title": "Dallas CowboysTampa Bay Buccaneers",
-        "team2Title": "Dallas Cowboys",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-10-09 07:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -386,6 +376,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "team1Title": "MonzaLazio",
         "team2Title": "Monza",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team1Title": "LecceBologna",
+        "team2Title": "Lecce",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
