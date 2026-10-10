@@ -50,22 +50,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-10 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team1Title": "Queens Park RangersWest Ham United",
-        "team2Title": "Queens Park Rangers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-10 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team1Title": "MálagaEspanyol",
-        "team2Title": "Málaga",
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-10-10 12:10:00",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "team1Title": "AustraliaNew Zealand",
+        "team2Title": "Australia",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -150,6 +140,66 @@
         "isHot": true
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 17:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
+        "team1Title": "BullsLions",
+        "team2Title": "Bulls",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "team1Title": "EdinburghZebre",
+        "team2Title": "Edinburgh",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "team1Title": "The SharksStormers",
+        "team2Title": "The Sharks",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "team1Title": "UlsterMunster",
+        "team2Title": "Ulster",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "team1Title": "ScarletsBenetton",
+        "team2Title": "Scarlets",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
+        "team1Title": "Cardiff BluesLeinster",
+        "team2Title": "Cardiff Blues",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-10 17:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
@@ -220,16 +270,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 20:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "team1Title": "Real SociedadDeportivo La Coruña",
-        "team2Title": "Real Sociedad",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-10 19:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
@@ -280,16 +320,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "team1Title": "LecceBologna",
-        "team2Title": "Lecce",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-10 19:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
@@ -320,22 +350,22 @@
         "isHot": true
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 19:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "team1Title": "Borussia M'gladbachKöln",
-        "team2Title": "Borussia M'gladbach",
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team1Title": "Bath RugbyNorthampton Saints",
+        "team2Title": "Bath Rugby",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 21:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "team1Title": "FreiburgSchalke 04",
-        "team2Title": "Freiburg",
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "team1Title": "Bristol BearsSaracens",
+        "team2Title": "Bristol Bears",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -350,22 +380,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "team1Title": "NiceStrasbourg",
-        "team2Title": "Nice",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-11 21:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-        "team1Title": "RennesAuxerre",
-        "team2Title": "Rennes",
+        "eventTitle": "UFC",
+        "matchTime": "2026-10-11 04:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1Title": "Brendan AllenChristian Leroy Duncan",
+        "team2Title": "Brendan Allen",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -376,16 +396,6 @@
         "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
         "team1Title": "Inter MiamiDC United",
         "team2Title": "Inter Miami",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-11 19:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "team1Title": "Philadelphia EaglesJacksonville Jaguars",
-        "team2Title": "Philadelphia Eagles",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
