@@ -50,26 +50,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-10-11 04:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1Title": "Brendan AllenChristian Leroy Duncan",
-        "team2Title": "Brendan Allen",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLS",
-        "matchTime": "2026-10-11 05:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
-        "team1Title": "Inter MiamiDC United",
-        "team2Title": "Inter Miami",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-11 16:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
