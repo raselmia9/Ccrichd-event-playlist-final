@@ -10,36 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-12 02:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team1Title": "Los Angeles ChargersDenver Broncos",
-        "team2Title": "Los Angeles Chargers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-12 02:25:00",
-        "team1Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team1Title": "Seattle SeahawksSan Francisco 49ers",
-        "team2Title": "Seattle Seahawks",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-12 02:25:00",
-        "team1Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "team1Title": "Detroit LionsArizona Cardinals",
-        "team2Title": "Detroit Lions",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-12 06:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
