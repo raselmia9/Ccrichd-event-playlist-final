@@ -10,26 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-12 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team1Title": "Milwaukee BrewersLos Angeles Dodgers",
-        "team2Title": "Milwaukee Brewers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-12 06:20:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "team1Title": "Atlanta FalconsBaltimore Ravens",
-        "team2Title": "Atlanta Falcons",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-12 22:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
