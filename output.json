@@ -10,28 +10,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team1Title": "Tampa Bay RaysCleveland Guardians",
-        "team2Title": "Tampa Bay Rays",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-13 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-        "team1Title": "Los Angeles RamsBuffalo Bills",
-        "team2Title": "Los Angeles Rams",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "UEFA Youth League",
+        "matchTime": "2026-10-13 20:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team1Title": "Atlético MadridManchester United",
@@ -60,8 +40,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-13 22:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
         "team1Title": "Sabah BakuSlavia Praha",
@@ -100,8 +80,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
         "team1Title": "Inter MilanClub Brugge",
@@ -130,8 +110,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
         "team1Title": "RB LeipzigPSV",
@@ -140,8 +120,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-14 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
         "team1Title": "Stoke CityMiddlesbrough",
@@ -150,8 +130,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-15 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lincoln-city/logo.webp",
         "team1Title": "West Ham UnitedLincoln City",
