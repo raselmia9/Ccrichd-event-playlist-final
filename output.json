@@ -1,91 +1,11 @@
 [
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team1Title": "Manchester UnitedAtlético Madrid",
-        "team2Title": "Manchester United",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Shanghai Rolex MastersATP Tour",
         "team2Title": "Shanghai Rolex Masters",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
-        "team1Title": "Stoke CityMiddlesbrough",
-        "team2Title": "Stoke City",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team1Title": "ArsenalLille",
-        "team2Title": "Arsenal",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
-        "team1Title": "FC BarcelonaGalatasaray",
-        "team2Title": "FC Barcelona",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
-        "team1Title": "Inter MilanClub Brugge",
-        "team2Title": "Inter Milan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
-        "team1Title": "Bayern MünchenViking",
-        "team2Title": "Bayern München",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1Title": "NapoliVillarreal",
-        "team2Title": "Napoli",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
-        "team1Title": "RB LeipzigPSV",
-        "team2Title": "RB Leipzig",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
