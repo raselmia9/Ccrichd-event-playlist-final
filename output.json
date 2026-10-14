@@ -1,41 +1,41 @@
 [
     {
-        "eventTitle": "ATP Tour",
-        "matchTime": "2026-10-07 10:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team1Title": "Shanghai Rolex MastersATP Tour",
-        "team2Title": "Shanghai Rolex Masters",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "UEFA Youth League",
-        "matchTime": "2026-10-14 19:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1Title": "FenerbahçeAston Villa",
-        "team2Title": "Fenerbahçe",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "UEFA Youth League",
-        "matchTime": "2026-10-14 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team1Title": "Manchester CityPSG",
-        "team2Title": "Manchester City",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-14 22:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
         "team1Title": "LASK",
         "team2Title": "Team 2",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team1Title": "PSGManchester City",
+        "team2Title": "PSG",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team1Title": "Real MadridAS Roma",
+        "team2Title": "Real Madrid",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "ATP Tour",
+        "matchTime": "2026-10-07 10:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team1Title": "Shanghai Rolex MastersATP Tour",
+        "team2Title": "Shanghai Rolex Masters",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -82,30 +82,20 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-15 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team1Title": "PSGManchester City",
-        "team2Title": "PSG",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-15 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team1Title": "Real MadridAS Roma",
-        "team2Title": "Real Madrid",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-15 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
         "team1Title": "PortoReal Betis",
         "team2Title": "Porto",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
+        "team1Title": "AEK AthensShakhtar Donetsk",
+        "team2Title": "AEK Athens",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
