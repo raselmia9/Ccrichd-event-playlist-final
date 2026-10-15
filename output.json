@@ -100,6 +100,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-16 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
+        "team1Title": "HoffenheimBesiktas",
+        "team2Title": "Hoffenheim",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Conference League",
         "matchTime": "2026-10-16 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
