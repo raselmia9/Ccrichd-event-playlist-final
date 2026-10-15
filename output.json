@@ -20,16 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-15 15:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team1Title": "AustraliaNew Zealand",
-        "team2Title": "Australia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Europa League",
         "matchTime": "2026-10-15 22:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
@@ -106,36 +96,6 @@
         "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team1Title": "JuventusCelta de Vigo",
         "team2Title": "Juventus",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Saudi Pro League",
-        "matchTime": "2026-10-16 00:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
-        "team1Title": "Al-NassrAl Ahli",
-        "team2Title": "Al-Nassr",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-16 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "team1Title": "Le MansToulouse",
-        "team2Title": "Le Mans",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-17 21:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "team1Title": "PSGStrasbourg",
-        "team2Title": "PSG",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -270,6 +230,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team1Title": "Bayern MünchenRB Leipzig",
+        "team2Title": "Bayern München",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-17 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
@@ -296,6 +266,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
         "team1Title": "Inter MilanBologna",
         "team2Title": "Inter Milan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-17 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "team1Title": "Le MansToulouse",
+        "team2Title": "Le Mans",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-17 21:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "team1Title": "PSGStrasbourg",
+        "team2Title": "PSG",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -386,6 +376,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
         "team1Title": "Manchester CityIpswich Town",
         "team2Title": "Manchester City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team1Title": "Aston VillaNewcastle United",
+        "team2Title": "Aston Villa",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
