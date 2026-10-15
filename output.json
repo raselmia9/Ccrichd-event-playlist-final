@@ -20,16 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-16 04:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team1Title": "Tampa Bay RaysCleveland Guardians",
-        "team2Title": "Tampa Bay Rays",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-15 11:30:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -216,6 +206,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
         "team1Title": "WatfordCharlton Athletic",
         "team2Title": "Watford",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-16 04:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "team1Title": "Tampa Bay RaysCleveland Guardians",
+        "team2Title": "Tampa Bay Rays",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
