@@ -10,16 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-15 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team1Title": "Milwaukee BrewersLos Angeles Dodgers",
-        "team2Title": "Milwaukee Brewers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-15 11:30:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -336,6 +326,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "team1Title": "Elche CFVillarreal",
         "team2Title": "Elche CF",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team1Title": "FC BarcelonaReal Betis",
+        "team2Title": "FC Barcelona",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
