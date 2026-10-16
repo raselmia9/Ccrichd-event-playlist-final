@@ -1,7 +1,7 @@
 [
     {
-        "eventTitle": "ATP Tour",
-        "matchTime": "2026-10-07 10:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1Title": "Shanghai Rolex MastersATP Tour",
@@ -20,16 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-16 15:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
-        "team1Title": "Sydney FCWestern Sydney Wanderers",
-        "team2Title": "Sydney FC",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-17 00:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
@@ -40,8 +30,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-17 22:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "team1Title": "Bayern MünchenRB Leipzig",
@@ -50,8 +40,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-17 00:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
         "team1Title": "SassuoloFrosinone Calcio",
@@ -60,8 +50,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-17 19:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "team1Title": "NapoliVenezia",
@@ -90,8 +80,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 16:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "team1Title": "LecceUdinese",
@@ -100,8 +90,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 19:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "team1Title": "ComoFiorentina",
@@ -200,8 +190,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 01:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
         "team1Title": "Athletic ClubValencia",
@@ -230,8 +220,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 22:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
         "team1Title": "Real SociedadMálaga",
@@ -260,8 +250,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-17 01:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "team1Title": "Burnley FCWolverhampton Wanderers",
@@ -280,8 +270,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-17 10:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
         "team1Title": "AucklandMelbourne City",
@@ -300,8 +290,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-17 14:40:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
         "team1Title": "Newcastle JetsCentral Coast Mariners",
@@ -310,8 +300,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 17:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "team1Title": "ChelseaEverton",
@@ -320,8 +310,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 20:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
         "team1Title": "Brentford",
@@ -340,8 +330,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 22:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "team1Title": "Aston VillaNewcastle United",
