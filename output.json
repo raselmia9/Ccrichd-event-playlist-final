@@ -20,52 +20,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-16 12:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
-        "team1Title": "FranceSamoa",
-        "team2Title": "France",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "A League",
         "matchTime": "2026-10-16 15:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
         "team1Title": "Sydney FCWestern Sydney Wanderers",
         "team2Title": "Sydney FC",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-17 10:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
-        "team1Title": "AucklandMelbourne City",
-        "team2Title": "Auckland",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-17 12:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
-        "team1Title": "Perth GloryMacarthur",
-        "team2Title": "Perth Glory",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-17 14:40:00",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
-        "team1Title": "Newcastle JetsCentral Coast Mariners",
-        "team2Title": "Newcastle Jets",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -120,8 +80,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "team1Title": "AS RomaGenoa",
@@ -260,8 +220,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 20:15:00",
         "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team1Title": "Deportivo AlavésCelta de Vigo",
@@ -320,8 +280,38 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "A League",
+        "matchTime": "2026-10-17 10:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
+        "team1Title": "AucklandMelbourne City",
+        "team2Title": "Auckland",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-17 12:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
+        "team1Title": "Perth GloryMacarthur",
+        "team2Title": "Perth Glory",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-17 14:40:00",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
+        "team1Title": "Newcastle JetsCentral Coast Mariners",
+        "team2Title": "Newcastle Jets",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 17:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "team1Title": "ChelseaEverton",
