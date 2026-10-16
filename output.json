@@ -20,26 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-16 04:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team1Title": "Tampa Bay RaysCleveland Guardians",
-        "team2Title": "Tampa Bay Rays",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-16 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "team1Title": "Denver BroncosSeattle Seahawks",
-        "team2Title": "Denver Broncos",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-10-16 12:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
@@ -140,8 +120,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 00:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "team1Title": "AS RomaGenoa",
@@ -176,6 +156,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
         "team1Title": "AC MilanAtalanta",
         "team2Title": "AC Milan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-19 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team1Title": "LazioJuventus",
+        "team2Title": "Lazio",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -270,12 +260,22 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 20:15:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team1Title": "Deportivo AlavésCelta de Vigo",
         "team2Title": "Deportivo Alavés",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1Title": "Real SociedadMálaga",
+        "team2Title": "Real Sociedad",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -320,8 +320,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 17:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "team1Title": "ChelseaEverton",
