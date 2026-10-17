@@ -30,6 +30,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-10-17 11:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "team1Title": "AustraliaNew Zealand",
+        "team2Title": "Australia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "A League",
         "matchTime": "2026-10-17 12:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
@@ -46,16 +56,6 @@
         "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
         "team1Title": "Newcastle JetsCentral Coast Mariners",
         "team2Title": "Newcastle Jets",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-10-17 11:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team1Title": "AustraliaNew Zealand",
-        "team2Title": "Australia",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
