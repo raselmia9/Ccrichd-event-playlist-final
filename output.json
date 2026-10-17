@@ -50,6 +50,26 @@
         "isHot": true
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-10-17 11:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "team1Title": "AustraliaNew Zealand",
+        "team2Title": "Australia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-17 15:05:00",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tonga/logo.webp",
+        "team1Title": "EnglandTonga",
+        "team2Title": "England",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-17 17:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
@@ -136,6 +156,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
         "team1Title": "ArsenalNottingham Forest",
         "team2Title": "Arsenal",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-17 18:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team1Title": "Glasgow WarriorsSale Sharks",
+        "team2Title": "Glasgow Warriors",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-17 18:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sf-paris/logo.webp",
+        "team1Title": "BullsStade Français Paris",
+        "team2Title": "Bulls",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -316,6 +356,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "team1Title": "Bayern MünchenRB Leipzig",
         "team2Title": "Bayern München",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-10-18 04:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1Title": "UFC Fight Night: BuckleyMalott",
+        "team2Title": "UFC Fight Night: Buckley",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
