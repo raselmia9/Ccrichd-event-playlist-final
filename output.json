@@ -1,31 +1,11 @@
 [
     {
-        "eventTitle": "ATP Tour",
-        "matchTime": "2026-10-07 10:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team1Title": "Shanghai Rolex MastersATP Tour",
-        "team2Title": "Shanghai Rolex Masters",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-15 11:30:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "India ChampionshipPGA Tour",
         "team2Title": "India Championship",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-18 11:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cook-islands/logo.webp",
-        "team1Title": "FijiCook Islands",
-        "team2Title": "Fiji",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -46,56 +26,6 @@
         "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "team1Title": "LecceUdinese",
         "team2Title": "Lecce",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 19:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "team1Title": "ComoFiorentina",
-        "team2Title": "Como",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 22:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team1Title": "AC MilanAtalanta",
-        "team2Title": "AC Milan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-19 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team1Title": "LazioJuventus",
-        "team2Title": "Lazio",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-19 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team1Title": "MonzaCagliari",
-        "team2Title": "Monza",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-20 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team1Title": "ParmaTorino",
-        "team2Title": "Parma",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -240,6 +170,56 @@
         "isHot": true
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "team1Title": "ComoFiorentina",
+        "team2Title": "Como",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 22:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team1Title": "AC MilanAtalanta",
+        "team2Title": "AC Milan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-19 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team1Title": "LazioJuventus",
+        "team2Title": "Lazio",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-19 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team1Title": "MonzaCagliari",
+        "team2Title": "Monza",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-20 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team1Title": "ParmaTorino",
+        "team2Title": "Parma",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-18 19:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
@@ -346,6 +326,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
         "team1Title": "PortoPSV",
         "team2Title": "Porto",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
+        "team1Title": "NapoliFK Bodo Glimt",
+        "team2Title": "Napoli",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "team1Title": "AS RomaSlovan Bratislava",
+        "team2Title": "AS Roma",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
