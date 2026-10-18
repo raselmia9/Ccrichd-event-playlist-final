@@ -20,36 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-10-18 04:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1Title": "BuckleyMalott",
-        "team2Title": "Buckley",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-18 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team1Title": "Tampa Bay RaysCleveland Guardians",
-        "team2Title": "Tampa Bay Rays",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-18 08:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wellington-phoenix/logo.webp",
-        "team1Title": "Melbourne VictoryWellington Phoenix",
-        "team2Title": "Melbourne Victory",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-10-18 11:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
@@ -356,6 +326,36 @@
         "team2Logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
         "team1Title": "Borussia DortmundSabah Baku",
         "team2Title": "Borussia Dortmund",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-20 22:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
+        "team1Title": "FenerbahçeSlavia Praha",
+        "team2Title": "Fenerbahçe",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "team1Title": "PortoPSV",
+        "team2Title": "Porto",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-21 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
+        "team1Title": "Wolverhampton WanderersPortsmouth",
+        "team2Title": "Wolverhampton Wanderers",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
