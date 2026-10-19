@@ -10,56 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team1Title": "MonzaCagliari",
-        "team2Title": "Monza",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team1Title": "ParmaTorino",
-        "team2Title": "Parma",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team1Title": "GetafeRayo Vallecano",
-        "team2Title": "Getafe",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-22 00:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1Title": "LevanteAthletic Club",
-        "team2Title": "Levante",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
-        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "team1Title": "Tottenham HotspurCoventry City",
-        "team2Title": "Tottenham Hotspur",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-20 22:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
@@ -70,8 +20,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-20 22:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
         "team1Title": "FenerbahçeSlavia Praha",
@@ -100,8 +50,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
         "team1Title": "AS RomaSlovan Bratislava",
@@ -110,8 +60,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team1Title": "FC BarcelonaPSG",
@@ -130,8 +80,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
         "team1Title": "Manchester CityAEK Athens",
@@ -140,8 +90,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Live Sports",
-        "matchTime": "N/A",
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-21 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
         "team1Title": "Wolverhampton WanderersPortsmouth",
@@ -156,6 +106,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/leyton-orient/logo.webp",
         "team1Title": "ReadingLeyton Orient",
         "team2Title": "Reading",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-22 00:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1Title": "LevanteAthletic Club",
+        "team2Title": "Levante",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
