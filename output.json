@@ -10,16 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-19 06:20:00",
-        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "team1Title": "Dallas CowboysGreen Bay Packers",
-        "team2Title": "Dallas Cowboys",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-19 22:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
