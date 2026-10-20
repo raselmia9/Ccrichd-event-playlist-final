@@ -10,6 +10,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-20 06:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "team1Title": "Washington CommandersSan Francisco 49ers",
+        "team2Title": "Washington Commanders",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-20 22:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
