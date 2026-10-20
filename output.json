@@ -90,12 +90,32 @@
         "isHot": true
     },
     {
+        "eventTitle": "Gymnastics",
+        "matchTime": "2026-10-21 00:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "team1Title": "World Gymnastics ChampionshipGymnastics",
+        "team2Title": "World Gymnastics Championship",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-21 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
         "team1Title": "Wolverhampton WanderersPortsmouth",
         "team2Title": "Wolverhampton Wanderers",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/gillingham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/port-vale/logo.webp",
+        "team1Title": "GillinghamPort Vale",
+        "team2Title": "Gillingham",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
