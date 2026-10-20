@@ -1,111 +1,11 @@
 [
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team1Title": "FC BarcelonaPSG",
-        "team2Title": "FC Barcelona",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1Title": "Villarreal",
-        "team2Title": "Team 2",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
-        "team1Title": "Manchester CityAEK Athens",
-        "team2Title": "Manchester City",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-10-18 15:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Snooker Northern Ireland OpenSnooker",
         "team2Title": "Snooker Northern Ireland Open",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Gymnastics",
-        "matchTime": "2026-10-21 00:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
-        "team1Title": "World Gymnastics ChampionshipGymnastics",
-        "team2Title": "World Gymnastics Championship",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-21 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
-        "team1Title": "Wolverhampton WanderersPortsmouth",
-        "team2Title": "Wolverhampton Wanderers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
-        "team1Title": "PortoPSV",
-        "team2Title": "Porto",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
-        "team1Title": "NapoliFK Bodo Glimt",
-        "team2Title": "Napoli",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
-        "team1Title": "AS RomaSlovan Bratislava",
-        "team2Title": "AS Roma",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/gillingham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/port-vale/logo.webp",
-        "team1Title": "GillinghamPort Vale",
-        "team2Title": "Gillingham",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team1Title": "StuttgartAtlético Madrid",
-        "team2Title": "Stuttgart",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -186,6 +86,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team1Title": "ArsenalBayern München",
         "team2Title": "Arsenal",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Gymnastics",
+        "matchTime": "2026-10-22 00:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "team1Title": "World Gymnastics ChampionshipGymnastics",
+        "team2Title": "World Gymnastics Championship",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
