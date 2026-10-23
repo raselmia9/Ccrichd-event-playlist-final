@@ -30,76 +30,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team1Title": "AFC BournemouthAC Milan",
-        "team2Title": "AFC Bournemouth",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team1Title": "CelticCelta de Vigo",
-        "team2Title": "Celtic",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
-        "team1Title": "Crystal PalaceBesiktas",
-        "team2Title": "Crystal Palace",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team1Title": "Olympique LyonnaisHoffenheim",
-        "team2Title": "Olympique Lyonnais",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/omonia-nicosia/logo.webp",
-        "team1Title": "BenficaOmonia Nicosia",
-        "team2Title": "Benfica",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Conference League",
-        "matchTime": "2026-10-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team1Title": "AS MonacoFreiburg",
-        "team2Title": "AS Monaco",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-23 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lillestrom/logo.webp",
-        "team1Title": "Real SociedadLillestrøm",
-        "team2Title": "Real Sociedad",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-10-23 04:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -266,6 +196,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "team1Title": "GetafeAthletic Club",
         "team2Title": "Getafe",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 21:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team1Title": "Real BetisCelta de Vigo",
+        "team2Title": "Real Betis",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team1Title": "Real SociedadLevante",
+        "team2Title": "Real Sociedad",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
