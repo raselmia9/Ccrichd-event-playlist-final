@@ -60,6 +60,56 @@
         "isHot": true
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team1Title": "LionsEdinburgh",
+        "team2Title": "Lions",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "team1Title": "ZebreConnacht",
+        "team2Title": "Zebre",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team1Title": "The SharksCardiff Blues",
+        "team2Title": "The Sharks",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "team1Title": "Bath RugbyGloucester Rugby",
+        "team2Title": "Bath Rugby",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-red-bulls/logo.webp",
+        "team1Title": "Sale SharksNewcastle Red Bulls",
+        "team2Title": "Sale Sharks",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-24 00:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
@@ -200,26 +250,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 21:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team1Title": "Real BetisCelta de Vigo",
-        "team2Title": "Real Betis",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team1Title": "Real SociedadLevante",
-        "team2Title": "Real Sociedad",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-24 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
@@ -310,12 +340,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team1Title": "Crystal PalaceNewcastle United",
-        "team2Title": "Crystal Palace",
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-24 06:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team1Title": "Milwaukee BrewersTampa Bay Rays",
+        "team2Title": "Milwaukee Brewers",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -346,6 +376,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
         "team1Title": "Melbourne CityMelbourne Victory",
         "team2Title": "Melbourne City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-24 10:25:00",
+        "team1Logo": "https://cdn.img4every1.org/team/papua-new-guinea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "team1Title": "Papua New GuineaSamoa",
+        "team2Title": "Papua New Guinea",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-24 12:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team1Title": "EnglandFrance",
+        "team2Title": "England",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
