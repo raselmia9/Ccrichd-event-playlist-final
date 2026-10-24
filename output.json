@@ -50,56 +50,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-24 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team1Title": "ChelseaTottenham Hotspur",
-        "team2Title": "Chelsea",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-24 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team1Title": "Eintracht FrankfurtBorussia Dortmund",
-        "team2Title": "Eintracht Frankfurt",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-24 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1Title": "ValenciaVillarreal",
-        "team2Title": "Valencia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-25 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team1Title": "ParmaLazio",
-        "team2Title": "Parma",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-25 00:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "team1Title": "LensParis FC",
-        "team2Title": "Lens",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-25 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
