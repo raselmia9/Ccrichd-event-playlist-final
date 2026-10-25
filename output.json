@@ -40,92 +40,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-25 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
-        "team1Title": "Miami DolphinsNew York Jets",
-        "team2Title": "Miami Dolphins",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-25 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
-        "team1Title": "Tennessee TitansCleveland Browns",
-        "team2Title": "Tennessee Titans",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-25 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
-        "team1Title": "New York GiantsHouston Texans",
-        "team2Title": "New York Giants",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-25 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team1Title": "Atlanta FalconsSan Francisco 49ers",
-        "team2Title": "Atlanta Falcons",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-25 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
-        "team1Title": "Baltimore RavensCincinnati Bengals",
-        "team2Title": "Baltimore Ravens",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-25 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team1Title": "JuventusLecce",
-        "team2Title": "Juventus",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team1Title": "Real SociedadLevante",
-        "team2Title": "Real Sociedad",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-26 01:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "team1Title": "AC MilanUdinese",
         "team2Title": "AC Milan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-27 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team1Title": "LazioSassuolo",
-        "team2Title": "Lazio",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -236,6 +156,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "team1Title": "SevillaOsasuna",
         "team2Title": "Sevilla",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-27 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team1Title": "LazioSassuolo",
+        "team2Title": "Lazio",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
