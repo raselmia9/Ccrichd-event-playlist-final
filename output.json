@@ -40,26 +40,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-10-24 22:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1Title": "Alexander VolkanovskiMovsar Evloev",
-        "team2Title": "Alexander Volkanovski",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "team1Title": "Atlético MadridDeportivo La Coruña",
-        "team2Title": "Atlético Madrid",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-25 19:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
