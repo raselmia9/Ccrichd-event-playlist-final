@@ -20,62 +20,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-25 11:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cook-islands/logo.webp",
-        "team1Title": "New ZealandCook Islands",
-        "team2Title": "New Zealand",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-25 15:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "team1Title": "AustraliaFiji",
-        "team2Title": "Australia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-25 17:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "team1Title": "Inter MilanFiorentina",
         "team2Title": "Inter Milan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-25 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team1Title": "JuventusLecce",
-        "team2Title": "Juventus",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-26 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1Title": "AC MilanUdinese",
-        "team2Title": "AC Milan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-27 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team1Title": "LazioSassuolo",
-        "team2Title": "Lazio",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -270,6 +220,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-29 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team1Title": "Chelsea",
+        "team2Title": "Team 2",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-25 20:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
@@ -340,6 +300,36 @@
         "isHot": true
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-25 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team1Title": "JuventusLecce",
+        "team2Title": "Juventus",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-26 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "team1Title": "AC MilanUdinese",
+        "team2Title": "AC Milan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-27 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team1Title": "LazioSassuolo",
+        "team2Title": "Lazio",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-10-27 01:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
@@ -376,6 +366,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
         "team1Title": "ArsenalFleetwood Town",
         "team2Title": "Arsenal",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-29 01:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team1Title": "Manchester CityBrighton & Hove Albion",
+        "team2Title": "Manchester City",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
