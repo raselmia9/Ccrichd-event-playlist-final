@@ -1,71 +1,11 @@
 [
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-10-22 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team1Title": "f1 United States Grand PrixFormula 1",
-        "team2Title": "f1 United States Grand Prix",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-26 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team1Title": "FC BarcelonaReal Madrid",
-        "team2Title": "FC Barcelona",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-22 08:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "PGA / LPGA GolfPGA Tour",
         "team2Title": "PGA / LPGA Golf",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-10-25 19:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team1Title": "Snooker Northern Ireland OpenSnooker",
-        "team2Title": "Snooker Northern Ireland Open",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-26 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1Title": "AC MilanUdinese",
-        "team2Title": "AC Milan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-26 02:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team1Title": "Arizona CardinalsDenver Broncos",
-        "team2Title": "Arizona Cardinals",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-26 02:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "team1Title": "Los Angeles RamsLas Vegas Raiders",
-        "team2Title": "Los Angeles Rams",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
