@@ -11,16 +11,6 @@
     },
     {
         "eventTitle": "NFL",
-        "matchTime": "2026-10-26 02:25:00",
-        "team1Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "team1Title": "Detroit LionsGreen Bay Packers",
-        "team2Title": "Detroit Lions",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
         "matchTime": "2026-10-26 06:20:00",
         "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
