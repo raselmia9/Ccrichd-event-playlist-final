@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-27 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team1Title": "Dallas CowboysPhiladelphia Eagles",
-        "team2Title": "Dallas Cowboys",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-27 23:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
