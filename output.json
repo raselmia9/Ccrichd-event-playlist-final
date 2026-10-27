@@ -1,5 +1,25 @@
 [
     {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-10-27 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+        "team1Title": "Eintracht FrankfurtHamburger SV",
+        "team2Title": "Eintracht Frankfurt",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-10-27 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rot-weiss-essen/logo.webp",
+        "team1Title": "RB LeipzigRot-Weiss Essen",
+        "team2Title": "RB Leipzig",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-27 23:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
