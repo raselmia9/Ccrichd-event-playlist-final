@@ -20,26 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-30 15:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brisbane-roar/logo.webp",
-        "team1Title": "AucklandBrisbane Roar",
-        "team2Title": "Auckland",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-30 15:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/papua-new-guinea/logo.webp",
-        "team1Title": "EnglandPapua New Guinea",
-        "team2Title": "England",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-31 00:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
