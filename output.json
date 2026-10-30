@@ -10,16 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-30 06:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "team1Title": "Carolina PanthersGreen Bay Packers",
-        "team2Title": "Carolina Panthers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-10-30 07:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
