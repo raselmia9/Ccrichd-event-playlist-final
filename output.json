@@ -20,16 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-30 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "team1Title": "AtalantaFiorentina",
-        "team2Title": "Atalanta",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-30 01:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
@@ -46,6 +36,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
         "team1Title": "WrexhamSheffield United",
         "team2Title": "Wrexham",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-30 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "team1Title": "AtalantaFiorentina",
+        "team2Title": "Atalanta",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
