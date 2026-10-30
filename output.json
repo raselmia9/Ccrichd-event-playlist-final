@@ -10,46 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-29 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team1Title": "Frosinone CalcioLecce",
-        "team2Title": "Frosinone Calcio",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-30 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team1Title": "Newcastle UnitedEverton",
-        "team2Title": "Newcastle United",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-31 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "team1Title": "WrexhamSheffield United",
-        "team2Title": "Wrexham",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-30 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "team1Title": "AtalantaFiorentina",
-        "team2Title": "Atalanta",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-30 06:15:00",
         "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
@@ -306,6 +266,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "team1Title": "FC BarcelonaDeportivo Alavés",
         "team2Title": "FC Barcelona",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-31 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
+        "team1Title": "WrexhamSheffield United",
+        "team2Title": "Wrexham",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
