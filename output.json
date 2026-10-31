@@ -20,26 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-31 00:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
-        "team1Title": "PSGLe Havre",
-        "team2Title": "PSG",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-31 02:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team1Title": "LensLille",
-        "team2Title": "Lens",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-10-31 00:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -70,46 +50,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "team1Title": "Newcastle FalconsSaracens",
-        "team2Title": "Newcastle Falcons",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "team1Title": "Exeter ChiefsHarlequins",
-        "team2Title": "Exeter Chiefs",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 21:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team1Title": "Sale SharksBath Rugby",
-        "team2Title": "Sale Sharks",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-        "team1Title": "Northampton SaintsGloucester Rugby",
-        "team2Title": "Northampton Saints",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-31 01:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
@@ -130,66 +70,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 18:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "team1Title": "UlsterStormers",
-        "team2Title": "Ulster",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "team1Title": "BullsScarlets",
-        "team2Title": "Bulls",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
-        "team1Title": "EdinburghBenetton",
-        "team2Title": "Edinburgh",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "team1Title": "The SharksMunster",
-        "team2Title": "The Sharks",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "team1Title": "DragonsZebre",
-        "team2Title": "Dragons",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-11-01 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
-        "team1Title": "Cardiff BluesOspreys",
-        "team2Title": "Cardiff Blues",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-31 02:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
@@ -200,52 +80,22 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 19:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team1Title": "Atlético MadridLevante",
-        "team2Title": "Atlético Madrid",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 21:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team1Title": "Celta de VigoRayo Vallecano",
-        "team2Title": "Celta de Vigo",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team1Title": "Real BetisMálaga",
-        "team2Title": "Real Betis",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team1Title": "FC BarcelonaDeportivo Alavés",
-        "team2Title": "FC Barcelona",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-31 02:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
         "team1Title": "WrexhamSheffield United",
         "team2Title": "Wrexham",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-31 02:05:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "team1Title": "LensLille",
+        "team2Title": "Lens",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -326,6 +176,146 @@
         "team2Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team1Title": "Aston VillaFulham",
         "team2Title": "Aston Villa",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 18:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "team1Title": "UlsterStormers",
+        "team2Title": "Ulster",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "team1Title": "BullsScarlets",
+        "team2Title": "Bulls",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "team1Title": "EdinburghBenetton",
+        "team2Title": "Edinburgh",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "team1Title": "The SharksMunster",
+        "team2Title": "The Sharks",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "team1Title": "DragonsZebre",
+        "team2Title": "Dragons",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-11-01 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+        "team1Title": "Cardiff BluesOspreys",
+        "team2Title": "Cardiff Blues",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 19:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team1Title": "Atlético MadridLevante",
+        "team2Title": "Atlético Madrid",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 21:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "team1Title": "Celta de VigoRayo Vallecano",
+        "team2Title": "Celta de Vigo",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1Title": "Real BetisMálaga",
+        "team2Title": "Real Betis",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team1Title": "FC BarcelonaDeportivo Alavés",
+        "team2Title": "FC Barcelona",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "team1Title": "Newcastle FalconsSaracens",
+        "team2Title": "Newcastle Falcons",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "team1Title": "Exeter ChiefsHarlequins",
+        "team2Title": "Exeter Chiefs",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 21:05:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team1Title": "Sale SharksBath Rugby",
+        "team2Title": "Sale Sharks",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "team1Title": "Northampton SaintsGloucester Rugby",
+        "team2Title": "Northampton Saints",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
