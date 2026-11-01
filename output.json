@@ -1,5 +1,15 @@
 [
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team1Title": "FC BarcelonaDeportivo Alavés",
+        "team2Title": "FC Barcelona",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-29 08:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -30,56 +40,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 21:05:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team1Title": "Sale SharksBath Rugby",
-        "team2Title": "Sale Sharks",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 21:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team1Title": "Celta de VigoRayo Vallecano",
-        "team2Title": "Celta de Vigo",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-31 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1Title": "AS RomaUdinese",
-        "team2Title": "AS Roma",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "team1Title": "The SharksMunster",
-        "team2Title": "The Sharks",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "team1Title": "DragonsZebre",
-        "team2Title": "Dragons",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-11-01 01:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
@@ -90,12 +50,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team1Title": "Tottenham HotspurCrystal Palace",
-        "team2Title": "Tottenham Hotspur",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team1Title": "AC MilanInter Milan",
+        "team2Title": "AC Milan",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -110,32 +70,52 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-01 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team1Title": "Arsenal",
-        "team2Title": "Team 2",
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-01 02:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "team1Title": "PortoEstoril",
+        "team2Title": "Porto",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team1Title": "Real BetisMálaga",
-        "team2Title": "Real Betis",
+        "eventTitle": "UFC",
+        "matchTime": "2026-11-01 04:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1Title": "Renato MoicanoTom Nolan",
+        "team2Title": "Renato Moicano",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team1Title": "FC BarcelonaDeportivo Alavés",
-        "team2Title": "FC Barcelona",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 17:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team1Title": "ComoVenezia",
+        "team2Title": "Como",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "team1Title": "LecceGenoa",
+        "team2Title": "Lecce",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-02 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team1Title": "NapoliJuventus",
+        "team2Title": "Napoli",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -180,92 +160,22 @@
         "isHot": true
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team1Title": "Bayern MünchenBorussia Dortmund",
-        "team2Title": "Bayern München",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-        "team1Title": "Northampton SaintsGloucester Rugby",
-        "team2Title": "Northampton Saints",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team1Title": "AC MilanInter Milan",
-        "team2Title": "AC Milan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 17:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "team1Title": "ComoVenezia",
-        "team2Title": "Como",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team1Title": "LecceGenoa",
-        "team2Title": "Lecce",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-02 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team1Title": "NapoliJuventus",
-        "team2Title": "Napoli",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-01 02:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
-        "team1Title": "PortoEstoril",
-        "team2Title": "Porto",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "UFC",
-        "matchTime": "2026-11-01 04:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1Title": "Renato MoicanoTom Nolan",
-        "team2Title": "Renato Moicano",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-11-01 20:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/blackpool/logo.webp",
         "team1Title": "Sheffield WednesdayBlackpool",
         "team2Title": "Sheffield Wednesday",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-01 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team1Title": "Arsenal",
+        "team2Title": "Team 2",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
