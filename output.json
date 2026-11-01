@@ -30,16 +30,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-11-01 04:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1Title": "Renato MoicanoTom Nolan",
-        "team2Title": "Renato Moicano",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-01 17:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
