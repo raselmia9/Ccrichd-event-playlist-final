@@ -10,16 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "MotoGP",
-        "matchTime": "2026-10-30 07:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team1Title": "MotoGP Malaysian Grand PrixMotoGP",
-        "team2Title": "MotoGP Malaysian Grand Prix",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-10-31 00:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -30,12 +20,32 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 17:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "team1Title": "ComoVenezia",
-        "team2Title": "Como",
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 21:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team1Title": "Real MadridRacing Santander",
+        "team2Title": "Real Madrid",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-01 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team1Title": "Arsenal",
+        "team2Title": "Team 2",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-03 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team1Title": "Newcastle UnitedEverton",
+        "team2Title": "Newcastle United",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -60,22 +70,22 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 19:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team1Title": "GetafeSevilla",
-        "team2Title": "Getafe",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-02 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "team1Title": "SassuoloFiorentina",
+        "team2Title": "Sassuolo",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 21:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team1Title": "Real MadridRacing Santander",
-        "team2Title": "Real Madrid",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-03 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team1Title": "AtalantaParma",
+        "team2Title": "Atalanta",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -100,22 +110,62 @@
         "isHot": true
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-11-01 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/blackpool/logo.webp",
-        "team1Title": "Sheffield WednesdayBlackpool",
-        "team2Title": "Sheffield Wednesday",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team1Title": "OsasunaDeportivo La Coruña",
+        "team2Title": "Osasuna",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-01 22:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team1Title": "Arsenal",
-        "team2Title": "Team 2",
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-03 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/lorient/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+        "team1Title": "LorientBrest",
+        "team2Title": "Lorient",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-03 02:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
+        "team1Title": "BenficaAlverca",
+        "team2Title": "Benfica",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-03 02:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/gil-vicente/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/vitoria-guimaraes/logo.webp",
+        "team1Title": "Gil VicenteVitória Guimarães",
+        "team2Title": "Gil Vicente",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-03 23:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
+        "team1Title": "Sporting CPShakhtar Donetsk",
+        "team2Title": "Sporting CP",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-03 23:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "team1Title": "StuttgartGalatasaray",
+        "team2Title": "Stuttgart",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
