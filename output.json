@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-29 08:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1Title": "PGA / LPGA GolfPGA Tour",
-        "team2Title": "PGA / LPGA Golf",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-11-02 12:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
@@ -50,8 +40,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-03 02:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
         "team1Title": "OsasunaDeportivo La Coruña",
