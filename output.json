@@ -10,72 +10,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-02 23:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "team1Title": "SassuoloFiorentina",
-        "team2Title": "Sassuolo",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-03 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team1Title": "AtalantaParma",
-        "team2Title": "Atalanta",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-03 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lorient/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "team1Title": "LorientBrest",
-        "team2Title": "Lorient",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-03 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "team1Title": "OsasunaDeportivo La Coruña",
-        "team2Title": "Osasuna",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-03 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team1Title": "Newcastle UnitedEverton",
-        "team2Title": "Newcastle United",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-03 02:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
-        "team1Title": "BenficaAlverca",
-        "team2Title": "Benfica",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-03 02:15:00",
-        "team1Logo": "https://cdn.img4every1.org/team/gil-vicente/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/vitoria-guimaraes/logo.webp",
-        "team1Title": "Gil VicenteVitória Guimarães",
-        "team2Title": "Gil Vicente",
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-03 07:15:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "team1Title": "Chicago BearsSeattle Seahawks",
+        "team2Title": "Chicago Bears",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
