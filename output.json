@@ -10,92 +10,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-03 23:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
-        "team1Title": "Sporting CPShakhtar Donetsk",
-        "team2Title": "Sporting CP",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-03 23:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
-        "team1Title": "StuttgartGalatasaray",
-        "team2Title": "Stuttgart",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-04 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1Title": "FC BarcelonaAston Villa",
-        "team2Title": "FC Barcelona",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-04 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team1Title": "AS RomaManchester United",
-        "team2Title": "AS Roma",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-04 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1Title": "PSGVillarreal",
-        "team2Title": "PSG",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-04 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team1Title": "Bayern MünchenAtlético Madrid",
-        "team2Title": "Bayern München",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-04 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
-        "team1Title": "LASKSlovan Bratislava",
-        "team2Title": "LASK",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-04 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
-        "team1Title": "LilleFK Bodo Glimt",
-        "team2Title": "Lille",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-04 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
-        "team1Title": "Inter MilanFeyenoord",
-        "team2Title": "Inter Milan",
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-04 21:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
+        "team1Title": "RennesOlympiakos Piraeus",
+        "team2Title": "Rennes",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -110,12 +30,72 @@
         "isHot": true
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-11-04 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
-        "team1Title": "SouthamptonWest Bromwich Albion",
-        "team2Title": "Southampton",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 23:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team1Title": "Fenerbahçe",
+        "team2Title": "Team 2",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team1Title": "Manchester CityRB Leipzig",
+        "team2Title": "Manchester City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team1Title": "NapoliPorto",
+        "team2Title": "Napoli",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team1Title": "Borussia DortmundReal Betis",
+        "team2Title": "Borussia Dortmund",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team1Title": "ComoLens",
+        "team2Title": "Como",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
+        "team1Title": "PSVClub Brugge",
+        "team2Title": "PSV",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
+        "team1Title": "VikingSabah Baku",
+        "team2Title": "Viking",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -126,16 +106,6 @@
         "team2Logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
         "team1Title": "Wolverhampton WanderersBristol City",
         "team2Title": "Wolverhampton Wanderers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-04 21:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-        "team1Title": "RennesOlympiakos Piraeus",
-        "team2Title": "Rennes",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
