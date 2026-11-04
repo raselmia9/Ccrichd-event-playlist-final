@@ -90,6 +90,26 @@
         "isHot": true
     },
     {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
+        "team1Title": "Inter MilanFeyenoord",
+        "team2Title": "Inter Milan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 23:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "team1Title": "Real MadridAEK Athens",
+        "team2Title": "Real Madrid",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-11-04 02:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
