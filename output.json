@@ -20,42 +20,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
-        "team1Title": "AC MilanFerencváros",
-        "team2Title": "AC Milan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sparta-praha/logo.webp",
-        "team1Title": "AFC BournemouthSparta Praha",
-        "team2Title": "AFC Bournemouth",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team1Title": "Crystal PalaceHoffenheim",
-        "team2Title": "Crystal Palace",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team1Title": "Real SociedadOlympique Lyonnais",
-        "team2Title": "Real Sociedad",
+        "eventTitle": "Conference League",
+        "matchTime": "2026-11-06 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team1Title": "Brighton & Hove AlbionGetafe",
+        "team2Title": "Brighton & Hove Albion",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -100,26 +70,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Conference League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-thun/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
-        "team1Title": "FC ThunHearts",
-        "team2Title": "FC Thun",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Conference League",
-        "matchTime": "2026-11-06 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team1Title": "Brighton & Hove AlbionGetafe",
-        "team2Title": "Brighton & Hove Albion",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-11-06 16:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -160,6 +110,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-07 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+        "team1Title": "StuttgartWerder Bremen",
+        "team2Title": "Stuttgart",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-11-07 01:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
@@ -186,6 +146,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
         "team1Title": "Oxford CityLeicester City",
         "team2Title": "Oxford City",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FA Cup",
+        "matchTime": "2026-11-07 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/altrincham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
+        "team1Title": "AltrinchamNotts County",
+        "team2Title": "Altrincham",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -230,12 +200,32 @@
         "isHot": true
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-07 22:40:00",
+        "team1Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team1Title": "JapanWales",
+        "team2Title": "Japan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-07 01:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "team1Title": "VeneziaUdinese",
         "team2Title": "Venezia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-07 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team1Title": "ParmaBologna",
+        "team2Title": "Parma",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -316,6 +306,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "team1Title": "FulhamNewcastle United",
         "team2Title": "Fulham",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-07 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team1Title": "Manchester CityNottingham Forest",
+        "team2Title": "Manchester City",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
