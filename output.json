@@ -20,56 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Conference League",
-        "matchTime": "2026-11-06 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team1Title": "Brighton & Hove AlbionGetafe",
-        "team2Title": "Brighton & Hove Albion",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-06 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
-        "team1Title": "SunderlandDinamo Zagreb",
-        "team2Title": "Sunderland",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-06 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/az-alkmaar/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team1Title": "AZ AlkmaarJuventus",
-        "team2Title": "AZ Alkmaar",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-06 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "team1Title": "Bayer LeverkusenOlympique Marseille",
-        "team2Title": "Bayer Leverkusen",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-06 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
-        "team1Title": "CelticBesiktas",
-        "team2Title": "Celtic",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-11-06 16:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -140,6 +90,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-08 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "team1Title": "PSGTroyes",
+        "team2Title": "PSG",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "FA Cup",
         "matchTime": "2026-11-07 01:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/oxford-city/logo.webp",
@@ -156,6 +116,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
         "team1Title": "AltrinchamNotts County",
         "team2Title": "Altrincham",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FA Cup",
+        "matchTime": "2026-11-08 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "team1Title": "Peterborough UnitedReading",
+        "team2Title": "Peterborough United",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -230,6 +200,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-08 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team1Title": "AS RomaSassuolo",
+        "team2Title": "AS Roma",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-11-07 01:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
@@ -266,6 +246,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
         "team1Title": "EspanyolDeportivo La Coruña",
         "team2Title": "Espanyol",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-07 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1Title": "OsasunaAthletic Club",
+        "team2Title": "Osasuna",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -386,6 +376,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/academico-viseu/logo.webp",
         "team1Title": "Nacional de MadeiraAcademico Viseu",
         "team2Title": "Nacional de Madeira",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-08 00:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/casa-pia/logo.webp",
+        "team1Title": "AlvercaCasa Pia",
+        "team2Title": "Alverca",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
