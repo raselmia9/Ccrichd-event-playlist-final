@@ -40,122 +40,22 @@
         "isHot": true
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-07 01:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
-        "team1Title": "Hamburger SVBorussia M'gladbach",
-        "team2Title": "Hamburger SV",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-07 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "team1Title": "ToulouseStrasbourg",
-        "team2Title": "Toulouse",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FA Cup",
-        "matchTime": "2026-11-07 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/oxford-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
-        "team1Title": "Oxford CityLeicester City",
-        "team2Title": "Oxford City",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team1Title": "EnglandArgentina",
-        "team2Title": "England",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-07 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1Title": "VeneziaUdinese",
-        "team2Title": "Venezia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-11-07 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team1Title": "Leicester TigersNorthampton Saints",
-        "team2Title": "Leicester Tigers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-07 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team1Title": "SevillaDeportivo Alavés",
-        "team2Title": "Sevilla",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-07 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team1Title": "Coventry CityEverton",
-        "team2Title": "Coventry City",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-11-07 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/derby-county/logo.webp",
-        "team1Title": "Bolton WanderersDerby County",
-        "team2Title": "Bolton Wanderers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 02:10:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team1Title": "IrelandArgentina",
-        "team2Title": "Ireland",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-07 02:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/famalicao/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
-        "team1Title": "FamalicãoArouca",
-        "team2Title": "Famalicão",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-11-07 15:05:00",
         "team1Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/tonga/logo.webp",
         "team1Title": "New ZealandTonga",
         "team2Title": "New Zealand",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-11-08 15:05:00",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "team1Title": "AustraliaSamoa",
+        "team2Title": "Australia",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -186,6 +86,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "team1Title": "JapanWales",
         "team2Title": "Japan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 02:10:00",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team1Title": "FranceFiji",
+        "team2Title": "France",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 21:10:00",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team1Title": "EnglandAustralia",
+        "team2Title": "England",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -300,6 +220,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-08 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team1Title": "Real MadridValencia",
+        "team2Title": "Real Madrid",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-11-07 20:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
@@ -336,6 +266,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/casa-pia/logo.webp",
         "team1Title": "AlvercaCasa Pia",
         "team2Title": "Alverca",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-08 02:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
+        "team1Title": "Sporting CPMoreirense",
+        "team2Title": "Sporting CP",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
