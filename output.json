@@ -30,16 +30,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-08 02:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "team1Title": "Sporting CPMoreirense",
-        "team2Title": "Sporting CP",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-11-08 15:05:00",
         "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
