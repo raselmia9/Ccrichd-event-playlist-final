@@ -1,7 +1,7 @@
 [
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-11-05 08:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1Title": "PGA / LPGA GolfPGA Tour",
@@ -10,58 +10,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-11-06 21:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team1Title": "F1 Brazilian Grand PrixFormula 1",
-        "team2Title": "F1 Brazilian Grand Prix",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-09 00:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "team1Title": "HoffenheimSchalke 04",
-        "team2Title": "Hoffenheim",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-09 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "team1Title": "JuventusFiorentina",
-        "team2Title": "Juventus",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-09 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team1Title": "FC BarcelonaAtlético Madrid",
-        "team2Title": "FC Barcelona",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-09 02:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
-        "team1Title": "BenficaEstrela",
-        "team2Title": "Benfica",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FA Cup",
-        "matchTime": "2026-11-10 01:30:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/berkhamsted/logo.webp",
         "team1Title": "Plymouth ParkwayBerkhamsted",
@@ -70,8 +20,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-12 23:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
         "team1Title": "TurkiyeBelgium",
@@ -80,8 +30,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-12 23:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
         "team1Title": "ArmeniaCyprus",
@@ -90,8 +40,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
         "team1Title": "EnglandCroatia",
@@ -100,8 +50,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
         "team1Title": "LatviaMontenegro",
@@ -110,8 +60,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
         "team1Title": "AlbaniaFinland",
@@ -120,8 +70,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
         "team1Title": "BelarusSan Marino",
@@ -130,8 +80,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
         "team1Title": "SpainCzechia",
@@ -140,8 +90,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "team1Title": "ItalyFrance",
