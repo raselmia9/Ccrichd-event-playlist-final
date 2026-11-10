@@ -10,16 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FA Cup",
-        "matchTime": "2026-11-10 01:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/berkhamsted/logo.webp",
-        "team1Title": "Plymouth ParkwayBerkhamsted",
-        "team2Title": "Plymouth Parkway",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-12 23:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
