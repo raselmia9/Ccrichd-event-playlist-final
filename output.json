@@ -1,7 +1,7 @@
 [
     {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-11-09 18:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1Title": "Snooker Champion of ChampionsSnooker",
@@ -10,8 +10,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-11-12 12:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
         "team1Title": "IndiaNew Zealand",
@@ -20,8 +20,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-12 23:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
         "team1Title": "TurkiyeBelgium",
@@ -30,8 +30,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-12 23:00:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
         "team1Title": "ArmeniaCyprus",
@@ -40,8 +40,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
         "team1Title": "EnglandCroatia",
@@ -50,8 +50,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
         "team1Title": "LatviaMontenegro",
@@ -60,8 +60,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
         "team1Title": "AlbaniaFinland",
@@ -70,8 +70,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
         "team1Title": "BelarusSan Marino",
@@ -80,8 +80,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
         "team1Title": "SpainCzechia",
@@ -90,8 +90,8 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
+        "eventTitle": "Live Sports",
+        "matchTime": "N/A",
         "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "team1Title": "ItalyFrance",
