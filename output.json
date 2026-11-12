@@ -10,16 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-11-12 12:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team1Title": "IndiaNew Zealand",
-        "team2Title": "India",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-12 23:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
