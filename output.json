@@ -11,16 +11,6 @@
     },
     {
         "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "team1Title": "KazakhstanMoldova",
-        "team2Title": "Kazakhstan",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
         "matchTime": "2026-11-14 01:45:00",
         "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
@@ -86,6 +76,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
         "team1Title": "WalesNorway",
         "team2Title": "Wales",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-14 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "team1Title": "HungaryGeorgia",
+        "team2Title": "Hungary",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
