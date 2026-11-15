@@ -20,16 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1Title": "Ciryl GaneJosh Hokit",
-        "team2Title": "Ciryl Gane",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-15 20:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
