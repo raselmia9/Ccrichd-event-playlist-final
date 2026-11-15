@@ -20,22 +20,32 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-15 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "team1Title": "MontenegroCyprus",
-        "team2Title": "Montenegro",
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-15 20:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team1Title": "Detroit LionsNew England Patriots",
+        "team2Title": "Detroit Lions",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-15 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team1Title": "ArmeniaLatvia",
-        "team2Title": "Armenia",
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-15 21:10:00",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team1Title": "AustraliaScotland",
+        "team2Title": "Australia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-11-15 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "team1Title": "ArsenalLondon City Lionesses",
+        "team2Title": "Arsenal",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -100,12 +110,42 @@
         "isHot": true
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-15 21:10:00",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "team1Title": "AustraliaScotland",
-        "team2Title": "Australia",
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-16 00:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "team1Title": "Kansas City ChiefsAtlanta Falcons",
+        "team2Title": "Kansas City Chiefs",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-16 00:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
+        "team1Title": "Minnesota VikingsGreen Bay Packers",
+        "team2Title": "Minnesota Vikings",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-16 00:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "team1Title": "Carolina PanthersNew Orleans Saints",
+        "team2Title": "Carolina Panthers",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-16 05:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/curacao/logo.webp",
+        "team1Title": "PanamaCuraçao",
+        "team2Title": "Panama",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
