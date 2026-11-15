@@ -20,72 +20,22 @@
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-14 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "team1Title": "WalesNorway",
-        "team2Title": "Wales",
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-15 03:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/haiti/logo.webp",
+        "team1Title": "USAHaiti",
+        "team2Title": "USA",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-14 23:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team1Title": "HungaryGeorgia",
-        "team2Title": "Hungary",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-15 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
-        "team1Title": "IrelandAustria",
-        "team2Title": "Ireland",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-15 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "team1Title": "UkraineNorthern Ireland",
-        "team2Title": "Ukraine",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-15 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "team1Title": "PolandRomania",
-        "team2Title": "Poland",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-15 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "team1Title": "Bosnia and HerzegovinaSweden",
-        "team2Title": "Bosnia and Herzegovina",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-15 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team1Title": "DenmarkPortugal",
-        "team2Title": "Denmark",
+        "eventTitle": "UFC",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1Title": "Ciryl GaneJosh Hokit",
+        "team2Title": "Ciryl Gane",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -120,12 +70,52 @@
         "isHot": true
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-15 02:10:00",
-        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "team1Title": "IrelandFiji",
-        "team2Title": "Ireland",
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-15 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "team1Title": "AlbaniaBelarus",
+        "team2Title": "Albania",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team1Title": "EnglandSpain",
+        "team2Title": "England",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team1Title": "TurkiyeFrance",
+        "team2Title": "Turkiye",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "team1Title": "CzechiaCroatia",
+        "team2Title": "Czechia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "team1Title": "ItalyBelgium",
+        "team2Title": "Italy",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -136,16 +126,6 @@
         "team2Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
         "team1Title": "AustraliaScotland",
         "team2Title": "Australia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "UFC",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1Title": "Ciryl GaneJosh Hokit",
-        "team2Title": "Ciryl Gane",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
