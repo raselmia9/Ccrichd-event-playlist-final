@@ -10,16 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-11-16 07:20:00",
-        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
-        "team1Title": "Pittsburgh SteelersCincinnati Bengals",
-        "team2Title": "Pittsburgh Steelers",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-16 21:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
