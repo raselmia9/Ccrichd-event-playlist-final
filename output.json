@@ -1,131 +1,11 @@
 [
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "team1Title": "EnglandSpain",
-        "team2Title": "England",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-11-09 18:45:00",
-        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team1Title": "Snooker Champion of ChampionsSnooker",
-        "team2Title": "Snooker Champion of Champions",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Darts",
         "matchTime": "2026-11-14 19:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "team1Title": "Grand Slam of DartsDarts",
         "team2Title": "Grand Slam of Darts",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team1Title": "TurkiyeFrance",
-        "team2Title": "Turkiye",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "team1Title": "CzechiaCroatia",
-        "team2Title": "Czechia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "team1Title": "ItalyBelgium",
-        "team2Title": "Italy",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-11-16 03:25:00",
-        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team1Title": "Dallas CowboysSan Francisco 49ers",
-        "team2Title": "Dallas Cowboys",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-16 05:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/curacao/logo.webp",
-        "team1Title": "PanamaCuraçao",
-        "team2Title": "Panama",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/guyana/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/puerto-rico/logo.webp",
-        "team1Title": "GuyanaPuerto Rico",
-        "team2Title": "Guyana",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
-        "team1Title": "Trinidad and TobagoAntigua and Barbuda",
-        "team2Title": "Trinidad and Tobago",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
-        "team1Title": "ArubaMartinique",
-        "team2Title": "Aruba",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 07:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
-        "team1Title": "CanadaGuatemala",
-        "team2Title": "Canada",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-18 01:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
-        "team1Title": "BonaireSaint Kitts and Nevis",
-        "team2Title": "Bonaire",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -216,6 +96,56 @@
         "team2Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
         "team1Title": "ScotlandSwitzerland",
         "team2Title": "Scotland",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-17 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/guyana/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/puerto-rico/logo.webp",
+        "team1Title": "GuyanaPuerto Rico",
+        "team2Title": "Guyana",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
+        "team1Title": "Trinidad and TobagoAntigua and Barbuda",
+        "team2Title": "Trinidad and Tobago",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
+        "team1Title": "ArubaMartinique",
+        "team2Title": "Aruba",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-17 07:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
+        "team1Title": "CanadaGuatemala",
+        "team2Title": "Canada",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-18 01:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
+        "team1Title": "BonaireSaint Kitts and Nevis",
+        "team2Title": "Bonaire",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
