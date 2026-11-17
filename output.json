@@ -11,26 +11,6 @@
     },
     {
         "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 21:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "team1Title": "MoldovaFaroe Islands",
-        "team2Title": "Moldova",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 21:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "team1Title": "SlovakiaKazakhstan",
-        "team2Title": "Slovakia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
         "matchTime": "2026-11-16 23:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
@@ -56,36 +36,6 @@
         "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
         "team1Title": "BulgariaEstonia",
         "team2Title": "Bulgaria",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-17 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
-        "team1Title": "GermanyNetherlands",
-        "team2Title": "Germany",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-17 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
-        "team1Title": "SerbiaGreece",
-        "team2Title": "Serbia",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-17 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
-        "team1Title": "ScotlandSwitzerland",
-        "team2Title": "Scotland",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -140,6 +90,86 @@
         "isHot": true
     },
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+        "team1Title": "GermanyNetherlands",
+        "team2Title": "Germany",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
+        "team1Title": "SerbiaGreece",
+        "team2Title": "Serbia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "team1Title": "ScotlandSwitzerland",
+        "team2Title": "Scotland",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
+        "team1Title": "SloveniaNorth Macedonia",
+        "team2Title": "Slovenia",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/malta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/gibraltar/logo.webp",
+        "team1Title": "MaltaGibraltar",
+        "team2Title": "Malta",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team1Title": "PortugalWales",
+        "team2Title": "Portugal",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+        "team1Title": "NorwayDenmark",
+        "team2Title": "Norway",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+        "team1Title": "IrelandKosovo",
+        "team2Title": "Ireland",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-11-17 16:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
@@ -176,6 +206,46 @@
         "team2Logo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
         "team1Title": "ArgentinaCosta Rica",
         "team2Title": "Argentina",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "SAFF Championship",
+        "matchTime": "2026-11-17 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team1Title": "PakistanIndia",
+        "team2Title": "Pakistan",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-21 01:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "team1Title": "Bayern MünchenKöln",
+        "team2Title": "Bayern München",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-21 01:45:00",
+        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
+        "team1Title": "TroyesLe Havre",
+        "team2Title": "Troyes",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-21 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1Title": "EspanyolAthletic Club",
+        "team2Title": "Espanyol",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
