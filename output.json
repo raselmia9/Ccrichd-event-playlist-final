@@ -10,22 +10,22 @@
         "isHot": true
     },
     {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 07:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
-        "team1Title": "CanadaGuatemala",
-        "team2Title": "Canada",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Friendly",
         "matchTime": "2026-11-17 16:00:00",
         "team1Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
         "team1Title": "BrazilSingapore",
         "team2Title": "Brazil",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "SAFF Championship",
+        "matchTime": "2026-11-17 20:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team1Title": "PakistanIndia",
+        "team2Title": "Pakistan",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -56,16 +56,6 @@
         "team2Logo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
         "team1Title": "ArgentinaCosta Rica",
         "team2Title": "Argentina",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "SAFF Championship",
-        "matchTime": "2026-11-17 20:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team1Title": "PakistanIndia",
-        "team2Title": "Pakistan",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
