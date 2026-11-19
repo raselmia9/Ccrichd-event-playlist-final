@@ -20,6 +20,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-11-19 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team1Title": "ChelseaPSG",
+        "team2Title": "Chelsea",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-11-21 01:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
