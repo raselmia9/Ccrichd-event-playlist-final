@@ -10,36 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-11-19 23:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
-        "team1Title": "Bayern MünchenAustria Wien",
-        "team2Title": "Bayern München",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-11-20 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team1Title": "ArsenalOlympique Lyonnais",
-        "team2Title": "Arsenal",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-11-20 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/servette-chenois/logo.webp",
-        "team1Title": "FC BarcelonaServette Chênois",
-        "team2Title": "FC Barcelona",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-11-20 05:00:00",
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -86,6 +56,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
         "team1Title": "AugsburgMainz 05",
         "team2Title": "Augsburg",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-22 22:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+        "team1Title": "Werder BremenHamburger SV",
+        "team2Title": "Werder Bremen",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -176,6 +156,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team1Title": "Racing SantanderReal Sociedad",
         "team2Title": "Racing Santander",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-22 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1Title": "OsasunaMálaga",
+        "team2Title": "Osasuna",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
@@ -396,6 +386,16 @@
         "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "team1Title": "GenoaSassuolo",
         "team2Title": "Genoa",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-22 23:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "team1Title": "AC MilanFrosinone Calcio",
+        "team2Title": "AC Milan",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     }
