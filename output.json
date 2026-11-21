@@ -30,66 +30,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-21 01:30:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "team1Title": "Bayern MünchenKöln",
-        "team2Title": "Bayern München",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-11-21 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team1Title": "Bath RugbyBristol Bears",
-        "team2Title": "Bath Rugby",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-21 01:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
-        "team1Title": "TroyesLe Havre",
-        "team2Title": "Troyes",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-21 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1Title": "EspanyolAthletic Club",
-        "team2Title": "Espanyol",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "League One",
-        "matchTime": "2026-11-21 02:00:00",
-        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
-        "team1Title": "BarnsleySheffield Wednesday",
-        "team2Title": "Barnsley",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Taca de Portugal",
-        "matchTime": "2026-11-21 02:45:00",
-        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/paredes/logo.webp",
-        "team1Title": "PortoParedes",
-        "team2Title": "Porto",
-        "streamLink": "Stream links will be activated before 1 hr.",
-        "isHot": true
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-11-21 18:30:00",
         "team1Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
@@ -276,6 +216,26 @@
         "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team1Title": "Racing SantanderReal Sociedad",
         "team2Title": "Racing Santander",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-22 23:30:00",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1Title": "OsasunaMálaga",
+        "team2Title": "Osasuna",
+        "streamLink": "Stream links will be activated before 1 hr.",
+        "isHot": true
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-23 02:00:00",
+        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team1Title": "Atlético MadridGetafe",
+        "team2Title": "Atlético Madrid",
         "streamLink": "Stream links will be activated before 1 hr.",
         "isHot": true
     },
